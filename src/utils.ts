@@ -108,6 +108,45 @@ function parseState(raw: string, dataset: SourceDataset): PersistedState {
       }),
     );
 
+    // Validate and restore progress: use parsed values if valid, otherwise fallback
+    const restoredProgress = Object.fromEntries(
+      dataset.validPairs.map((pair) => {
+        const incomingProgress = parsed.progress?.[pair];
+        // Check if incomingProgress has the expected shape and non-negative values
+        if (
+          incomingProgress &&
+          typeof incomingProgress.seenCount === "number" &&
+          incomingProgress.seenCount >= 0 &&
+          typeof incomingProgress.correctCount === "number" &&
+          incomingProgress.correctCount >= 0 &&
+          typeof incomingProgress.wrongCount === "number" &&
+          incomingProgress.wrongCount >= 0 &&
+          typeof incomingProgress.currentSessionSeen === "boolean" &&
+          typeof incomingProgress.currentSessionWrongCount === "number" &&
+          incomingProgress.currentSessionWrongCount >= 0 &&
+          typeof incomingProgress.nextAfterGuesses === "number" &&
+          incomingProgress.nextAfterGuesses >= 0
+        ) {
+          // Restore persistent fields but reset session-specific counters on page load
+          return [
+            pair,
+            {
+              ...incomingProgress,
+              currentSessionSeen: false,
+              currentSessionWrongCount: 0,
+            },
+          ];
+        }
+        return [pair, fallback.progress[pair]];
+      }),
+    );
+
+    // Validate and restore globalGuessIndex: use parsed value if valid, otherwise fallback
+    const restoredGlobalGuessIndex =
+      typeof parsed.globalGuessIndex === "number" && parsed.globalGuessIndex >= 0
+        ? parsed.globalGuessIndex
+        : fallback.globalGuessIndex;
+
     return {
       ...fallback,
       activeFilter: isFilterMode(parsed.activeFilter) ? parsed.activeFilter : "all",
@@ -117,7 +156,8 @@ function parseState(raw: string, dataset: SourceDataset): PersistedState {
       lastSetupPair:
         typeof parsed.lastSetupPair === "string" ? parsed.lastSetupPair : null,
       pairs: mergedPairs,
-      progress: fallback.progress,
+      progress: restoredProgress,
+      globalGuessIndex: restoredGlobalGuessIndex,
     };
   } catch {
     return fallback;

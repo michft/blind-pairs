@@ -170,11 +170,10 @@ export default function App() {
     <main className="app-shell">
       <section className="hero">
         <div>
-          <p className="eyebrow">Blind pairs</p>
-          <h1>Own the mapping. Drill the weak spots.</h1>
+          <h1>Blind Pairs</h1>
           <p className="hero-copy">
-            A-X letter pairs, hidden invalids, forced setup before drilling, and
-            guess-count scheduling instead of wall-clock time.
+            Own the mapping. Drill the weak spots. A-X letter pairs with hidden invalids,
+            forced setup before drilling, and guess-count scheduling.
           </p>
         </div>
         <div className="hero-panel">
