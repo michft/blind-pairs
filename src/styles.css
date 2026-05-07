@@ -364,6 +364,7 @@ button:disabled {
 }
 
 .candidate {
+  position: relative;
   display: flex;
   flex-direction: column;
   gap: 2px;
@@ -387,8 +388,23 @@ button:disabled {
 }
 
 .candidate small {
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
   font-size: 0.7rem;
-  color: var(--muted);
+  color: var(--panel-strong);
+  background: var(--ink);
+  padding: 4px 8px;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s ease;
+  z-index: 10;
+}
+
+.candidate:hover small {
+  opacity: 1;
 }
 
 .selection-actions {
