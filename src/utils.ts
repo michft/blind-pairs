@@ -11,6 +11,7 @@ import {
   CORRECT_GAP,
   DEFAULT_REVEAL_DELAY_MS,
   MINIMUM_ASSIGNED_TO_DRILL,
+  PERSISTED_STATE_FILENAME,
   STORAGE_KEY,
   WRONG_GAP,
 } from "./constants";
@@ -81,10 +82,8 @@ export function createInitialState(dataset: SourceDataset): PersistedState {
   };
 }
 
-export function loadState(dataset: SourceDataset): PersistedState {
+function parseState(raw: string, dataset: SourceDataset): PersistedState {
   const fallback = createInitialState(dataset);
-  const raw = localStorage.getItem(STORAGE_KEY);
-  if (!raw) return fallback;
 
   try {
     const parsed = JSON.parse(raw) as Partial<PersistedState>;
@@ -125,8 +124,61 @@ export function loadState(dataset: SourceDataset): PersistedState {
   }
 }
 
-export function saveState(state: PersistedState): void {
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+export function loadState(dataset: SourceDataset): PersistedState {
+  const raw = localStorage.getItem(STORAGE_KEY);
+  if (!raw) return createInitialState(dataset);
+  return parseState(raw, dataset);
+}
+
+async function getStorageDirectory(): Promise<FileSystemDirectoryHandle | null> {
+  const storage = navigator.storage as StorageManager & {
+    getDirectory?: () => Promise<FileSystemDirectoryHandle>;
+  };
+
+  if (typeof storage?.getDirectory !== "function") {
+    return null;
+  }
+
+  try {
+    return await storage.getDirectory();
+  } catch {
+    return null;
+  }
+}
+
+export async function loadPersistedState(dataset: SourceDataset): Promise<PersistedState> {
+  const directory = await getStorageDirectory();
+
+  if (directory) {
+    try {
+      const handle = await directory.getFileHandle(PERSISTED_STATE_FILENAME);
+      const file = await handle.getFile();
+      return parseState(await file.text(), dataset);
+    } catch {
+      // Fall back to localStorage below.
+    }
+  }
+
+  return loadState(dataset);
+}
+
+export async function saveState(state: PersistedState): Promise<void> {
+  const serialized = JSON.stringify(state);
+  localStorage.setItem(STORAGE_KEY, serialized);
+
+  const directory = await getStorageDirectory();
+  if (!directory) return;
+
+  try {
+    const handle = await directory.getFileHandle(PERSISTED_STATE_FILENAME, {
+      create: true,
+    });
+    const writer = await handle.createWritable();
+    await writer.write(serialized);
+    await writer.close();
+  } catch {
+    // localStorage remains the fallback persistence path.
+  }
 }
 
 export function getMergedCandidates(
