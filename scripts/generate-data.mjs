@@ -6,7 +6,10 @@ const dataDir = path.join(rootDir, "data");
 const generatedDir = path.join(dataDir, "generated");
 const rawDir = path.join(dataDir, "raw");
 
-const ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWX".split("");
+// All letters that appear in the data
+const ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+// Letters to include in the displayed pairs (for blind solving)
+const DISPLAY_ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWX".split("");
 const EXCLUDED_PAIRS = new Set([
   "AQ",
   "BM",
@@ -46,8 +49,9 @@ const wikiRaw = await wikiResponse.text();
 await fs.writeFile(path.join(rawDir, "google.csv"), googleCsv);
 await fs.writeFile(path.join(rawDir, "wiki.txt"), wikiRaw);
 
-const validPairs = buildValidPairs();
-const sourceMap = Object.fromEntries(validPairs.map((pair) => [pair, []]));
+// Build sourceMap with all possible pairs
+const allPairs = buildAllPairs();
+const sourceMap = Object.fromEntries(allPairs.map((pair) => [pair, []]));
 
 mergeSourceMap(sourceMap, parseGoogleCandidates(googleCsv), "google");
 mergeSourceMap(sourceMap, parseWikiCandidates(wikiRaw), "wiki");
@@ -61,9 +65,12 @@ for (const file of htmlFiles.filter((f) => f.endsWith(".html"))) {
   mergeSourceMap(sourceMap, parseHtmlCandidates(htmlContent), "google");
 }
 
+// Filter to get valid pairs for display
+const validPairs = buildValidPairs();
+
 const output = {
   generatedAt: new Date().toISOString(),
-  alphabet: ALPHABET,
+  alphabet: DISPLAY_ALPHABET,
   excludedPairs: [...EXCLUDED_PAIRS],
   validPairs,
   sources: sourceMap,
@@ -76,13 +83,27 @@ await fs.writeFile(
 await fs.writeFile(path.join(generatedDir, "google-options.md"), buildMarkdown(sourceMap, "google"));
 await fs.writeFile(path.join(generatedDir, "wiki-options.md"), buildMarkdown(sourceMap, "wiki"));
 
-console.log(`Generated ${validPairs.length} valid pairs`);
+console.log(`Generated ${validPairs.length} valid pairs with ${allPairs.length} total pairs in database`);
 
-function buildValidPairs() {
+function buildAllPairs() {
   const pairs = [];
 
   for (const first of ALPHABET) {
     for (const second of ALPHABET) {
+      const pair = `${first}${second}`;
+      if (first === second) continue;
+      pairs.push(pair);
+    }
+  }
+
+  return pairs;
+}
+
+function buildValidPairs() {
+  const pairs = [];
+
+  for (const first of DISPLAY_ALPHABET) {
+    for (const second of DISPLAY_ALPHABET) {
       const pair = `${first}${second}`;
       if (first === second) continue;
       if (EXCLUDED_PAIRS.has(pair)) continue;
@@ -171,53 +192,67 @@ function parseWikiCandidates(raw) {
 function parseHtmlCandidates(html) {
   const result = {};
 
-  // Extract table headers to find pair columns
-  const headerMatch = html.match(/<thead>.*?<\/thead>/s);
-  if (!headerMatch) return result;
-
-  const headerHtml = headerMatch[0];
-  const pairRegex = /id="0C(\d+)"[^>]*>([A-Z]{2,3}(?:ch|sh|st|th)?)<\/th>/g;
-  const pairColumns = [];
-  let match;
-
-  while ((match = pairRegex.exec(headerHtml)) !== null) {
-    const columnIndex = parseInt(match[1]);
-    const pair = normalizePair(match[2]);
-    if (pair) {
-      pairColumns.push({ pair, columnIndex });
-      result[pair] = [];
-    }
-  }
-
-  if (pairColumns.length === 0) return result;
-
-  // Extract table rows and cells
+  // Extract table rows
   const bodyMatch = html.match(/<tbody>.*?<\/tbody>/s);
   if (!bodyMatch) return result;
 
   const bodyHtml = bodyMatch[0];
   const rows = bodyHtml.split(/<tr[^>]*>/);
 
-  // Skip header row, start from second row
-  for (let rowIndex = 2; rowIndex < rows.length; rowIndex++) {
+  if (rows.length < 2) return result;
+
+  // First data row contains the pair names
+  const firstRowHtml = rows[1];
+  const tdRegex = /<td[^>]*>(.*?)<\/td>/gs;
+  const cells = [];
+  let tdMatch;
+
+  while ((tdMatch = tdRegex.exec(firstRowHtml)) !== null) {
+    cells.push(tdMatch[1]);
+  }
+
+  if (cells.length === 0) return result;
+
+  // Extract pair names from first row
+  const pairColumns = [];
+  for (let i = 0; i < cells.length; i++) {
+    const pairText = cells[i]
+      .replace(/<[^>]*>/g, "")
+      .trim();
+    const pair = normalizePair(pairText);
+    if (pair) {
+      pairColumns.push({ pair, columnIndex: i });
+      result[pair] = [];
+    }
+  }
+
+  if (pairColumns.length === 0) return result;
+
+  // Skip header row (row 2), start from data rows (row 3 onwards)
+  for (let rowIndex = 3; rowIndex < rows.length; rowIndex++) {
     const rowHtml = rows[rowIndex];
-    const cells = rowHtml.split(/<td[^>]*>|<\/td>/);
+    if (!rowHtml.trim()) continue;
+
+    // Extract all td elements in this row
+    const cells = [];
+    const cellRegex = /<td[^>]*>(.*?)<\/td>/gs;
+    let cellMatch;
+    
+    while ((cellMatch = cellRegex.exec(rowHtml)) !== null) {
+      cells.push(cellMatch[1]);
+    }
 
     for (const { pair, columnIndex } of pairColumns) {
-      // Each pair has 3 columns (Person, Verb, Object)
-      for (let i = 0; i < 3; i++) {
-        const cellIndex = columnIndex * 2 + i * 2 + 1;
-        if (cellIndex < cells.length) {
-          const cellContent = cells[cellIndex];
-          // Remove HTML tags and links
-          const text = cellContent
-            .replace(/<[^>]*>/g, "")
-            .replace(/&[a-z]+;/g, "")
-            .trim();
-          const candidate = normalizeCandidate(text);
-          if (candidate) {
-            result[pair].push(candidate);
-          }
+      if (columnIndex < cells.length) {
+        const cellContent = cells[columnIndex];
+        // Remove HTML tags and links
+        const text = cellContent
+          .replace(/<[^>]*>/g, "")
+          .replace(/&[a-z]+;/g, "")
+          .trim();
+        const candidate = normalizeCandidate(text);
+        if (candidate) {
+          result[pair].push(candidate);
         }
       }
     }
@@ -230,7 +265,8 @@ function buildMarkdown(sourceMap, source) {
   const lines = [
     `# ${source} options`,
     "",
-    `Generated from the ${source} source for A-X blind pair setup.`,
+    `Generated from the ${source} source containing all letter pair combinations.`,
+    `For blind pair solving with the cubing community, use pairs from A-X (see pairs.json for valid pairs).`,
     "",
   ];
 

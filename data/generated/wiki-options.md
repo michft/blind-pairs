@@ -1,6 +1,7 @@
 # wiki options
 
-Generated from the wiki source for A-X blind pair setup.
+Generated from the wiki source containing all letter pair combinations.
+For blind pair solving with the cubing community, use pairs from A-X (see pairs.json for valid pairs).
 
 ## AB
 - Ali Baba
@@ -81,6 +82,9 @@ Generated from the wiki source for A-X blind pair setup.
 - Application (Computer Program)
 - APB
 
+## AQ
+- None
+
 ## AR
 - Arrow
 - Art
@@ -113,6 +117,12 @@ Generated from the wiki source for A-X blind pair setup.
 ## AX
 - Axis
 - Axl Rose
+
+## AY
+- None
+
+## AZ
+- None
 
 ## BA
 - Bagel
@@ -202,6 +212,9 @@ Generated from the wiki source for A-X blind pair setup.
 - Big Lebrowski (movie)
 - Blake
 
+## BM
+- None
+
 ## BN
 - Bone
 - Bin
@@ -281,6 +294,12 @@ Generated from the wiki source for A-X blind pair setup.
 - Boxer
 - Box
 
+## BY
+- None
+
+## BZ
+- None
+
 ## CA
 - Camera
 - California
@@ -331,6 +350,9 @@ Generated from the wiki source for A-X blind pair setup.
 - Chair
 - Cher
 - Chuck
+
+## CI
+- None
 
 ## CJ
 - Cujo
@@ -435,6 +457,12 @@ Generated from the wiki source for A-X blind pair setup.
 - Cyoubx
 - Calx (metallic oxide)
 
+## CY
+- None
+
+## CZ
+- None
+
 ## DA
 - Dagger
 - Dark knight
@@ -457,6 +485,9 @@ Generated from the wiki source for A-X blind pair setup.
 - Washington DC
 - Dice
 - David Copperfield
+
+## DE
+- None
 
 ## DF
 - Dafadils
@@ -594,6 +625,12 @@ Generated from the wiki source for A-X blind pair setup.
 - Doxxing
 - Dexter
 
+## DY
+- None
+
+## DZ
+- None
+
 ## EA
 - Eagle
 
@@ -716,6 +753,12 @@ Generated from the wiki source for A-X blind pair setup.
 - Explosion
 - Ex
 
+## EY
+- None
+
+## EZ
+- None
+
 ## FA
 - Fat Albert
 - Field Artillery
@@ -766,6 +809,9 @@ Generated from the wiki source for A-X blind pair setup.
 
 ## FK
 - Fork
+
+## FL
+- None
 
 ## FM
 - Foam
@@ -835,6 +881,12 @@ Generated from the wiki source for A-X blind pair setup.
 
 ## FX
 - Fox
+
+## FY
+- None
+
+## FZ
+- None
 
 ## GA
 - Gargoyle
@@ -966,6 +1018,15 @@ Generated from the wiki source for A-X blind pair setup.
 - Global Xpress
 - Germ-X (Hand Sanitizer)
 
+## GX
+- None
+
+## GY
+- None
+
+## GZ
+- None
+
 ## HA
 - Harp
 - Harpoon
@@ -1052,6 +1113,9 @@ Generated from the wiki source for A-X blind pair setup.
 - Harley Quinn
 - Headquarters
 
+## HR
+- None
+
 ## HS
 - Howard Stern
 - Heather Smith
@@ -1087,6 +1151,12 @@ Generated from the wiki source for A-X blind pair setup.
 - Hummer HX
 - Hacksaw
 - Hexagon
+
+## HY
+- None
+
+## HZ
+- None
 
 ## IA
 - Ian
@@ -1199,6 +1269,12 @@ Generated from the wiki source for A-X blind pair setup.
 - Intoxicated
 - Ice Axe
 
+## IY
+- None
+
+## IZ
+- None
+
 ## JA
 - Ja Permutation
 - Jar
@@ -1278,6 +1354,9 @@ Generated from the wiki source for A-X blind pair setup.
 - John
 - Joe
 
+## JP
+- None
+
 ## JQ
 - Jack's Quest
 - Johnny Quest
@@ -1323,6 +1402,12 @@ Generated from the wiki source for A-X blind pair setup.
 - Jack-in-the-box
 
 ## JX
+- None
+
+## JY
+- None
+
+## JZ
 - None
 
 ## KA
@@ -1422,6 +1507,9 @@ Generated from the wiki source for A-X blind pair setup.
 - Kite
 - Kat
 
+## KU
+- None
+
 ## KV
 - Kevlar
 - Kill vehicle
@@ -1433,6 +1521,12 @@ Generated from the wiki source for A-X blind pair setup.
 
 ## KX
 - KIX Cereal
+
+## KY
+- None
+
+## KZ
+- None
 
 ## LA
 - Lamp
@@ -1565,6 +1659,12 @@ Generated from the wiki source for A-X blind pair setup.
 ## LX
 - Laxative
 - Lexus (Car Brand)
+
+## LY
+- None
+
+## LZ
+- None
 
 ## MA
 - Ma (Whistler's Mother)
@@ -1745,6 +1845,12 @@ Generated from the wiki source for A-X blind pair setup.
 - Maximum
 - Mixer
 
+## MY
+- None
+
+## MZ
+- None
+
 ## NA
 - Naseous
 - Nacho
@@ -1883,6 +1989,9 @@ Generated from the wiki source for A-X blind pair setup.
 - Noose
 - DNS
 
+## NT
+- None
+
 ## NU
 - Nuclear
 - Nut
@@ -1907,6 +2016,12 @@ Generated from the wiki source for A-X blind pair setup.
 - Knicks
 - Nixon (Owen)
 - Nintendo NX
+
+## NY
+- None
+
+## NZ
+- None
 
 ## OA
 - Oatmeal
@@ -2024,6 +2139,9 @@ Generated from the wiki source for A-X blind pair setup.
 - Orangutan
 - Ouija Board
 
+## OV
+- None
+
 ## OW
 - Owl
 - Owen
@@ -2031,6 +2149,12 @@ Generated from the wiki source for A-X blind pair setup.
 ## OX
 - Ox
 - Oxygen
+
+## OY
+- None
+
+## OZ
+- None
 
 ## PA
 - Pam Anderson
@@ -2186,6 +2310,12 @@ Generated from the wiki source for A-X blind pair setup.
 - Pax Romana
 - Pax Prime
 
+## PY
+- None
+
+## PZ
+- None
+
 ## QA
 - Quartz
 - Quail (Bird)
@@ -2308,6 +2438,12 @@ Generated from the wiki source for A-X blind pair setup.
 - Quicksand
 - Quality of Experience
 - QX magazine
+
+## QY
+- None
+
+## QZ
+- None
 
 ## RA
 - Rancor
@@ -2467,6 +2603,12 @@ Generated from the wiki source for A-X blind pair setup.
 - T-Rex
 - Medications, pharmacy
 - Roux
+
+## RY
+- None
+
+## RZ
+- None
 
 ## SA
 - Saw
@@ -2648,10 +2790,19 @@ Generated from the wiki source for A-X blind pair setup.
 - Save
 - Savor
 
+## SW
+- None
+
 ## SX
 - Saxophone
 - Sex
 - Sound Effects (SFX)
+
+## SY
+- None
+
+## SZ
+- None
 
 ## TA
 - Tank
@@ -2823,6 +2974,12 @@ Generated from the wiki source for A-X blind pair setup.
 - Texas
 - Tux
 
+## TY
+- None
+
+## TZ
+- None
+
 ## UA
 - United Airlines
 - Under Armour shirt
@@ -2930,6 +3087,12 @@ Generated from the wiki source for A-X blind pair setup.
 - Tuxedo
 - User Experience
 - Yuxin
+
+## UY
+- None
+
+## UZ
+- None
 
 ## VA
 - Prince Valium (Spaceballs)
@@ -3040,6 +3203,12 @@ Generated from the wiki source for A-X blind pair setup.
 - Vex
 - Vixen
 - Vauxhall
+
+## VY
+- None
+
+## VZ
+- None
 
 ## WA
 - Whale
@@ -3165,6 +3334,12 @@ Generated from the wiki source for A-X blind pair setup.
 ## WX
 - Wax
 - Windex
+
+## WY
+- None
+
+## WZ
+- None
 
 ## XA
 - A-team (Mr. T)
@@ -3294,4 +3469,160 @@ Generated from the wiki source for A-X blind pair setup.
 - Electrocuted Whale
 - Crossword
 - X-Wing (star wars)
+
+## XY
+- None
+
+## XZ
+- None
+
+## YA
+- None
+
+## YB
+- None
+
+## YC
+- None
+
+## YD
+- None
+
+## YE
+- None
+
+## YF
+- None
+
+## YG
+- None
+
+## YH
+- None
+
+## YI
+- None
+
+## YJ
+- None
+
+## YK
+- None
+
+## YL
+- None
+
+## YM
+- None
+
+## YN
+- None
+
+## YO
+- None
+
+## YP
+- None
+
+## YQ
+- None
+
+## YR
+- None
+
+## YS
+- None
+
+## YT
+- None
+
+## YU
+- None
+
+## YV
+- None
+
+## YW
+- None
+
+## YX
+- None
+
+## YZ
+- None
+
+## ZA
+- None
+
+## ZB
+- None
+
+## ZC
+- None
+
+## ZD
+- None
+
+## ZE
+- None
+
+## ZF
+- None
+
+## ZG
+- None
+
+## ZH
+- None
+
+## ZI
+- None
+
+## ZJ
+- None
+
+## ZK
+- None
+
+## ZL
+- None
+
+## ZM
+- None
+
+## ZN
+- None
+
+## ZO
+- None
+
+## ZP
+- None
+
+## ZQ
+- None
+
+## ZR
+- None
+
+## ZS
+- None
+
+## ZT
+- None
+
+## ZU
+- None
+
+## ZV
+- None
+
+## ZW
+- None
+
+## ZX
+- None
+
+## ZY
+- None
 

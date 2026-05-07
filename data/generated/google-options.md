@@ -1,6 +1,7 @@
 # google options
 
-Generated from the google source for A-X blind pair setup.
+Generated from the google source containing all letter pair combinations.
+For blind pair solving with the cubing community, use pairs from A-X (see pairs.json for valid pairs).
 
 ## AB
 - ABBA
@@ -30,24 +31,8 @@ Generated from the google source for A-X blind pair setup.
 - Abed
 - Alec Benjamin
 - Alton Brown
-- Person
-- Verb or Adjective
-- Object
-- AJ
-- Adjust
-- Ajax
-- Angelina Jolie
-- Ajar
-- Agent
-- Age
-- Apple Jacks
-- Adjunct
-- Agitate
-- Adjutant
-- AJR
-- Adjudicate
-- AJ Shabeel
-- Apple Juice
+- Aaah! (screaming)
+- Aerial Ace (Pokemon)
 
 ## AC
 - Aaron Carter
@@ -65,27 +50,9 @@ Generated from the google source for A-X blind pair setup.
 - Acorn
 - Antoine Cantin
 - Acid
-- Verb or Adjective
-- Object
-- Person
-- Adjust
-- Ajax
-- Anna Kendrick
-- Ajar
-- Agent
-- Akbar
-- Age
-- Apple Jacks
-- Akira
-- Agitate
-- Adjutant
-- Anakin (Skywalker)
-- Adjudicate
-- Adjunct
-- Arkham Knight
-- Apple Juice
-- Ash Ketchum
-- Aku
+- AA battery
+- Avro Arrow
+- Aardvark
 
 ## AD
 - Adele
@@ -113,33 +80,18 @@ Generated from the google source for A-X blind pair setup.
 - Admonish
 - Adopt
 - Advertize
-- Object
-- Person
-- Verb or Adjective
-- Ajax
-- Anna Kendrick
-- Acknowledge
-- Agent
-- Akbar
-- AK-47 (shoot with)
-- Apple Jacks
-- Akira
-- Ask
-- Adjutant
-- Anakin (Skywalker)
-- Awake
-- Adjunct
-- Arkham Knight
-- Accelerate
-- Apple Juice
-- Accessorize
-- Ash Ketchum
-- Accolade
-- Aku
-- Accuse
-- Act
-- Activate
-- Acupuncture
+- ABBA
+- Abby
+- Anthony Brooks
+- Abra
+- Abe (Lincoln)
+- All Blacks
+- Alec Baldwin
+- Angry Bird
+- Abbot
+- Abed
+- Alec Benjamin
+- Alton Brown
 
 ## AE
 - Aeon Flux
@@ -160,34 +112,13 @@ Generated from the google source for A-X blind pair setup.
 - Aesthetic
 - Annex
 - Ape
-- Person
-- Verb or Adjective
-- Object
-- Anna Kendrick
-- Acknowledge
-- Ak-47
-- Akbar
-- AK-47 (shoot with)
-- Alaska
-- Akira
-- Ask
-- Akine
-- Anakin (Skywalker)
-- Awake
-- Acne
-- Arkham Knight
-- Accelerate
-- Acrobat
-- Accessorize
-- Ax
-- Ash Ketchum
-- Accolade
-- Arrakis
-- Aku
-- Accuse
-- Act
-- Activate
-- Acupuncture
+- Absorb
+- Abuse
+- Abseil
+- Abolish
+- Abduct
+- Abdicate
+- Abnormal
 
 ## AF
 - Anna Faris
@@ -206,38 +137,14 @@ Generated from the google source for A-X blind pair setup.
 - Affleck
 - Africa
 - ALF
-- Verb or Adjective
-- Object
-- Person
-- Acknowledge
-- Ak-47
-- Abe Lincoln
-- AK-47 (shoot with)
-- Alaska
-- Albert
-- Ask
-- Akine
-- Alakazam
-- Awake
-- Acne
-- Weird Al Yankovic
-- Accelerate
-- Acrobat
-- Alice
-- Accessorize
-- Ax
-- Allison
-- Accolade
-- Arrakis
-- Alex
-- Accuse
-- Alan
-- Act
-- Al
-- Activate
-- Albus
-- Acupuncture
-- Aladdin
+- Abacus
+- Abs
+- Abyss
+- Air Bag
+- Atom Bomb
+- Absinth
+- Alphabet
+- AA Battery
 
 ## AG
 - Ariana Grande
@@ -258,34 +165,12 @@ Generated from the google source for A-X blind pair setup.
 - Al Gore
 - Aang
 - Ali G
-- Object
-- Person
-- Verb or Adjective
-- Ak-47
-- Abe Lincoln
-- Alert
-- Alaska
-- Albert
-- Alight
-- Akine
-- Alakazam
-- Alienate
-- Acne
-- Weird Al Yankovic
-- Align
-- Acrobat
-- Alice
-- Alarm
-- Ax
-- Allison
-- Alchemize
-- Arrakis
-- Alex
-- Alleyoop
-- Alan
-- Al
-- Albus
-- Aladdin
+- Aaron Carter
+- ACDC
+- Flying Ace
+- Alice Cooper
+- Achilles
+- Antoine Cantin
 
 ## AH
 - Alien Hominid
@@ -299,37 +184,10 @@ Generated from the google source for A-X blind pair setup.
 - Air Hockey
 - Athos
 - Aha
-- Person
-- Verb or Adjective
-- Object
-- Abe Lincoln
-- Alert
-- Aluminium
-- Albert
-- Alight
-- Algae
-- Alakazam
-- Alienate
-- Alien
-- Weird Al Yankovic
-- Align
-- Almonds
-- Alice
-- Alarm
-- Alter
-- Allison
-- Alchemize
-- Albatross
-- Alex
-- Alleyoop
-- Album
-- Alan
-- Alfredo
-- Al
-- Alligator
-- Albus
-- Ale
-- Aladdin
+- Accuse
+- Accelerate
+- Ace
+- Access
 
 ## AI
 - A.I
@@ -344,30 +202,12 @@ Generated from the google source for A-X blind pair setup.
 - Anemone
 - Allen Iverson
 - Aikido
-- Verb or Adjective
-- Object
-- Person
-- Alert
-- Aluminium
-- Amy
-- Alight
-- Algae
-- Captain America
-- Alienate
-- Alien
-- Ambrose
-- Align
-- Almonds
-- Amon
-- Alarm
-- Alter
-- Alchemize
-- Albatross
-- Alleyoop
-- Album
-- Alfredo
-- Alligator
-- Ale
+- Ace
+- Air Conditioning
+- Air Craft
+- Apple Cider
+- Acorn
+- Acid
 
 ## AJ
 - AJ
@@ -385,31 +225,14 @@ Generated from the google source for A-X blind pair setup.
 - Adjudicate
 - AJ Shabeel
 - Apple Juice
-- Object
-- Person
-- Verb or Adjective
-- Aluminium
-- Amy
-- Amuse
-- Algae
-- Captain America
-- Amputate
-- Alien
-- Ambrose
-- A.M (Morning)
-- Almonds
-- Amon
-- American
-- Alter
-- Aim
-- Albatross
-- Amaze
-- Album
-- Ambush
-- Alfredo
-- Amplify
-- Alligator
-- Ale
+- Adele
+- Andy
+- Adam
+- Armaldo
+- Adnan
+- (Black)adder
+- American Dragon
+- Anthony Davis
 
 ## AK
 - Anna Kendrick
@@ -437,29 +260,16 @@ Generated from the google source for A-X blind pair setup.
 - Act
 - Activate
 - Acupuncture
-- Person
-- Verb or Adjective
-- Object
-- Amy
-- Amuse
-- Ammo
-- Captain America
-- Amputate
-- Amp
-- Ambrose
-- A.M (Morning)
-- Ambulance
-- Amon
-- American
-- Amber
-- Aim
-- Amulet
-- Amaze
-- America (the US)
-- Ambush
-- America (continents)
-- Amplify
-- AM-GM inequality
+- Add
+- Address
+- Adapt
+- Admit
+- Addicted (to)
+- Administer
+- Admire
+- Admonish
+- Adopt
+- Advertize
 
 ## AL
 - Abe Lincoln
@@ -490,38 +300,13 @@ Generated from the google source for A-X blind pair setup.
 - Albus
 - Ale
 - Aladdin
-- Verb or Adjective
-- Object
-- Person
-- Amuse
-- Ammo
-- Anna Faris
-- Amputate
-- Amp
-- Annie
-- A.M (Morning)
-- Ambulance
-- Anne
-- American
-- Amber
-- Ant
-- Aim
-- Amulet
-- Anne Hathaway
-- Amaze
-- America (the US)
-- Antoine
-- Ambush
-- America (continents)
-- Anakin
-- Amplify
-- AM-GM inequality
-- Antonie
-- Andy
-- Anand
-- Andrew
-- Anson
-- Angel
+- Ad
+- Adder
+- Adult*
+- Adipose
+- Advil
+- Advertisement
+- Add(ition)
 
 ## AM
 - Amy
@@ -544,29 +329,11 @@ Generated from the google source for A-X blind pair setup.
 - America (continents)
 - Amplify
 - AM-GM inequality
-- Object
-- Person
-- Verb or Adjective
-- Anna Faris
-- Annoy
-- Annie
-- Anticipate
-- Anne
-- Ancient
-- Ant
-- Annihilate
-- Anne Hathaway
-- Analyze
-- Antoine
-- Anchor
-- Anakin
-- Animate
-- Antonie
-- Andy
-- Anand
-- Andrew
-- Anson
-- Angel
+- Aeon Flux
+- Aerodactyl
+- The Fonz
+- Albert Einstein
+- Vaedele Egdal
 
 ## AN
 - Anna Faris
@@ -597,9 +364,12 @@ Generated from the google source for A-X blind pair setup.
 - Andrew
 - Anson
 - Angel
-- Person
-- Verb or Adjective
-- Object
+- Aerate
+- Aerial Ace (Pokemon)
+- Aeroblast
+- Anneal
+- Ameliorate
+- Aesthetic
 
 ## AO
 - Ashley Olson
@@ -619,25 +389,12 @@ Generated from the google source for A-X blind pair setup.
 - Australian Open
 - Annoying Orange
 - (doing an) Ao5
-- Verb or Adjective
-- Object
-- Person
-- Annoy
-- Ant
-- Anticipate
-- Anchor
-- Ancient
-- Android
-- Annihilate
-- Antidote
-- Analyze
-- Antique
-- Anchovies
-- Animate
-- Antenna
-- Antler
-- Anvil
-- Antelope
+- After Effects
+- Aerial
+- Aeropostale
+- American Eagle
+- Annex
+- Ape
 
 ## AP
 - Aaron Paul
@@ -660,31 +417,16 @@ Generated from the google source for A-X blind pair setup.
 - Ap class
 - AirPods
 - A Perm
-- Object
-- Person
-- Verb or Adjective
-- Ant
-- Ashley Olson
-- Adopt
-- Anchor
-- Aokiji
-- Adults Only
-- Android
-- Steve Aoki
-- Allocate
-- Antidote
-- Will Tao
-- Anorexic
-- Antique
-- Ao
-- Annotate
-- Anchovies
-- Annoying Orange
-- (doing an) Ao5
-- Antenna
-- Antler
-- Anvil
-- Antelope
+- Anna Faris
+- Aflac
+- African
+- Anna Friel
+- Anne Frank
+- Affleck
+- ALF
+
+## AQ
+- None
 
 ## AR
 - Alan Rickman
@@ -706,27 +448,12 @@ Generated from the google source for A-X blind pair setup.
 - Arkansas
 - Armadillo
 - AR-15
-- Verb or Adjective
-- Object
-- Person
-- Adopt
-- Aorta
-- Aaron Paul
-- Adults Only
-- Aolong
-- Antonie Paterakis
-- Allocate
-- Agent Orange
-- Aipom
-- Anorexic
-- Atom
-- Ape
-- Annotate
-- Australian Open
-- Apu
-- (doing an) Ao5
-- Appa
-- Agent P
+- Afro
+- African
+- Aftershave
+- Artifact
+- Aflac
+- Africa
 
 ## AS
 - Asad
@@ -749,27 +476,14 @@ Generated from the google source for A-X blind pair setup.
 - Astronaut
 - Asa
 - Asami Sato
-- Object
-- Person
-- Verb or Adjective
-- Aorta
-- Aaron Paul
-- Applaud
-- Aolong
-- Antonie Paterakis
-- Apologize
-- Agent Orange
-- Aipom
-- Apply
-- Atom
-- Ape
-- Application
-- Australian Open
-- Apu
-- Apprehend
-- Appa
-- Aprove
-- Agent P
+- Ariana Grande
+- Agravaine
+- Agnes
+- Agatha
+- Agathon
+- Al Gore
+- Aang
+- Ali G
 
 ## AT
 - Anton
@@ -792,29 +506,12 @@ Generated from the google source for A-X blind pair setup.
 - Atari
 - Attract
 - Attaboy
-- Person
-- Verb or Adjective
-- Object
-- Aaron Paul
-- Applaud
-- Apple
-- Antonie Paterakis
-- Apologize
-- Application
-- Aipom
-- Apply
-- Ape
-- Apron
-- Apu
-- Apprehend
-- Advanced Placement (Class)
-- Appa
-- Aprove
-- Apricot
-- Agent P
-- Ap class
-- AirPods
-- A Perm
+- Aging
+- Agony
+- Aggregate
+- Aggravate
+- Agree
+- Silver
 
 ## AU
 - Auctioneer
@@ -831,25 +528,11 @@ Generated from the google source for A-X blind pair setup.
 - Anubis
 - Augment
 - Automatic
-- Verb or Adjective
-- Object
-- Person
-- Applaud
-- Apple
-- Aquaman
-- Apologize
-- Application
-- Archer queen
-- Apply
-- Ape
-- Apron
-- Apprehend
-- Advanced Placement (Class)
-- Aprove
-- Apricot
-- Ap class
-- AirPods
-- A Perm
+- Silver
+- Alligator
+- Agent
+- Agriculture (wheat fields)
+- Aglet
 
 ## AV
 - Avicii
@@ -868,21 +551,12 @@ Generated from the google source for A-X blind pair setup.
 - AV Cables
 - Anvil
 - Avenue
-- Object
-- Person
-- Verb or Adjective
-- Apple
-- Aquaman
-- Acquire
-- Application
-- Archer queen
-- Ape
-- Apron
-- Advanced Placement (Class)
-- Apricot
-- Ap class
-- AirPods
-- A Perm
+- Alien Hominid
+- Ampharos
+- Aneurin Hunt
+- Adolf Hitler
+- Athos
+- Aha
 
 ## AW
 - Amy Winehouse
@@ -900,15 +574,8 @@ Generated from the google source for A-X blind pair setup.
 - Awesome
 - Awning
 - Alan Watts
-- Person
-- Verb or Adjective
-- Object
-- Aquaman
-- Acquire
-- Aquarium
-- Archer queen
-- Aqueduct
-- Aqua
+- Aah! (screaming)
+- Aha!
 
 ## AX
 - Alex
@@ -917,1987 +584,3451 @@ Generated from the google source for A-X blind pair setup.
 - Affix
 - Axew
 - Axolotl
-- Verb or Adjective
-- Object
-- Person
-- Acquire
-- Aquarium
-- Alan Rickman
-- Aqueduct
-- Green Arrow
-- Aqua
-- Arlong
-- Ahri
-- Arr (Pirate)
+- arrow head
+- Air Horn
+- Air Hockey
+
+## AY
+- None
+
+## AZ
+- None
 
 ## BA
-- Verb or Adjective
-- Object
-- Person
-- Arrest
-- Arrow (weapon)
-- Asad
-- Arrange
-- Arrow (⬅)
-- Asaf
-- Arrr
-- Arm
-- Asimov
-- Archive
-- Arcade
-- Aspen
-- Argue
-- Armour
-- Arouse
-- Arkansas
-- Assad
-- Armadillo
-- Assaf
-- AR-15
-- Astronaut
-- Asa
-- Asami Sato
+- Ben Affleck
+- Babe
+- Bryan Adams
+- Barney
+- Bale
+- Baelish
+- Baker
+- Bayleef
 
 ## BC
-- Person
-- Verb or Adjective
-- Object
-- Asad
-- Ascend
-- Acid
-- Asaf
-- Ask
-- Asbestos
-- Asimov
-- Asphyxiate
-- Ash
-- Aspen
-- Assasinate
-- Aspirin
-- Assess
-- Ass
-- Assad
-- Assist
-- Assaf
-- Astronaut
-- Asa
-- Asami Sato
+- Bagel
+- Bachler of Arts
+- Baby
+- Bayonet
+- Base
+- Bay
+- Banana
 
 ## BD
-- Verb or Adjective
-- Object
-- Person
-- Ascend
-- Acid
-- Anton
-- Ask
-- Asbestos
-- Anthony
-- Asphyxiate
-- Ash
-- AT AT
-- Assasinate
-- Aspirin
-- Attenborough
-- Assess
-- Ass
-- Atkinson
-- Assist
-- Atwood
+- Bob
+- Bobby
+- Babe
+- Barbarian
+- Babar
+- Blue Beetle
+- Bugs Bunny
 
 ## BE
-- Object
-- Person
-- Verb or Adjective
-- Acid
-- Anton
-- Attack
-- Asbestos
-- Anthony
-- Altitude
-- Ash
-- AT AT
-- Arm thrust
-- Aspirin
-- Attenborough
-- Atomize
-- Ass
-- Atkinson
-- Attest
-- Atwood
-- Attire
-- Attract
-- Attaboy
+- Bribe
+- Bubble
 
 ## BF
-- Person
-- Verb or Adjective
-- Object
-- Anton
-- Attack
-- ATM
-- Anthony
-- Altitude
-- Athlete
-- AT AT
-- Arm thrust
-- Atlas
-- Attenborough
-- Atomize
-- Atom
-- Atkinson
-- Attest
-- @
-- Atwood
-- Attire
-- Atari
-- Attract
-- Attaboy
+- BB gun
+- Bib
+- Boba Tea
+- Bubble
+- Bulb
+- Basketball
+- Baboon
+- Bobsleigh
 
 ## BG
-- Verb or Adjective
-- Object
-- Person
-- Attack
-- ATM
-- Auctioneer
-- Altitude
-- Athlete
-- Australian
-- Arm thrust
-- Atlas
-- Ad Visser
-- Atomize
-- Atom
-- Austin
-- Attest
-- @
-- Anubis
-- Attire
-- Atari
-- Attract
-- Attaboy
+- Bryan Cranston
+- Bill Cosby
 
 ## BH
-- Object
-- Person
-- Verb or Adjective
-- ATM
-- Auctioneer
-- Autopsy
-- Athlete
-- Australian
-- Auteur
-- Atlas
-- Ad Visser
-- Auction
-- Atom
-- Austin
-- Auto-graph
-- @
-- Anubis
-- Augment
-- Atari
-- Gold
-- Automatic
+- Belch
+- Beached
+- BC
+- Buck
 
 ## BI
-- Person
-- Verb or Adjective
-- Object
-- Auctioneer
-- Autopsy
-- Gold
-- Australian
-- Auteur
-- Australia
-- Ad Visser
-- Auction
-- Analog (car stick)
-- Austin
-- Auto-graph
-- Anubis
-- Augment
-- Automatic
+- Beach
+- Bicep
+- Bitch
+- Bic (pen)
+- Bic (lighter)
+- Biscuit
+- Boston College
+- B.C.
+- Bicycle
+- Bacon
+- Ball-Core
 
 ## BJ
-- Verb or Adjective
-- Object
-- Person
-- Autopsy
-- Gold
-- Avicii
-- Auteur
-- Australia
-- Avatar
-- Auction
-- Analog (car stick)
-- Avril
-- Auto-graph
-- Avengers
-- Augment
-- Asajj Ventress
-- Australian
-- Automatic
+- Brad
+- Bud
 
 ## BK
-- Object
-- Person
-- Verb or Adjective
-- Gold
-- Avicii
-- Avoid
-- Australia
-- Avatar
-- Avenge
-- Analog (car stick)
-- Avril
-- Average
-- Avengers
-- Avalanche
-- Asajj Ventress
-- Advertize
+- Bandage
+- Bad
+- Bid
+- Bead
 
 ## BL
-- Person
-- Verb or Adjective
-- Object
-- Avicii
-- Avoid
-- Automated Vehicle
-- Avatar
-- Avenge
-- Audio Visual
-- Avril
-- Average
-- Avocado
-- Avengers
-- Avalanche
-- Asajj Ventress
-- Advertize
-- AV Cables
-- Anvil
-- Avenue
+- Bed
+- Bud (beer)
+- Bud (flower)
+- Badminton
+- Body
+- Bread
+
+## BM
+- None
 
 ## BN
-- Object
-- Person
-- Verb or Adjective
-- Automated Vehicle
-- Amy Winehouse
-- Awaken
-- Audio Visual
-- Alan Walker
-- Award
-- Avocado
-- Abomasnow
-- Awkward
-- Avatar
-- Adam West
-- Aww
-- AV Cables
-- Alice (in Wonderland)
-- Awesome
-- Anvil
-- Alan Watts
-- Avenue
+- Beat
+- Beep
+- Be
+- Bedazzle
+- Befriend
+- Behead
+- Betray
+- Between
 
 ## BO
-- Person
-- Verb or Adjective
-- Object
-- Amy Winehouse
-- Awaken
-- AW
-- Alan Walker
-- Award
-- Awl
-- Abomasnow
-- Awkward
-- Adam West
-- Aww
-- Awana
-- Alice (in Wonderland)
-- Awesome
-- Awning
-- Alan Watts
+- Bean
+- Bee
+- Bead
+- Beaver
+- Beetle
+- Beaker
+- Beer
 
 ## BP
-- Verb or Adjective
-- Object
-- Person
-- Awaken
-- AW
-- Alex
-- Award
-- Awl
-- Axel
-- Awkward
-- Axew
-- Aww
-- Awana
-- Awesome
-- Awning
+- Biff
+- Buffy
+- Blowfish
+- Bigfoot
+- Boyfriend
+- Best Friend
 
 ## BQ
-- Object
-- Person
-- Verb or Adjective
-- AW
-- Alex
-- Axe
-- Awl
-- Axel
-- Affix
-- Award
-- Axew
-- Awana
-- Awning
+- Blindfold
+- Buff
+- Barf
+- Baffle
+- Befriend
+- Bifurcate
 
 ## BR
-- Person
-- Verb or Adjective
-- Object
-- Alex
-- Axe
-- Axel
-- Affix
-- Axew
-- Axolotl
+- Blindfold
+- Boyfriend
+- Beef
+- Buffer
+- Buffet
+- Buffalo
+- Bonfire
 
 ## BS
-- Verb or Adjective
-- Object
-- Person
-- Axe
-- Jay
-- Affix
-- Axel
-- Kevin Hays
-- Axolotl
-- Ray
+- Bill Gates
+- Bug
+- Boggs
+- Bighetti
+- Borg
+- Brian Griffin
+- Booster Gold
 
 ## BT
-- Object
-- Person
-- Verb or Adjective
-- Axe
-- Jay
-- Pay
-- Axel
-- Kevin Hays
-- Gay
-- Axolotl
-- Ray
-- Aye!
-- Ayyyyy
+- Beg
+- Big
+- Brag
+- Bag
 
 ## BU
-- Person
-- Verb or Adjective
-- Object
-- Jay
-- Pay
-- Hay
-- Kevin Hays
-- Gay
-- Ray
-- Aye!
-- Ayyyyy
+- Bag
+- Bog
+- Bug
+- Baggage
+- Bagpipe
+- Background
+- Bagel
 
 ## BV
-- Verb or Adjective
-- Object
-- Person
-- Pay
-- Hay
-- Aziz Ansari
-- Gay
-- Aztec
-- Aye!
-- Azlan
-- Ayyyyy
-- Azzy
-- Azula
+- Brandon Harnish
+- Brock Hamann
+- Beheeyem
+- Bojack Horseman
+- Beth (Smith)
+- Beth Harmon
+- Beth (Childs)
+- Buddha
 
 ## BW
-- Object
-- Person
-- Verb or Adjective
-- Hay
-- Aziz Ansari
-- Azure
-- Aztec
-- Azlan
-- Azzy
-- Azula
+- Behead
+- Backhand
+- Bah humbug
+- Bathe
+- Bleach
+- Bother
+- Behind
+- Be Happy
 
 ## BX
-- Person
-- Verb or Adjective
-- Object
-- Aziz Ansari
-- Azure
-- Azimuth
-- Aztec
-- Azlan
-- Arizona
-- Azzy
-- Azula
+- Beehive
+- BH method
+- Beach
+- Bishop
+
+## BY
+- None
+
+## BZ
+- None
 
 ## CA
-- Person
-- Verb or Adjective
-- Object
-- Ash
-- Ashy
-- Ashley
-- Ashtray
-- Aschenbrenner
+- Christina Aguilera
+- Cameron
+- Charles Atlas
+- Carla
 
 ## CB
-- Verb or Adjective
-- Object
-- Person
-- Ashy
-- Ash
-- Archer
-- Ashtray
+- Caress
+- Calm
 
 ## CD
-- Person
-- Verb or Adjective
-- Object
-- Archer
-- Achoo
-- Arch
-- Aching
+- Chris Brown
+- Christian Bale
+- Cub
+- Chadwick Boseman
+- Cad Bane
 
 ## CE
-- Verb or Adjective
-- Object
-- Person
-- Achoo
-- Arch
-- Athlete
-- Aching
-- Athena
-- Athos
+- Club
+- Chubby
 
 ## CF
-- Object
-- Person
-- Verb or Adjective
-- Arch
-- Athlete
-- Math(ing?)
-- Athena
-- Athos
+- Cab
+- Cob
+- Crib
+- Cherub
+- Cube
+- Crab
 
 ## CG
-- Person
-- Verb or Adjective
-- Object
-- Athlete
-- Math(ing?)
-- Athena
-- Athanor
-- Athos
-- Math
+- Charlie Chaplin
+- Courtney Cox
+- Commander Cody
 
 ## CH
-- Verb or Adjective
-- Object
-- Person
-- Math(ing?)
-- Athlete
-- Astronaut
-- Athanor
-- Asterix
-- Math
-- Astrid
+- Catch
+
+## CI
+- None
 
 ## CJ
-- Person
-- Verb or Adjective
-- Object
-- Astronaut
-- Cast
-- Asteroid
-- Asterix
-- Astrid
-- Mast
+- Cameron Diaz
+- Chad
+- Charles Dance
+- Cod
+- Count Dracula
 
 ## CK
-- Verb or Adjective
-- Object
-- Cast
-- Asteroid
-- Astronaut
-- Mast
+- Cuddle
+- Code
 
 ## CL
-- Object
-- Asteroid
-- Astronaut
-- Cast
-- Mast
+- CD
+- Card
 
 ## CM
-- None
+- Clint Eastwood
+- Chris Evans
+- Celia
+- Celebi
+- Caesar
 
 ## CN
-- None
+- Celebrate
+- Cede
 
 ## CO
-- None
+- Cereal
+- Cement
+- Cleveland
 
 ## CP
-- None
+- Colin Farrell
+- Colin Firth
+- Carrie Fisher
+- Cyoubx
+- Clefable
+- Calf
 
 ## CQ
-- None
+- Crucify
+- Cough
 
 ## CR
-- None
+- Coffee
+- Coffin
+- Cafe
+- Cross reference
+- Cuff
+- Cyoubx&#39;s Friends
+- Cliff
 
 ## CS
-- None
+- Clark Gregg
+- Che Guevara
+- Chris Griffin
 
 ## CT
-- None
+- Charge
+- Cage
+- Computer Generated
+- Chug
 
 ## CU
-- None
+- Cage
+- Cog
+- Clog
 
 ## CV
-- None
+- Chris Hardwick
+- Crackhead
+- Charmander
+- Chinese
+- Chris Hemsworth
 
 ## CW
-- None
+- Chew
+- Cheer
+- Chinese
 
 ## CX
+- Chocolate
+- Cheese
+- Chalk
+- Christ
+- China
+- Chess
+
+## CY
+- None
+
+## CZ
 - None
 
 ## DA
-- None
+- Darryl
+- District Attorney
+- Dad
+- Daisy
+- Dave
+- Damien
+- Dale
 
 ## DB
-- None
+- Damage
+- Dark
+- Date
 
 ## DC
+- Dagger
+- DeviantArt
+- Day (sun)
+- Daisy
+- Date (fruit)
+
+## DE
 - None
 
 ## DF
-- None
+- Disco Ball
+- Doorbell
+- Dartboard
+- Dashboard
+- Dutch Bros
+- Database
 
 ## DG
-- None
+- Daniel Craig
+- Duck
+- Doc(tor)
 
 ## DH
-- None
+- Dance
+- Dice
+- Disconnect
 
 ## DI
-- None
+- Dice
+- Washington DC
+- Direct Current
 
 ## DJ
-- None
+- Dee dee
+- King Dedede
+- Double D
+- Donald Duck
+- Dad
+- Dudley
+- Diddy
+- Dr Drakken
 
 ## DK
-- None
+- Dead
 
 ## DL
-- None
+- Dud
+- Dad
 
 ## DM
-- None
+- Dee
+- Dee dee
+- Demon
+- Dentist
+- King Dedede
+- Dean
+- Dora the Explorer
 
 ## DN
-- None
+- Deal
+- Deactivate
+- Dead
+- Deep
+- Decompose
+- Decay
 
 ## DO
-- None
+- Dead End (road)
+- Demon
+- Deodorant
+- Deer
+- Denmark
 
 ## DP
-- None
+- Daffy
+- Dolphin
+- Dwarf
+- Duff (man)
+- Daphne
 
 ## DQ
-- None
+- Deflate
+- Different
+- Drift
+- Defeat
+- Deform
+- Defend
+- Defuse
+- Deaf
+- Defrost
+- Defibrillate
 
 ## DR
-- None
+- Duff Beer
+- Duffle bag
+- Daffodil
+- Defibrillator
 
 ## DS
-- None
+- Dog
+- DGcubes
+- Diglett
+- Doug
+- Dugtrio
 
 ## DT
-- None
+- Dig
 
 ## DU
-- None
+- Dagger
+- Degree
+- Dog
 
 ## DV
-- None
+- Dustin Hoffman
+- Designated Hitter
+- Donphan
+- DOH!
+- Death
+- Doc Hudson
+- Dhoni
 
 ## DW
-- None
+- Drench
+- Diehard
+- Dehydrated
+- Duh
+- Downhill
+- Ditch
 
 ## DX
+- Dough
+- Douche
+- Dahl
+- Dog House
+- Dollhouse
+
+## DY
+- None
+
+## DZ
 - None
 
 ## EA
-- None
+- Earl
+- (Amelia) Earhart
+- EA (company)
+- Prince Ea
 
 ## EB
-- None
+- Eat
+- Eager
+- Ear (listen)
 
 ## EC
-- None
+- Eagle
+- Ear
+- Enactment
+- EA game
+- Earth
 
 ## ED
-- None
+- Emily Blunt
+- Ebony
+- Ebenezer
+- Easter Bunny
 
 ## EF
-- None
+- Eyeball
+- Ebola
+- Elbow
+- Ebony
+- EB games
 
 ## EG
-- None
+- Eric Cartman
+- Emily Campbell
+- Electrode
+- Echidna
+- Eric Cantona
 
 ## EH
-- None
+- Eclipse
+- Encode
 
 ## EI
-- None
+- Eclair
+- Extra Credit
+- Electric Chair
+- Election Commission
+- Ectoplasm
 
 ## EJ
-- None
+- Ed
+- Eddy
+- Ender
+- Thomas Edison
+- Enderman
+- Edward
+- Eddie
+- Edwin
+- Ellen Degeneres
+- Edd
 
 ## EK
-- None
+- Edit
+- Edible
+- Endeavor
+- Eavesdrop
+- Educate
+- Erode
+- Evade
 
 ## EL
-- None
+- Erectile Dysfunction
+- Edamame
+- Edifice
+- Edibles
 
 ## EM
-- None
+- Sheep
+- Eel
+- EE Cummings
+- Electric Eel
+- Energizer Bunny
 
 ## EN
-- None
+- Screech
+- Eerie
 
 ## EO
-- None
+- Energizer (bunny)
 
 ## EP
-- None
+- Effy
+- Effie
+- Elephant
+- Elf
+- FBI
 
 ## EQ
-- None
+- Effect
+- Enforce
+- Eco-Friendly
+- Ear-Flap
+- Efflux
 
 ## ER
-- None
+- Egg Face
+- Effigy
+- Eiffel Tower
+- FBI
+- EFron&#39;s dice
 
 ## ES
-- None
+- Ellie Goulding
+- Eggman
+- Eggs
+- Eggsy
+- Egghead
+- Egyptian
 
 ## ET
-- None
+- Egg
+- Engrave
+- Egyptian
 
 ## EU
-- None
+- Egg
+- Egypt
 
 ## EV
-- None
+- Dale Earnhardt
+- Aaron Eckhart
+- Elizabeth
+- Ethel
 
 ## EW
-- None
+- Enhance
+- Ehhh
+- Earth
 
 ## EX
+- Earth
+- Canadian Flag
+- Earhole
+
+## EY
+- None
+
+## EZ
 - None
 
 ## FA
-- None
+- Falco
+- Fay
+- Faber
+- Farah
 
 ## FB
-- None
+- Fake
+- Facade
+- Fail
+- Fade
+- Faint
+- Feign
+- Fat
+- Fart
 
 ## FC
-- None
+- Fabric
+- FA cup
+- Falafel
 
 ## FD
-- None
+- Feebas
+- Flubber
+- Fabiano
+- Fabio
 
 ## FE
-- None
+- Fumble
+- Fabricate
+- Fibrillate
+- Frost-bite
+- Febreeze
+- Fabulous
 
 ## FG
-- None
+- Francis
+- Fat cat
+- Fidel Castro
 
 ## FH
-- None
+- Fancy
+- Fuck
 
 ## FI
-- None
+- Face
+- Football Club
+- Falcon
 
 ## FJ
-- None
+- Fred
+- Elmer Fudd
+- Federer
+- Fiddleford
+- Fidel Castro
 
 ## FK
+- Fade
+- Feed
+- Fiddle
+- Fodder
+- Fad
+
+## FL
 - None
 
 ## FM
-- None
+- Ferret
+- Feliks
+- Felix
+- Fee
+- Iron Man
 
 ## FN
-- None
+- Feed
+- Ferocious
+- Fear
+- Feast
+- Feel
 
 ## FO
-- None
+- Ferris Wheel
+- Iron
+- Fender
+- Field
+- Female bathroom sign
+- Feet
+- Feast
+- Fire Extinguisher
+- Ferrari (Car)
 
 ## FP
-- None
+- Firefighter
+- Phaff
+- Fifflaren
+- Effy
+- Fluffy
 
 ## FQ
-- None
+- Fluffy
+- Fast-Forward
+- Forfeit
 
 ## FR
-- None
+- Fluff
+- Final Fantasy
+- Fifty
+- French Fries
+- Flip flops
 
 ## FS
-- None
+- Forrest Gump
+- Frog
+- Fag
+- Figgis
 
 ## FT
-- None
+- Finger
+- Foggy
+- Fumigate
 
 ## FU
-- None
+- Fog
+- Fudge
+- Flag
+- Fig
+- Fag
+- Figment
+- Figurine
 
 ## FV
-- None
+- Fish
+- Freddie Highmore
+- Father
 
 ## FW
-- None
+- Fishing
+- Forehand
+- Fathom
 
 ## FX
+- Fire Hydrant
+- Fire Helmet
+- Fish
+- Feather
+
+## FY
+- None
+
+## FZ
 - None
 
 ## GA
-- None
+- Georgia
+- Gabe
+- Gale
+- Galen
+- Gates
 
 ## GB
-- None
+- Gaze
+- Gage
+- Game
+- Grade
+- Grate
 
 ## GC
-- None
+- Gargoyle
+- Garage
+- Georgia
+- Gargle
+- Gay Flag
+- Gate
+- &#39;Gator
+- Gatorade
 
 ## GD
-- None
+- Gerald Broflovski
+- Globetrotters
+- Green Bay
+- GenerikB
+- Goblin
+- Gibby
 
 ## GE
-- None
+- Gobble
+- Grab
 
 ## GF
-- None
+- Globe
+- Gobstopper
+- Garbage
+- Golfball
+- Gameboy
+- Goblin
+- Gib
 
 ## GH
-- None
+- Grimace
 
 ## GI
-- None
+- Gamecube
+- Glacier
 
 ## GJ
-- None
+- God
+- Godzilla
+- Gordon
+- Godsil
+- Gideon
 
 ## GK
-- None
+- Guide
+- Giddy
+- Graduate
+- Grade
+- Glide
 
 ## GL
-- None
+- Gourd
+- God
+- Godzilla
+- Goodies
+- Geometry Dash
 
 ## GM
-- None
+- Genie
+- Geodude
+- Geek
+- Gearhead
+- Geelen
 
 ## GN
-- None
+- Generate
+- Gee whiz
+- Guillotine
+- Grease
+- Green
 
 ## GO
-- None
+- Gelato
+- General Electric
+- Geese
+- Geek
+- Gears
 
 ## GP
-- None
+- Geoff
+- Giraffe
+- Garfield
+- Giffany
+- Guy Fawkes
+- Girlfriend
 
 ## GQ
-- None
+- Gifting
+- Gaff
+- Gift
+- Graffiti
+- Golf
 
 ## GR
-- None
+- Gift
+- Golf ball
+- Gaff
+- Goldfish
 
 ## GS
-- None
+- Gengar
+- Gaga
+- Giggs
 
 ## GT
-- None
+- Googling
+- Gag
+- Giggle
 
 ## GU
-- None
+- Goggles
+- Good Game
 
 ## GV
-- None
+- Ghost
+- Ghoul
+- Ghastly
+- Gianfranco Huanqui
+- Gohan
+- Geth
+- Graham
 
 ## GW
+- Ghastly
+- Ghoulish
+- Ghetto
+- Gaaahhh
+- Gather
+- Ghost
+
+## GX
+- None
+
+## GY
+- None
+
+## GZ
 - None
 
 ## HA
-- None
+- Hank
+- Hamlet
+- (Kevin) Hays
+- Haymitch
 
 ## HB
-- None
+- Harvest
+- Hatch
+- Hale
+- Hail
+- Hate
 
 ## HC
-- None
+- Harp
+- Harpoon
+- Hahaha
+- Hay
+- Halo
+- Hat
+- Ham
+- Hamster
 
 ## HD
-- None
+- Halle Berry
+- Hobo
+- Hobbit
+- Hibbert
+- Hobbes
 
 ## HE
-- None
+- Hobble
+- Hard-boil
+- Hibernate
+- Hybridize
 
 ## HF
-- None
+- Hasbro (board games)
+- HB Pencil
+- Hub
+- Hamburger
+- Hobbit
+- Hobby
+- Hubble
 
 ## HG
-- None
+- Hillary Clinton
+- Hacker
 
 ## HI
-- None
+- Hacksaw
+- Hatch
+- Handcuffs
+- Hiccup
+- Hi-C
 
 ## HJ
-- None
+- Hillary Duff
+- (Robin) Hood
+- Hodor
+- Haddock
+- Hadron
+- Harvey Dent
 
 ## HK
-- None
+- Hide
+- Hard
+- Huddle
+- Hydrate
+- Head (soccer)
+- Hood
+- High Definition
 
 ## HL
-- None
+- Head
+- Hood
+- HD TV
+- Headband
+- Headphones
+- Hot dog
 
 ## HM
-- None
+- He-Man
+- Helo
+- Hiro
+- He
 
 ## HN
-- None
+- Heat
+- Hehehe
+- Heal
+- Heel
 
 ## HO
-- None
+- Heroin
+- Helium
+- Hero
+- Helix
 
 ## HP
-- None
+- Hugh Hefner
+- Harrison Ford
+- Hot Fuzz
+- Hofstadter
+- Heffernan
+- Hoffman
 
 ## HQ
+- Huff
+- Hoof
+
+## HR
 - None
 
 ## HS
-- None
+- Hagrid
+- Hag
+- Hog
+- Hermione Granger
 
 ## HT
-- None
+- Hug
+- Hang
+- Haggle
 
 ## HU
-- None
+- Haggis
+- Haagen
+- Hog
+- Hourglass
 
 ## HV
-- None
+- Hank Hill
+- Hedgehog
+- Heather
 
 ## HW
-- None
+- Haha
+- Heehaw
 
 ## HX
+- Hedgehog
+- Hatha
+- Hula hoop
+
+## HY
+- None
+
+## HZ
 - None
 
 ## IA
-- None
+- Iggy Azalea
+- Cameron Diaz
+- Ishaan Agrawal
+- Idi Amin
 
 ## IB
-- None
+- Inactive
+- Impale
 
 ## IC
-- None
+- Diamond
+- Iowa
+- Internal Assessment
+- Enamel
+- CIA
 
 ## ID
-- None
+- Igglybuff
+- Isabella
+- Ibis
+- Ibex
+- Ice Bear
+- Ibrahim
+- Ibrahimovic
 
 ## IE
-- None
+- Inebriated
+- Ebule
+- In Box
+- I Bet
 
 ## IF
-- None
+- Ibuprofen
+- International Baccalaureate
+- Ibis (german)
+- I-book
+- Inbred
+- IBS
+- Information Booklet
+- Iceberg
+- Inbox
 
 ## IG
-- None
+- Icarus
+- iCarly
+- Ice Climbers
 
 ## IH
-- None
+- Icing
+- Icy
 
 ## IJ
-- None
+- Idiot
+- Nidoking
+- Sid
+- Wizard of Id
 
 ## IK
-- None
+- Identify
+- Intra dermal
 
 ## IL
-- None
+- I.D
+- Idiot
 
 ## IM
-- None
+- Indian Elephant
+- Idris Elba
 
 ## IN
-- None
+- Fried
+- Fie
+- Inebriate
 
 ## IO
-- None
+- Internet Explorer
+- Inedible
+- Infinity Edge
 
 ## IP
-- None
+- Isla Fisher
+- Ice Fish
+- Iffy
 
 ## IQ
-- None
+- Infect
+- Inflate
+- Efface
 
 ## IR
-- None
+- Inferno
+- Ice Fog
+- Insertion Finder
+- Eiffel Tower
+- IF Stament (code)
 
 ## IS
-- None
+- Iguana
+- Iggy
+- Igneel
+- Igor
 
 ## IT
-- None
+- Ignite
+- Ignoble
+- Ignore
+- Ingrain
 
 ## IU
-- None
+- Igloo
+- Iguana
+- Instagram
+- Infinity Gauntlet
 
 ## IV
-- None
+- Incredible Hulk
+- Ichigo
+- Ian Huntley
+- Ian Hislop
+- Ishaan
+- Iron Hands
 
 ## IW
-- None
+- Inhale
+- Inch
 
 ## IX
+- International harvester
+- IHOP
+
+## IY
+- None
+
+## IZ
 - None
 
 ## JA
-- None
+- Jessica Alba
+- Jake
+- James
+- Jacob
+- Jaime
 
 ## JB
-- None
+- Jarring/Jarred
+- Jabber
+- Jail
 
 ## JC
-- None
+- Jar
+- Jade
+- Japan
 
 ## JD
-- None
+- Justin Bieber
+- James Bond
+- Jabba the Hutt
+- Jeb Bush
+- Jabari
+- (Steve) Jobs
+- Job
+- Jay B
+- Johnny Bravo
 
 ## JE
-- None
+- Jab
+- Jib
 
 ## JF
-- None
+- Jukebox
+- Jawbone
 
 ## JG
-- None
+- Jackie Chan
+- Jesus Christ
+- Jack Cai
+- Jirachi
+- Jimmy Carr
+- Jessie
+- John Cena
+- Julius Caesar
 
 ## JH
-- None
+- Juicing
+- Juicy
 
 ## JI
-- None
+- Jacket
+- Juice
+- Joy-Con
 
 ## JK
-- None
+- Judge
+- Judder
+- Jade
 
 ## JL
-- None
+- Jack Daniel&#39;s
+- John Deere
+- Jedi
 
 ## JM
-- None
+- Jesus
+- Jellicent
+- Gianfranco
+- Jester
 
 ## JN
-- None
+- Jealous
+- Genie (rub lamp)
 
 ## JO
+- Jelly
+- Jeans
+- Jeep
+- Jesus
+- Genie
+- Jet engine
+
+## JP
 - None
 
 ## JQ
-- None
+- Joyful
+- Jellify
 
 ## JR
-- None
+- Jellyfish
+- Jif
 
 ## JS
-- None
+- Jake Gyllenhaal
+- Juggalo
+- Mick Jagger
+- Jigglypuff
+- Jigsaw
+- Jaguar
+- Jogo
 
 ## JT
-- None
+- Jog
+- Juggle
 
 ## JU
-- None
+- Jug
+- Jig
+- Jigsaw
+- JAguar
 
 ## JV
-- None
+- Jonah Hill
+- Jabba the Hutt
+- Judge
+- Johann Sebastian Bach
+- Jethro
+- Jughead
+- Jimi Hendrix
+- Judy Hopps
+- Jim Halpert
 
 ## JW
-- None
+- Jackhammering
 
 ## JX
+- Jackhammer
+
+## JY
+- None
+
+## JZ
 - None
 
 ## KA
-- None
+- Kakashi
+- Caleb
+- Cale
+- Katie
+- Kane
+- Kaylee
+- Kaa
 
 ## KB
-- None
+- Kayaking
+- Kamikaze
+- Cage
+- Cater
 
 ## KC
-- None
+- Kayak
+- Cable
+- Cage
+- Cake
+- Cane
+- Cape
+- Case
+- Cave
+- Kia
+- Kale
 
 ## KD
-- None
+- Mr Krabbs
+- Krabappel
+- Kabuto
+- RedKB
+- Cobb
+- Kyle Broflovski
+- Kill Bill
 
 ## KE
-- None
+- Crumble
+- Kibble
+- Cobble
 
 ## KF
-- None
+- Keyboard
+- Cable
+- Kebab
+- Cabbage
+- Cabin
+- Cabinet
+- Cob
+- Cub
+- Cupboard
 
 ## KG
-- None
+- Kevin Costner
+- Kevin Costello
+- Ash Ketchum
+- Kecleon
+- KC Chiefs player
 
 ## KH
-- None
+- Kick
+- Knock
+- Karate chop
 
 ## KI
-- None
+- Knuckles
+- Ketchup
 
 ## KJ
-- None
+- Kid
+- Kingdra
+- Cadillac
+- Cuddy
+- Kevin Durant
 
 ## KL
-- None
+- Kaleidoscope
+- Kraft Dinner
+- Cadbury
+- Cadaver
+- Cod
+- Kid
+- Kidney
 
 ## KM
-- None
+- Kenny
+- (Ash) Ketchum
+- Keith
+- Kira
+- Kian
+- Keaton
+- Keenan
 
 ## KN
-- None
+- Key
+- Kiosk
 
 ## KO
-- None
+- Keys
+- Ketchup
+- Keyboard (piano)
+- Keyboard (computer)
+- Keypad
+- Kiwi
 
 ## KP
-- None
+- Kif
+- Koffing
+- Kafka
+- Kuffs
 
 ## KQ
-- None
+- Camouflage
+- Cough
+- Cuff
 
 ## KR
-- None
+- KFC
+- Calf
+- Coffee
+- Coffer
+- Coffin
 
 ## KS
-- None
+- King
+- Kong
+- Kagawa
 
 ## KT
+- Conga
+- Kegstand
+- King ____
+
+## KU
 - None
 
 ## KV
-- None
+- Khaleesi
+- Khan
+- Kathryn
+- Catherine
+- Kathy
+- Kevin Hays
 
 ## KW
-- None
+- Keelhaul
+- Catheter
 
 ## KX
+- Ketchup
+- Khakis
+- Keyhole
+
+## KY
+- None
+
+## KZ
 - None
 
 ## LA
-- None
+- Law (Tekken)
+- Laura
+- Princess Leia
+- (Mitch) Lane
+- Lazy Susan
+- Layla
+- Laa-Laa
+- Levon Aronian
 
 ## LB
-- None
+- Lay
+- Label
+- Laser
+- Layup
 
 ## LC
-- None
+- Lamp
+- Lance
+- Label
+- Laces
+- Laser
+- Los Angeles
+- Lake
 
 ## LD
-- None
+- Libby
+- LeBron James
+- Lebowski
+- LeBlanc
+- Lola Bunny
 
 ## LE
-- None
+- Label
+- Lob
+- Liberate
 
 ## LF
-- None
+- Lobster
+- Label
+- Lab
+- Labyrinth
 
 ## LG
-- None
+- Lucifer
+- Lucario
+- Lucian
+- Lucas
 
 ## LH
-- None
+- Lick
 
 ## LI
-- None
+- Lice
+- Locusts
+- Lacross
 
 ## LJ
-- None
+- Larry David
+- Leo Dicaprio
+- Lard Lad
+- Loudred
+- Ludwig
+- Lydia
+- Lin Dan
+- Leader
 
 ## LK
-- None
+- Load
+- Laddle
+- Lead
 
 ## LM
-- None
+- Leonard
+- Leopard
+- Leech
+- Lee
+- Liam
+- Lisa
+- Leon
+- Leekie
 
 ## LN
-- None
+- Leaky
+- Leech seed
+- Leap
+- Leech
+- Lead
+- Leash
 
 ## LO
-- None
+- Lemon
+- Leotard
+- Leech
+- Leaf
 
 ## LP
-- None
+- Laurence Fishburne
+- Luffy
+- LaFlamme
 
 ## LQ
-- None
+- Lift
+- Laugh
 
 ## LR
-- None
+- Leaf
+- Laffy Taffy
+- Loft
+- Loaf
+- Life cereal
+- Lift (elevator)
 
 ## LS
-- None
+- Lady Gaga
+- Luigi
+- Lugia
+- Legolas
 
 ## LT
-- None
+- Lego
+- Lug
+- Lag
 
 ## LU
-- None
+- Lego
+- Log
+- Leg
+- Luggage
 
 ## LV
-- None
+- Lena Headey
+- Liam Hemsworth
+- Lethbridge
+- Light(yagami)
 
 ## LW
-- None
+- Lash
+- Lather
 
 ## LX
+- Lighthouse
+- Left hand
+- Light
+
+## LY
+- None
+
+## LZ
 - None
 
 ## MA
-- None
+- Mandy
+- Mario
+- Maniac
+- Ma
 
 ## MB
-- None
+- Mash
+- Masked
+- Mail
+- Makeup
 
 ## MC
-- None
+- Mask
+- Maid
+- Mail
+- Mailbox
+- Maze
 
 ## MD
-- None
+- Men in Black
+- Mr Bean
+- Mob
+- Matthew Broderick
+- Mamba
 
 ## ME
-- None
+- Mob
 
 ## MF
-- None
+- Mailbox
+- Mobius strip
 
 ## MG
-- None
+- Emcee
+- Miley Cyrus
+- MC Hammer
+- Mariah Carey
+- McCoy
+- Mickey Mouse
 
 ## MH
-- None
+- Mace
 
 ## MI
-- None
+- Matches
+- Milk Carton
+- Microphone
+- Minecraft
+- Mac
 
 ## MJ
-- None
+- Matt Damon
+- Medichan
+- Midas
+- Medic
+- Medical Doctor
 
 ## MK
-- None
+- Mad (at)
+- Muddy
+- Meditate
+- Medicate
+- Medivac
 
 ## ML
-- None
+- Mountain Dew
+- Mud
+- Mead
+- Medal
+- Medicine
+- Model
+- McDonalds
 
 ## MN
-- None
+- Measure
+- Meow
+- Meet
 
 ## MO
-- None
+- Meat
+- Meth
+- Memento
+- Meal
+- Meter (stick)
+- (Parking) Meter
 
 ## MP
-- None
+- Morgan Freeman
+- Megan Fox
+- Michael Fox
+- Mother F**cker
+- Miss Fortune
 
 ## MQ
-- None
+- Magnify
+- Muff
 
 ## MR
-- None
+- Muffin
 
 ## MS
-- None
+- Magneto
+- Magikarp
+- Magneton
+- Mahatma Gandhi
 
 ## MT
-- None
+- Magnetize
+- Magnify
 
 ## MU
-- None
+- Magazine
+- Magnet
+- Mug
+- Maggot
+- Megaminx
+- Minigun
 
 ## MV
-- None
+- Mike Hughey
+- Makuhita
+- Myke Hurley
 
 ## MW
-- None
+- March
+- Mega horn
 
 ## MX
+- Manhole
+
+## MY
+- None
+
+## MZ
 - None
 
 ## NA
-- None
+- Narwhal
+- Nate
+- Nanny
 
 ## NB
-- None
+- Nap
+- Nail
+- Neigh
+- Naked
 
 ## NC
-- None
+- Sodium
+- Nachos
+- Salt
+- Nail
 
 ## ND
-- None
+- Nathaniel Berg
+- Nebuchadnezzar
+- Newborn
+- Nickelback
+- Ned Bigby
 
 ## NE
-- None
+- Nibble
+- Noob
 
 ## NF
-- None
+- Nibs
+- New Balance
+- Nob
+- Knob
+- Niobium
 
 ## NG
-- None
+- NyanCat
+- Nincada
+- Nick
+- Nicole
+- Nicky Case
 
 ## NH
-- None
+- Nunchuck
+- Nice
 
 ## NI
-- None
+- Nachos
+- Necktie
+- Nice
 
 ## NJ
-- None
+- Ned
+- (Rafael) Nadal
 
 ## NK
-- None
+- Nude
+- Nod
+- Knead
 
 ## NL
-- None
+- Needle
+- North Dakota
 
 ## NM
-- None
+- Neo
 
 ## NO
-- None
+- Knee
+- Neon
+- Needle
 
 ## NP
-- None
+- Nick Frost
+- Nathan Fillion
 
 ## NQ
-- None
+- Knife
+- Nose Flute
+- Nefarious
+- Naff off
 
 ## NR
-- None
+- Knife
+- Nerf
+- Nephron
+- NAFTA
 
 ## NS
+- Nigel
+- Nigger
+- Nagato
+- Negredo
+- Nicholas Garrigan
+
+## NT
 - None
 
 ## NU
-- None
+- Egg Nog
+- Newgrounds
+- Nugget
+- Niger
 
 ## NV
-- None
+- Nicolas Hoult
+- Noah
+- Nehemiah
+- Nidhogg
 
 ## NW
-- None
+- Naughty
+- Neigh
+- Knight-Hood
+- Ni hao
 
 ## NX
+- Nursing Home
+- Nachos
+- Neighborhood
+- New Hampshire
+
+## NY
+- None
+
+## NZ
 - None
 
 ## OA
-- None
+- Boa Constrictor
+- Oarfish
 
 ## OB
-- None
+- Roast
+- Boast
 
 ## OC
-- None
+- Oar
+- Oatmeal
+- Boa
+- Oat
+- Oasis
 
 ## OD
-- None
+- Obi-wan
+- Obama
 
 ## OE
-- None
+- Obey
+- Orbit
+- Observe
+- Object
 
 ## OF
-- None
+- Orb
+- Obstacle
+- Obelisk
+- Oboe
+- Obsidian
 
 ## OG
-- None
+- Ocelot
+- Octopus
+- Orc
+- Oswald Cobblepot
 
 ## OH
-- None
+- Orchestrate
+- Ocular
 
 ## OI
-- None
+- Ocarina
+- Orchestra
 
 ## OJ
-- None
+- Oddish
+- One Direction
+- Odie
+- Odin
 
 ## OK
-- None
+- Overdose
+- Odd
+- Old
+- Odorize
+- Audio
 
 ## OL
-- None
+- Audience
+- Audi
 
 ## OM
-- None
+- Joe
+- Joey
+- Zoe
+- Omanyte
 
 ## ON
-- None
+- Over-eat
+- Oeuvre
 
 ## OP
-- None
+- Officer
+- Ollie Frost
+- Nick Offerman
+- Oaf
+- Outfielder
 
 ## OQ
-- None
+- Offend
+- (turn) Off
+- Offer
+- Offset
 
 ## OR
-- None
+- Off-switch
+- Officer
+- Office
 
 ## OS
-- None
+- Ogre
+- Hog
+- O.G.
 
 ## OT
-- None
+- Overgrown
+- Ogle
+- Augment
+- Organize
 
 ## OU
+- Organ
+
+## OV
 - None
 
 ## OW
-- None
+- One-handed
+- Ohmmeter
 
 ## OX
+- One Hand (severed)
+
+## OY
+- None
+
+## OZ
 - None
 
 ## PA
-- None
+- Pamela Anderson
+- Papa
 
 ## PB
-- None
+- Pay
+- Park
+- Pace
+- Paint
+- Pave
 
 ## PC
-- None
+- Pacifier
+- Papaya
+- Paper
 
 ## PD
-- None
+- Princess Bubblegum
+- Mr Peanut Butters
+- Polar Bear
+- Pedobear
 
 ## PE
-- None
+- Probe
+- Publish
 
 ## PF
-- None
+- Peanut Butter
+- Pebble
+- Pabst
+- Paintball
+- Lead
+- Pub
 
 ## PG
-- None
+- Peacock
+- Piccolo
+- Poochyena
 
 ## PH
-- None
+- Punch
 
 ## PI
-- None
+- Pickle
+- Punch (drink)
+- Personal computer
+- Piece
+- PC
+- Pancake
 
 ## PJ
-- None
+- Panda
+- Pedo
+- Paddington
+- Pedro
+- Pediatrician
 
 ## PK
-- None
+- Paddle
+- Pedal
+- Pad
 
 ## PL
-- None
+- Pad
+- Puddle
+- Pod
+- Paddington
+- Paddle
+- Pedal
+- Pudding
 
 ## PM
-- None
+- Penguin
+- Princess Peach
+- Peter
 
 ## PN
-- None
+- Peel
+- Pee
 
 ## PO
-- None
+- Peas
+- Peach
+- Pee
+- Pea
+- Peanut
+- Piano
 
 ## PQ
-- None
+- Perfume (spray at)
+- Poof
+- Puff
 
 ## PR
-- None
+- Pirate Flag
+- Puffin
+- Puff-fish
 
 ## PS
-- None
+- Peggy (Hill)
+- Pig
 
 ## PT
-- None
+- Peg
+- Plug
+- Piggyback
 
 ## PU
-- None
+- Peg
+- Pog
+- Pegasus
+- Pig
+- Pug
 
 ## PV
-- None
+- Paris Hilton
+- Pharoah
+- Pooh (Bear)
 
 ## PW
-- None
+- Phoning
 
 ## PX
+- Phone
+- pH
+- Pizza Hut
+
+## PY
+- None
+
+## PZ
 - None
 
 ## QA
-- None
+- Quail
+- Charizard
+- Christina Aguilera
+- Quagga
+- Qaddafi
 
 ## QB
-- None
+- QA
+- Quack
+- Quick Attack
 
 ## QC
-- None
+- Quarter
+- Qatar
+- Qantas
 
 ## QD
-- None
+- Quarterback
+- Kyubey
 
 ## QE
-- None
+- Chubby
+- Quibble
 
 ## QF
-- None
+- Cubie
+- Cube
+- Quibbler
+- Quebec
 
 ## QG
-- None
+- Coco
+- Quechua
+- chick
 
 ## QH
-- None
+- Quack
+- Quick
 
 ## QI
-- None
+- Quaich
+- Quiche
+- Check
 
 ## QJ
-- None
+- Charlie Day
+- Squid
 
 ## QK
-- None
+- Quidditch
 
 ## QL
-- None
+- Quid
+- Quad
+- Quesadilla
 
 ## QM
-- None
+- Queen
+- Quetzal
 
 ## QN
-- None
+- Cheer
+- Queue
+- Quantitative easing
 
 ## QO
-- None
+- Cheese
 
 ## QP
-- None
+- Quake Fiend
+- Qwilfish
+- Chef
 
 ## QR
-- None
+- Quaffle
 
 ## QS
-- None
+- Quagmire
+- Quagsire
 
 ## QT
-- None
+- Chug
 
 ## QU
-- None
+- Quagmire
+- Squiggle
 
 ## QV
-- None
+- Charizard
+- Cheetah
+- Donquixote
+- Quahog
 
 ## QW
-- None
+- Squash
+- Squish
+- Quidditch
 
 ## QX
+- Quahog
+- Cheese
+- QiHeng
+
+## QY
+- None
+
+## QZ
 - None
 
 ## RA
-- None
+- Ra
+- Rachel
 
 ## RB
-- None
+- Radio
+- Race
+- Raise
+- Rake
 
 ## RC
-- None
+- Radio
+- Ramen
+- Ray-gun
+- Radar
+- Radiator
+- Rails
+- Raison
+- Rake
+- Razor
 
 ## RD
-- None
+- Robot
+- Robbie
+- Robin
 
 ## RE
-- None
+- Rub
+- Rob
+- Ribbon
 
 ## RF
-- None
+- Rainbow
+- Ribs
+- Reeboks
+- Rabbi
+- Rabbit
+- Ribbon
+- Robin
+- Rubber
+- Rubbish
+- Rubble
 
 ## RG
-- None
+- Russel Crowe
+- Rachel
+- Rick
 
 ## RH
-- None
+- Race
+- Record
 
 ## RI
-- None
+- Racecar
+- Rubik&#39;s Cube
+- Racism
+- Racist
 
 ## RJ
-- None
+- Red Forman
+- Redhead
+- R2D2
+- Rudolf
 
 ## RK
-- None
+- Red
+- Rad
+- Ready
+- Ridicule
 
 ## RL
-- None
+- Rubber Ducky
+- Road
+- Rod
+- Radish
+- Redicube
+- Redhead
+- Rudder
 
 ## RM
-- None
+- Ren (Ren Stimpy)
+- Regice
+- Rey (Star wars)
 
 ## RN
-- None
+- Read
+- Reel
+- Rest
+- Reset
 
 ## RO
-- None
+- Reel
+- Wreath
+- Reeds
 
 ## RP
-- None
+- Referee
+- Roger Federer
 
 ## RQ
-- None
+- Reflect
+- Roofie
+- Refrigerate
 
 ## RS
-- None
+- Rigby
+- Reggie
+- Ragnaros
+- Royale Giant
+- Regigigas
 
 ## RT
-- None
+- Rig
+- Rugby
 
 ## RU
-- None
+- Rag
+- Rug
+- Rugby
 
 ## RV
-- None
+- Rhonda
+- Rhino
+- Rowe Hessler
+- Richard Hammond
+- Rohan
+- Rhydon
+- Rhett
+- Ray Holt
 
 ## RW
-- None
+- Red-headed
+- Rhythm
+- Rush
 
 ## RX
+- Right hand
+- Rash
+
+## RY
+- None
+
+## RZ
 - None
 
 ## SA
-- None
+- Saw (puppet)
+- Saw (Kramer)
+- Sasuke
+- Satan
 
 ## SB
-- None
+- Saw
+- Sand attack
+- Essay (writing)
+- Sail
+- Save
 
 ## SC
-- None
+- Saw
+- Salami
+- Say (speech bubble)
+- Essay
+- Safe
+- Sail
+- Satan
 
 ## SD
-- None
+- Sean Bean
+- Spongebob
+- Sableye
+- Sibling
 
 ## SE
-- None
+- Sob
+- Sabotage
+- Sub (sports)
+- Submerge
 
 ## SF
-- None
+- Subway
+- Sub
+- Second Block
+- Submarine
+- Sabertooth
+- Saber
+- Saab
 
 ## SG
-- None
+- Scooby
+- Scarecrow
+- Scorpion
+- Scout
+- Santa Claus
 
 ## SH
-- None
+- Scald
+- Sick
 
 ## SI
-- None
+- Scarecrow
+- Sock
+- Sac
 
 ## SJ
-- None
+- Sid
+- Snoop Dogg
+- Shadow the hedgehog
+- Syndrome
 
 ## SK
-- None
+- Sad
+- Sandy
+- Sodomize
+- Saddle
 
 ## SL
-- None
+- Salad
+- SD card
+- Seed
+- Saddle
 
 ## SM
-- None
+- Seal
+- Seth (Rogen)
+- Serena (Williams)
 
 ## SN
-- None
+- Seal
+- See
+- Seat
+- Sear
 
 ## SO
-- None
+- Semen
+- Sea
+- Seashell
+- Seal
+- Seed
+- Seesaw
 
 ## SP
-- None
+- Surfer
+- Shiftry
+- Starfire
 
 ## SQ
-- None
+- Soft
+- Sift
+- Shift
+- Suffocate
 
 ## SR
-- None
+- Safe
+- Cephalopod
+- Sapphire
+- Softball
+- Sofa
 
 ## ST
-- None
+- Sign
+- Soggy
+- Sag
+- Signal
+- Segregate
 
 ## SU
-- None
+- Stargate
+- Segway
+- Signature
+- Cigar
+- Cigarette
+- Signal
+- Shotgun
 
 ## SV
+- Shane
+- Sarah
+- Shelly
+- Sheldon
+- Shikamaru
+- Sherlock Holmes
+- Saddam Hussein
+
+## SW
 - None
 
 ## SX
+- Shoe
+- Soho
+- Shrimp
+
+## SY
+- None
+
+## SZ
 - None
 
 ## TA
-- None
+- Tangela
+- Tatum
+- Tay Zonday
+- Taylor Swift
+- Tim Allen
 
 ## TB
-- None
+- Tail
+- Tangle
+- Tape
+- Tattoo
 
 ## TC
-- None
+- Table
+- Tablespoon
+- Tail
+- Tape
+- Tank
 
 ## TD
-- None
+- Tabitha
+- Tibbers
+- Tibbs
+- Tyra Banks
 
 ## TE
-- None
+- Tab
+- Tabulate
+- Toboggan
 
 ## TF
-- None
+- T-Bone
+- Tab
+- Tabby cat
+- Table
+- Tableau
+- Tobacco
+- Toboggan
+- Tub
+- Tube
+- Trombone
+- Tuba
+- Tuberculosis
+- Tennis Ball
 
 ## TG
-- None
+- Tentacruel
+- Terry Crews
+- Tommy Chong
+- Tommy Cherry
 
 ## TH
-- None
+- Tackle
+- Tic toc
+- Ticked
 
 ## TI
-- None
+- Taco
+- Tic Tacs
 
 ## TJ
-- None
+- Ted
+- Toad
+- Todd
+- Ted (Allen)
 
 ## TK
-- None
+- Ted
+- Tidy
+- Tie-dye
 
 ## TL
-- None
+- Tadpole
+- Teddy Bear
+- Toddler
+- Trident
 
 ## TM
-- None
+- T-Bag
+- Teaspoon
+- Tepig
+- Terry
+- Tien Shinhan
+- Teen
 
 ## TN
-- None
+- Tear
+- Teaspoon
 
 ## TO
-- None
+- Tea
+- Teapot
+- Tee
+- Teeth
+- Telephone
 
 ## TP
-- None
+- Tiffany
+- Tomoya Firman
+- Toph
+- Transformer
+- Topher Grace
+- Two-Face
 
 ## TQ
-- None
+- Transform
+- Toughen
 
 ## TR
-- None
+- Taffy
+- Tie fighter
+- Toffee
+- Tofu
+- TF Boys (band)
 
 ## TS
-- None
+- Tiger
+- Tigger
 
 ## TU
-- None
+- Tag
+- Tugboat
+- Trigger
 
 ## TV
-- None
+- Thor
+- Thanos
+- Tom Hanks
 
 ## TW
-- None
+- Thrust
+- Throw
 
 ## TX
+- Tooth
+- Town hall
+
+## TY
+- None
+
+## TZ
 - None
 
 ## UA
-- None
+- Stuart (Little)
+- Medusa
 
 ## UB
-- None
+- Unarmed
+- Unattended*
+- Unassisted*
+- Unarm
+- Unatomize
 
 ## UC
-- None
+- Quad
+- Under Armour
+- Anatomy
 
 ## UD
-- None
+- Usain Bolt
+- Umbreon
+- Uncle Ben (spiderman/rice)
+- Abramowitz
+- Ubba
 
 ## UE
-- None
+- Unbalanced
+- Unbutton
+- Flub
 
 ## UF
-- None
+- Submarine
+- Subway
+- Uber
+- Upper back
+- Ubisoft
+- Observatory
+- Umbrella
+- U-boat
+- Ubuntu
 
 ## UG
-- None
+- Eustace
+- Unicorn
+- Anteater
+- Uncle
 
 ## UH
-- None
+- Unclog
+- Unchain
 
 ## UI
-- None
+- UC school
+- UC Irvine Anteater
 
 ## UJ
-- None
+- (Judge) Judy
+- Druddigon
+- Adele
+- Adama
+- Geodude
+- Udyr
 
 ## UK
-- None
+- Under
+- Undress
 
 ## UL
-- None
+- Udder
+- Adapter
+- Adidas
+- Until Dawn
 
 ## UM
-- None
+- Blue (Blue&#39;s Clues)
+- Sue
 
 ## UN
-- None
+- Duel
+- Duet
+- Unemployed
+- Use
+- Argue
+- Unearth
+- Blue
+- Glue
 
 ## UO
-- None
+- Cue (Pool)
+- U-Turn sign (Uey)
+- Unethical
+- Ukulele
+- Unreal Engine
+- UEFA
 
 ## UP
-- None
+- Duffman
+- Buffy
+- Unfezant
+- Uffi
+- Ophelia
+- Official
 
 ## UQ
-- None
+- Buff
+- Tough
+- Unfetter
+- Unfold
+- Unfreeze
+- Oof
+- Unfed
 
 ## UR
-- None
+- UFO
+- Official
 
 ## US
-- None
+- Dugtrio
+- Thug
+- Aguero
+- Ugly Betty
 
 ## UT
-- None
+- Ugly
+- Underground
+- Unglue
+- Ugh
 
 ## UV
-- None
+- Muhammed
+- Uhura
+- Othello
+- Athena
+- Uruk-Hai
+- Uma thurman
 
 ## UW
-- None
+- Ultrahuman
+- Uhhh
+- Uphill
+- Unhook
+- Unhinged
+- Unhappy
 
 ## UX
+- U-Haul
+- Otherworldly
+- Lunch
+
+## UY
+- None
+
+## UZ
 - None
 
 ## VA
-- None
+- Vaporeon
+- Voice Actor
+- Vanillish
+- Vader
+- Victoria Adams
+- Vegeta
+- Valentine
+- Valerie
+- Vance
 
 ## VB
-- None
+- Vaporise
+- Varnish
+- Vanish
+- Vape
+- Vaccinate
+- Veil
+- Vacation
+- Vanilla
 
 ## VC
-- None
+- Vase
+- Vagina
+- Valium
+- Veil
+- (weather)Vane
+- Vape
 
 ## VD
-- None
+- Victoria Beckham
+- Volbeat
+- Vibri
 
 ## VE
-- None
+- Volleyball
+- Vibrate
 
 ## VF
-- None
+- Volleyball
+- VB (beer)
+- Vibraphone
+- Vibrator
+- Visual Basic
 
 ## VG
-- None
+- Vicky
+- (Michael) Vick
 
 ## VH
-- None
+- Vacuum
+- Vicks Rub
+- Vaccinate
+- Voice chat
 
 ## VI
-- None
+- Vacuum
+- Vice grip
+- Vaccine
+- V-Cube
+- Vice City
 
 ## VJ
-- None
+- Darth Vader
+- Viduka
+- Ved
+- Vada
+- Vod
+- Vendetta
 
 ## VK
-- None
+- Voodoo
+- Invade
+- Video
 
 ## VL
-- None
+- Video
+- Vodka
 
 ## VM
-- None
+- Venonat
+- Venusaur
+- Vee
+- Vegeta
+- V
 
 ## VN
-- None
+- Vending
+- Venom
+- Veer
+- Veto
 
 ## VO
-- None
+- Vending Machine
+- Vehicle
+- Visa
 
 ## VP
-- None
+- Venus Flytrap
+- Veff
 
 ## VQ
-- None
+- Verify
+- Vermifuge
 
 ## VR
-- None
+- Venus Flytrap
+- Vanity Fair
 
 ## VS
-- None
+- Vegeta
+- Van Gogh
+- Vigoroth
+- Vogel
+- Vagabond
 
 ## VT
-- None
+- Videogame
+- Vigorous
 
 ## VU
-- None
+- Videogame
+- Vagina
+- Vertigo
+- Veggies
+- Vegas
 
 ## VW
-- None
+- Vouch
 
 ## VX
+- VHS
+- Vehicle
+
+## VY
+- None
+
+## VZ
 - None
 
 ## WA
-- None
+- Wailord
+- Wailmer
+- Ugandan Knuckles
+- Waylon
 
 ## WB
-- None
+- Wait
+- Wail
+- Wager
+- Waste
+- Wave
+- Weigh
 
 ## WC
-- None
+- Whale
+- Waifer
+- Weight
 
 ## WD
-- None
+- Wobbuffet
+- Webb
+- Whibley
+- Wobbs
+- Wabbit
 
 ## WE
-- None
+- Wobble
+- Web
 
 ## WF
-- None
+- Wheelbarrow
+- Web
+- Webster
+- Warner Bros
 
 ## WG
-- None
+- Wolfcastle
+- Witch
+- Whiscash
 
 ## WH
-- None
+- Whack
+- Wacky
 
 ## WI
-- None
+- World Cup
+- Wick
+- Water Closet
 
 ## WJ
-- None
+- Woody
+- Wade
+- Woodhouse
 
 ## WK
-- None
+- Wade
+- Waddle
+- Wed
+- Widen
+- Widow
 
 ## WL
-- None
+- Weed
+- Wood
+- Widow
+- Woodpecker
+- WD-40
 
 ## WM
-- None
+- Welder
+- Weedle
+- Weeping Angel
+- Weaver
+- Weevil
+- Wall-E
 
 ## WN
-- None
+- Welding
+- Wield
+- Weave
+- Weep
 
 ## WO
-- None
+- Weed
+- Wheel
+- Weasel
+- Wiener
+- Wii
 
 ## WP
-- None
+- Will Ferrel
+- Wilfred
+- Waffo
+- Waffles
+- Whiff
+- Wuf
 
 ## WQ
-- None
+- Waffle Iron
+- Woof
+- Waft
 
 ## WR
-- None
+- Waffle
+- Woofer
 
 ## WS
-- None
+- Chief Wiggum
+- Wigglytuff
+- Wagner
 
 ## WT
-- None
+- Wag
 
 ## WU
-- None
+- Wig
+- Wagon
 
 ## WV
-- None
+- Whoopi Goldberg
+- White Beard
+- Witherspoon
+- Whale
+- Waluigi (WAH!)
 
 ## WX
+- Whip
+- White House
+- Weather(vane)
+- Wuhua
+- Wuhan garden
+- Warehouse
+
+## WY
+- None
+
+## WZ
 - None
 
 ## XA
-- None
+- Xandir
+- Zabuza
+- Xandar
 
 ## XB
-- None
+- Zap
+- Electrocuted
+- Examine
 
 ## XC
-- None
+- Pizza (&#39;za)
 
 ## XD
-- None
+- Zombie
+- Zebstrika
+- Zebra
+- Ex-Boyfriend
 
 ## XE
-- None
+- X-Box (playing)
+- Exhibit
 
 ## XF
-- None
+- X-Box
+- X-Bow
 
 ## XG
-- None
+- Cyclops
+- Zach
 
 ## XH
-- None
+- Cross-Country
+- Execute
+- Excrete
 
 ## XI
-- None
+- Scissors
+- Extra credit
+- Shack
+- XCross
 
 ## XJ
-- None
+- Zedd
+- Yoda
+- Shadow
 
 ## XK
-- None
+- Extrude
+- (the emoticon)
 
 ## XL
-- None
+- XD emoji
+- Shed
+- Shadow
 
 ## XM
-- None
+- Electric Eel
+- Zeref
+- Xerxes
 
 ## XN
-- None
+- Execute
 
 ## XO
-- None
+- Xenon
 
 ## XP
-- None
+- Electric Frog
+- Sheriff
+- Red-Leg Zeff
+- Chef
 
 ## XQ
-- None
+- Exfoliate
+- Shafted
 
 ## XR
-- None
+- Xylophone
+- Jaguar XF
 
 ## XS
-- None
+- Goth
+- Shaggy
+- Shogun
+- Ziggy
+- Ex-Girlfriend
 
 ## XT
-- None
+- Zig-Zag
+- Shag
+- Xenograft
+- Exaggerate
+- Exchange
 
 ## XU
-- None
+- zig-zag
 
 ## XV
-- None
+- Chozen
+- Zhang
+- Zhaohan
+- Xhosa
 
 ## XW
+- Helicopter (riding)
+- Zen Headbutt
+- Exhale
+
+## XY
+- None
+
+## XZ
+- None
+
+## YA
+- None
+
+## YB
+- None
+
+## YC
+- None
+
+## YD
+- None
+
+## YE
+- None
+
+## YF
+- None
+
+## YG
+- None
+
+## YH
+- None
+
+## YI
+- None
+
+## YJ
+- None
+
+## YK
+- None
+
+## YL
+- None
+
+## YM
+- None
+
+## YN
+- None
+
+## YO
+- None
+
+## YP
+- None
+
+## YQ
+- None
+
+## YR
+- None
+
+## YS
+- None
+
+## YT
+- None
+
+## YU
+- None
+
+## YV
+- None
+
+## YW
+- None
+
+## YX
+- None
+
+## YZ
+- None
+
+## ZA
+- None
+
+## ZB
+- None
+
+## ZC
+- None
+
+## ZD
+- None
+
+## ZE
+- None
+
+## ZF
+- None
+
+## ZG
+- None
+
+## ZH
+- None
+
+## ZI
+- None
+
+## ZJ
+- None
+
+## ZK
+- None
+
+## ZL
+- None
+
+## ZM
+- None
+
+## ZN
+- None
+
+## ZO
+- None
+
+## ZP
+- None
+
+## ZQ
+- None
+
+## ZR
+- None
+
+## ZS
+- None
+
+## ZT
+- None
+
+## ZU
+- None
+
+## ZV
+- None
+
+## ZW
+- None
+
+## ZX
+- None
+
+## ZY
 - None
 
