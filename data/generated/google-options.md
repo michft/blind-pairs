@@ -30,6 +30,24 @@ Generated from the google source for A-X blind pair setup.
 - Abed
 - Alec Benjamin
 - Alton Brown
+- Person
+- Verb or Adjective
+- Object
+- AJ
+- Adjust
+- Ajax
+- Angelina Jolie
+- Ajar
+- Agent
+- Age
+- Apple Jacks
+- Adjunct
+- Agitate
+- Adjutant
+- AJR
+- Adjudicate
+- AJ Shabeel
+- Apple Juice
 
 ## AC
 - Aaron Carter
@@ -47,6 +65,27 @@ Generated from the google source for A-X blind pair setup.
 - Acorn
 - Antoine Cantin
 - Acid
+- Verb or Adjective
+- Object
+- Person
+- Adjust
+- Ajax
+- Anna Kendrick
+- Ajar
+- Agent
+- Akbar
+- Age
+- Apple Jacks
+- Akira
+- Agitate
+- Adjutant
+- Anakin (Skywalker)
+- Adjudicate
+- Adjunct
+- Arkham Knight
+- Apple Juice
+- Ash Ketchum
+- Aku
 
 ## AD
 - Adele
@@ -74,6 +113,33 @@ Generated from the google source for A-X blind pair setup.
 - Admonish
 - Adopt
 - Advertize
+- Object
+- Person
+- Verb or Adjective
+- Ajax
+- Anna Kendrick
+- Acknowledge
+- Agent
+- Akbar
+- AK-47 (shoot with)
+- Apple Jacks
+- Akira
+- Ask
+- Adjutant
+- Anakin (Skywalker)
+- Awake
+- Adjunct
+- Arkham Knight
+- Accelerate
+- Apple Juice
+- Accessorize
+- Ash Ketchum
+- Accolade
+- Aku
+- Accuse
+- Act
+- Activate
+- Acupuncture
 
 ## AE
 - Aeon Flux
@@ -94,6 +160,34 @@ Generated from the google source for A-X blind pair setup.
 - Aesthetic
 - Annex
 - Ape
+- Person
+- Verb or Adjective
+- Object
+- Anna Kendrick
+- Acknowledge
+- Ak-47
+- Akbar
+- AK-47 (shoot with)
+- Alaska
+- Akira
+- Ask
+- Akine
+- Anakin (Skywalker)
+- Awake
+- Acne
+- Arkham Knight
+- Accelerate
+- Acrobat
+- Accessorize
+- Ax
+- Ash Ketchum
+- Accolade
+- Arrakis
+- Aku
+- Accuse
+- Act
+- Activate
+- Acupuncture
 
 ## AF
 - Anna Faris
@@ -112,6 +206,38 @@ Generated from the google source for A-X blind pair setup.
 - Affleck
 - Africa
 - ALF
+- Verb or Adjective
+- Object
+- Person
+- Acknowledge
+- Ak-47
+- Abe Lincoln
+- AK-47 (shoot with)
+- Alaska
+- Albert
+- Ask
+- Akine
+- Alakazam
+- Awake
+- Acne
+- Weird Al Yankovic
+- Accelerate
+- Acrobat
+- Alice
+- Accessorize
+- Ax
+- Allison
+- Accolade
+- Arrakis
+- Alex
+- Accuse
+- Alan
+- Act
+- Al
+- Activate
+- Albus
+- Acupuncture
+- Aladdin
 
 ## AG
 - Ariana Grande
@@ -132,6 +258,34 @@ Generated from the google source for A-X blind pair setup.
 - Al Gore
 - Aang
 - Ali G
+- Object
+- Person
+- Verb or Adjective
+- Ak-47
+- Abe Lincoln
+- Alert
+- Alaska
+- Albert
+- Alight
+- Akine
+- Alakazam
+- Alienate
+- Acne
+- Weird Al Yankovic
+- Align
+- Acrobat
+- Alice
+- Alarm
+- Ax
+- Allison
+- Alchemize
+- Arrakis
+- Alex
+- Alleyoop
+- Alan
+- Al
+- Albus
+- Aladdin
 
 ## AH
 - Alien Hominid
@@ -145,6 +299,37 @@ Generated from the google source for A-X blind pair setup.
 - Air Hockey
 - Athos
 - Aha
+- Person
+- Verb or Adjective
+- Object
+- Abe Lincoln
+- Alert
+- Aluminium
+- Albert
+- Alight
+- Algae
+- Alakazam
+- Alienate
+- Alien
+- Weird Al Yankovic
+- Align
+- Almonds
+- Alice
+- Alarm
+- Alter
+- Allison
+- Alchemize
+- Albatross
+- Alex
+- Alleyoop
+- Album
+- Alan
+- Alfredo
+- Al
+- Alligator
+- Albus
+- Ale
+- Aladdin
 
 ## AI
 - A.I
@@ -159,6 +344,30 @@ Generated from the google source for A-X blind pair setup.
 - Anemone
 - Allen Iverson
 - Aikido
+- Verb or Adjective
+- Object
+- Person
+- Alert
+- Aluminium
+- Amy
+- Alight
+- Algae
+- Captain America
+- Alienate
+- Alien
+- Ambrose
+- Align
+- Almonds
+- Amon
+- Alarm
+- Alter
+- Alchemize
+- Albatross
+- Alleyoop
+- Album
+- Alfredo
+- Alligator
+- Ale
 
 ## AJ
 - AJ
@@ -176,6 +385,31 @@ Generated from the google source for A-X blind pair setup.
 - Adjudicate
 - AJ Shabeel
 - Apple Juice
+- Object
+- Person
+- Verb or Adjective
+- Aluminium
+- Amy
+- Amuse
+- Algae
+- Captain America
+- Amputate
+- Alien
+- Ambrose
+- A.M (Morning)
+- Almonds
+- Amon
+- American
+- Alter
+- Aim
+- Albatross
+- Amaze
+- Album
+- Ambush
+- Alfredo
+- Amplify
+- Alligator
+- Ale
 
 ## AK
 - Anna Kendrick
@@ -203,6 +437,29 @@ Generated from the google source for A-X blind pair setup.
 - Act
 - Activate
 - Acupuncture
+- Person
+- Verb or Adjective
+- Object
+- Amy
+- Amuse
+- Ammo
+- Captain America
+- Amputate
+- Amp
+- Ambrose
+- A.M (Morning)
+- Ambulance
+- Amon
+- American
+- Amber
+- Aim
+- Amulet
+- Amaze
+- America (the US)
+- Ambush
+- America (continents)
+- Amplify
+- AM-GM inequality
 
 ## AL
 - Abe Lincoln
@@ -233,6 +490,38 @@ Generated from the google source for A-X blind pair setup.
 - Albus
 - Ale
 - Aladdin
+- Verb or Adjective
+- Object
+- Person
+- Amuse
+- Ammo
+- Anna Faris
+- Amputate
+- Amp
+- Annie
+- A.M (Morning)
+- Ambulance
+- Anne
+- American
+- Amber
+- Ant
+- Aim
+- Amulet
+- Anne Hathaway
+- Amaze
+- America (the US)
+- Antoine
+- Ambush
+- America (continents)
+- Anakin
+- Amplify
+- AM-GM inequality
+- Antonie
+- Andy
+- Anand
+- Andrew
+- Anson
+- Angel
 
 ## AM
 - Amy
@@ -255,6 +544,29 @@ Generated from the google source for A-X blind pair setup.
 - America (continents)
 - Amplify
 - AM-GM inequality
+- Object
+- Person
+- Verb or Adjective
+- Anna Faris
+- Annoy
+- Annie
+- Anticipate
+- Anne
+- Ancient
+- Ant
+- Annihilate
+- Anne Hathaway
+- Analyze
+- Antoine
+- Anchor
+- Anakin
+- Animate
+- Antonie
+- Andy
+- Anand
+- Andrew
+- Anson
+- Angel
 
 ## AN
 - Anna Faris
@@ -285,6 +597,9 @@ Generated from the google source for A-X blind pair setup.
 - Andrew
 - Anson
 - Angel
+- Person
+- Verb or Adjective
+- Object
 
 ## AO
 - Ashley Olson
@@ -304,6 +619,25 @@ Generated from the google source for A-X blind pair setup.
 - Australian Open
 - Annoying Orange
 - (doing an) Ao5
+- Verb or Adjective
+- Object
+- Person
+- Annoy
+- Ant
+- Anticipate
+- Anchor
+- Ancient
+- Android
+- Annihilate
+- Antidote
+- Analyze
+- Antique
+- Anchovies
+- Animate
+- Antenna
+- Antler
+- Anvil
+- Antelope
 
 ## AP
 - Aaron Paul
@@ -326,6 +660,31 @@ Generated from the google source for A-X blind pair setup.
 - Ap class
 - AirPods
 - A Perm
+- Object
+- Person
+- Verb or Adjective
+- Ant
+- Ashley Olson
+- Adopt
+- Anchor
+- Aokiji
+- Adults Only
+- Android
+- Steve Aoki
+- Allocate
+- Antidote
+- Will Tao
+- Anorexic
+- Antique
+- Ao
+- Annotate
+- Anchovies
+- Annoying Orange
+- (doing an) Ao5
+- Antenna
+- Antler
+- Anvil
+- Antelope
 
 ## AR
 - Alan Rickman
@@ -347,6 +706,27 @@ Generated from the google source for A-X blind pair setup.
 - Arkansas
 - Armadillo
 - AR-15
+- Verb or Adjective
+- Object
+- Person
+- Adopt
+- Aorta
+- Aaron Paul
+- Adults Only
+- Aolong
+- Antonie Paterakis
+- Allocate
+- Agent Orange
+- Aipom
+- Anorexic
+- Atom
+- Ape
+- Annotate
+- Australian Open
+- Apu
+- (doing an) Ao5
+- Appa
+- Agent P
 
 ## AS
 - Asad
@@ -369,6 +749,27 @@ Generated from the google source for A-X blind pair setup.
 - Astronaut
 - Asa
 - Asami Sato
+- Object
+- Person
+- Verb or Adjective
+- Aorta
+- Aaron Paul
+- Applaud
+- Aolong
+- Antonie Paterakis
+- Apologize
+- Agent Orange
+- Aipom
+- Apply
+- Atom
+- Ape
+- Application
+- Australian Open
+- Apu
+- Apprehend
+- Appa
+- Aprove
+- Agent P
 
 ## AT
 - Anton
@@ -391,6 +792,29 @@ Generated from the google source for A-X blind pair setup.
 - Atari
 - Attract
 - Attaboy
+- Person
+- Verb or Adjective
+- Object
+- Aaron Paul
+- Applaud
+- Apple
+- Antonie Paterakis
+- Apologize
+- Application
+- Aipom
+- Apply
+- Ape
+- Apron
+- Apu
+- Apprehend
+- Advanced Placement (Class)
+- Appa
+- Aprove
+- Apricot
+- Agent P
+- Ap class
+- AirPods
+- A Perm
 
 ## AU
 - Auctioneer
@@ -407,6 +831,25 @@ Generated from the google source for A-X blind pair setup.
 - Anubis
 - Augment
 - Automatic
+- Verb or Adjective
+- Object
+- Person
+- Applaud
+- Apple
+- Aquaman
+- Apologize
+- Application
+- Archer queen
+- Apply
+- Ape
+- Apron
+- Apprehend
+- Advanced Placement (Class)
+- Aprove
+- Apricot
+- Ap class
+- AirPods
+- A Perm
 
 ## AV
 - Avicii
@@ -425,6 +868,21 @@ Generated from the google source for A-X blind pair setup.
 - AV Cables
 - Anvil
 - Avenue
+- Object
+- Person
+- Verb or Adjective
+- Apple
+- Aquaman
+- Acquire
+- Application
+- Archer queen
+- Ape
+- Apron
+- Advanced Placement (Class)
+- Apricot
+- Ap class
+- AirPods
+- A Perm
 
 ## AW
 - Amy Winehouse
@@ -442,6 +900,15 @@ Generated from the google source for A-X blind pair setup.
 - Awesome
 - Awning
 - Alan Watts
+- Person
+- Verb or Adjective
+- Object
+- Aquaman
+- Acquire
+- Aquarium
+- Archer queen
+- Aqueduct
+- Aqua
 
 ## AX
 - Alex
@@ -450,102 +917,531 @@ Generated from the google source for A-X blind pair setup.
 - Affix
 - Axew
 - Axolotl
+- Verb or Adjective
+- Object
+- Person
+- Acquire
+- Aquarium
+- Alan Rickman
+- Aqueduct
+- Green Arrow
+- Aqua
+- Arlong
+- Ahri
+- Arr (Pirate)
 
 ## BA
-- None
+- Verb or Adjective
+- Object
+- Person
+- Arrest
+- Arrow (weapon)
+- Asad
+- Arrange
+- Arrow (⬅)
+- Asaf
+- Arrr
+- Arm
+- Asimov
+- Archive
+- Arcade
+- Aspen
+- Argue
+- Armour
+- Arouse
+- Arkansas
+- Assad
+- Armadillo
+- Assaf
+- AR-15
+- Astronaut
+- Asa
+- Asami Sato
 
 ## BC
-- None
+- Person
+- Verb or Adjective
+- Object
+- Asad
+- Ascend
+- Acid
+- Asaf
+- Ask
+- Asbestos
+- Asimov
+- Asphyxiate
+- Ash
+- Aspen
+- Assasinate
+- Aspirin
+- Assess
+- Ass
+- Assad
+- Assist
+- Assaf
+- Astronaut
+- Asa
+- Asami Sato
 
 ## BD
-- None
+- Verb or Adjective
+- Object
+- Person
+- Ascend
+- Acid
+- Anton
+- Ask
+- Asbestos
+- Anthony
+- Asphyxiate
+- Ash
+- AT AT
+- Assasinate
+- Aspirin
+- Attenborough
+- Assess
+- Ass
+- Atkinson
+- Assist
+- Atwood
 
 ## BE
-- None
+- Object
+- Person
+- Verb or Adjective
+- Acid
+- Anton
+- Attack
+- Asbestos
+- Anthony
+- Altitude
+- Ash
+- AT AT
+- Arm thrust
+- Aspirin
+- Attenborough
+- Atomize
+- Ass
+- Atkinson
+- Attest
+- Atwood
+- Attire
+- Attract
+- Attaboy
 
 ## BF
-- None
+- Person
+- Verb or Adjective
+- Object
+- Anton
+- Attack
+- ATM
+- Anthony
+- Altitude
+- Athlete
+- AT AT
+- Arm thrust
+- Atlas
+- Attenborough
+- Atomize
+- Atom
+- Atkinson
+- Attest
+- @
+- Atwood
+- Attire
+- Atari
+- Attract
+- Attaboy
 
 ## BG
-- None
+- Verb or Adjective
+- Object
+- Person
+- Attack
+- ATM
+- Auctioneer
+- Altitude
+- Athlete
+- Australian
+- Arm thrust
+- Atlas
+- Ad Visser
+- Atomize
+- Atom
+- Austin
+- Attest
+- @
+- Anubis
+- Attire
+- Atari
+- Attract
+- Attaboy
 
 ## BH
-- None
+- Object
+- Person
+- Verb or Adjective
+- ATM
+- Auctioneer
+- Autopsy
+- Athlete
+- Australian
+- Auteur
+- Atlas
+- Ad Visser
+- Auction
+- Atom
+- Austin
+- Auto-graph
+- @
+- Anubis
+- Augment
+- Atari
+- Gold
+- Automatic
 
 ## BI
-- None
+- Person
+- Verb or Adjective
+- Object
+- Auctioneer
+- Autopsy
+- Gold
+- Australian
+- Auteur
+- Australia
+- Ad Visser
+- Auction
+- Analog (car stick)
+- Austin
+- Auto-graph
+- Anubis
+- Augment
+- Automatic
 
 ## BJ
-- None
+- Verb or Adjective
+- Object
+- Person
+- Autopsy
+- Gold
+- Avicii
+- Auteur
+- Australia
+- Avatar
+- Auction
+- Analog (car stick)
+- Avril
+- Auto-graph
+- Avengers
+- Augment
+- Asajj Ventress
+- Australian
+- Automatic
 
 ## BK
-- None
+- Object
+- Person
+- Verb or Adjective
+- Gold
+- Avicii
+- Avoid
+- Australia
+- Avatar
+- Avenge
+- Analog (car stick)
+- Avril
+- Average
+- Avengers
+- Avalanche
+- Asajj Ventress
+- Advertize
 
 ## BL
-- None
+- Person
+- Verb or Adjective
+- Object
+- Avicii
+- Avoid
+- Automated Vehicle
+- Avatar
+- Avenge
+- Audio Visual
+- Avril
+- Average
+- Avocado
+- Avengers
+- Avalanche
+- Asajj Ventress
+- Advertize
+- AV Cables
+- Anvil
+- Avenue
 
 ## BN
-- None
+- Object
+- Person
+- Verb or Adjective
+- Automated Vehicle
+- Amy Winehouse
+- Awaken
+- Audio Visual
+- Alan Walker
+- Award
+- Avocado
+- Abomasnow
+- Awkward
+- Avatar
+- Adam West
+- Aww
+- AV Cables
+- Alice (in Wonderland)
+- Awesome
+- Anvil
+- Alan Watts
+- Avenue
 
 ## BO
-- None
+- Person
+- Verb or Adjective
+- Object
+- Amy Winehouse
+- Awaken
+- AW
+- Alan Walker
+- Award
+- Awl
+- Abomasnow
+- Awkward
+- Adam West
+- Aww
+- Awana
+- Alice (in Wonderland)
+- Awesome
+- Awning
+- Alan Watts
 
 ## BP
-- None
+- Verb or Adjective
+- Object
+- Person
+- Awaken
+- AW
+- Alex
+- Award
+- Awl
+- Axel
+- Awkward
+- Axew
+- Aww
+- Awana
+- Awesome
+- Awning
 
 ## BQ
-- None
+- Object
+- Person
+- Verb or Adjective
+- AW
+- Alex
+- Axe
+- Awl
+- Axel
+- Affix
+- Award
+- Axew
+- Awana
+- Awning
 
 ## BR
-- None
+- Person
+- Verb or Adjective
+- Object
+- Alex
+- Axe
+- Axel
+- Affix
+- Axew
+- Axolotl
 
 ## BS
-- None
+- Verb or Adjective
+- Object
+- Person
+- Axe
+- Jay
+- Affix
+- Axel
+- Kevin Hays
+- Axolotl
+- Ray
 
 ## BT
-- None
+- Object
+- Person
+- Verb or Adjective
+- Axe
+- Jay
+- Pay
+- Axel
+- Kevin Hays
+- Gay
+- Axolotl
+- Ray
+- Aye!
+- Ayyyyy
 
 ## BU
-- None
+- Person
+- Verb or Adjective
+- Object
+- Jay
+- Pay
+- Hay
+- Kevin Hays
+- Gay
+- Ray
+- Aye!
+- Ayyyyy
 
 ## BV
-- None
+- Verb or Adjective
+- Object
+- Person
+- Pay
+- Hay
+- Aziz Ansari
+- Gay
+- Aztec
+- Aye!
+- Azlan
+- Ayyyyy
+- Azzy
+- Azula
 
 ## BW
-- None
+- Object
+- Person
+- Verb or Adjective
+- Hay
+- Aziz Ansari
+- Azure
+- Aztec
+- Azlan
+- Azzy
+- Azula
 
 ## BX
-- None
+- Person
+- Verb or Adjective
+- Object
+- Aziz Ansari
+- Azure
+- Azimuth
+- Aztec
+- Azlan
+- Arizona
+- Azzy
+- Azula
 
 ## CA
-- None
+- Person
+- Verb or Adjective
+- Object
+- Ash
+- Ashy
+- Ashley
+- Ashtray
+- Aschenbrenner
 
 ## CB
-- None
+- Verb or Adjective
+- Object
+- Person
+- Ashy
+- Ash
+- Archer
+- Ashtray
 
 ## CD
-- None
+- Person
+- Verb or Adjective
+- Object
+- Archer
+- Achoo
+- Arch
+- Aching
 
 ## CE
-- None
+- Verb or Adjective
+- Object
+- Person
+- Achoo
+- Arch
+- Athlete
+- Aching
+- Athena
+- Athos
 
 ## CF
-- None
+- Object
+- Person
+- Verb or Adjective
+- Arch
+- Athlete
+- Math(ing?)
+- Athena
+- Athos
 
 ## CG
-- None
+- Person
+- Verb or Adjective
+- Object
+- Athlete
+- Math(ing?)
+- Athena
+- Athanor
+- Athos
+- Math
 
 ## CH
-- None
+- Verb or Adjective
+- Object
+- Person
+- Math(ing?)
+- Athlete
+- Astronaut
+- Athanor
+- Asterix
+- Math
+- Astrid
 
 ## CJ
-- None
+- Person
+- Verb or Adjective
+- Object
+- Astronaut
+- Cast
+- Asteroid
+- Asterix
+- Astrid
+- Mast
 
 ## CK
-- None
+- Verb or Adjective
+- Object
+- Cast
+- Asteroid
+- Astronaut
+- Mast
 
 ## CL
-- None
+- Object
+- Asteroid
+- Astronaut
+- Cast
+- Mast
 
 ## CM
 - None

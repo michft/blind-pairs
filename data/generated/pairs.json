@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T11:03:32.254Z",
+  "generatedAt": "2026-05-07T21:25:44.958Z",
   "alphabet": [
     "A",
     "B",
@@ -695,6 +695,78 @@
       {
         "text": "Ali Baba",
         "source": "wiki"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "AJ",
+        "source": "google"
+      },
+      {
+        "text": "Adjust",
+        "source": "google"
+      },
+      {
+        "text": "Ajax",
+        "source": "google"
+      },
+      {
+        "text": "Angelina Jolie",
+        "source": "google"
+      },
+      {
+        "text": "Ajar",
+        "source": "google"
+      },
+      {
+        "text": "Agent",
+        "source": "google"
+      },
+      {
+        "text": "Age",
+        "source": "google"
+      },
+      {
+        "text": "Apple Jacks",
+        "source": "google"
+      },
+      {
+        "text": "Adjunct",
+        "source": "google"
+      },
+      {
+        "text": "Agitate",
+        "source": "google"
+      },
+      {
+        "text": "Adjutant",
+        "source": "google"
+      },
+      {
+        "text": "AJR",
+        "source": "google"
+      },
+      {
+        "text": "Adjudicate",
+        "source": "google"
+      },
+      {
+        "text": "AJ Shabeel",
+        "source": "google"
+      },
+      {
+        "text": "Apple Juice",
+        "source": "google"
       }
     ],
     "AC": [
@@ -769,6 +841,90 @@
       {
         "text": "Acute",
         "source": "wiki"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Adjust",
+        "source": "google"
+      },
+      {
+        "text": "Ajax",
+        "source": "google"
+      },
+      {
+        "text": "Anna Kendrick",
+        "source": "google"
+      },
+      {
+        "text": "Ajar",
+        "source": "google"
+      },
+      {
+        "text": "Agent",
+        "source": "google"
+      },
+      {
+        "text": "Akbar",
+        "source": "google"
+      },
+      {
+        "text": "Age",
+        "source": "google"
+      },
+      {
+        "text": "Apple Jacks",
+        "source": "google"
+      },
+      {
+        "text": "Akira",
+        "source": "google"
+      },
+      {
+        "text": "Agitate",
+        "source": "google"
+      },
+      {
+        "text": "Adjutant",
+        "source": "google"
+      },
+      {
+        "text": "Anakin (Skywalker)",
+        "source": "google"
+      },
+      {
+        "text": "Adjudicate",
+        "source": "google"
+      },
+      {
+        "text": "Adjunct",
+        "source": "google"
+      },
+      {
+        "text": "Arkham Knight",
+        "source": "google"
+      },
+      {
+        "text": "Apple Juice",
+        "source": "google"
+      },
+      {
+        "text": "Ash Ketchum",
+        "source": "google"
+      },
+      {
+        "text": "Aku",
+        "source": "google"
       }
     ],
     "AD": [
@@ -887,6 +1043,114 @@
       {
         "text": "Adrenaline",
         "source": "wiki"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Ajax",
+        "source": "google"
+      },
+      {
+        "text": "Anna Kendrick",
+        "source": "google"
+      },
+      {
+        "text": "Acknowledge",
+        "source": "google"
+      },
+      {
+        "text": "Agent",
+        "source": "google"
+      },
+      {
+        "text": "Akbar",
+        "source": "google"
+      },
+      {
+        "text": "AK-47 (shoot with)",
+        "source": "google"
+      },
+      {
+        "text": "Apple Jacks",
+        "source": "google"
+      },
+      {
+        "text": "Akira",
+        "source": "google"
+      },
+      {
+        "text": "Ask",
+        "source": "google"
+      },
+      {
+        "text": "Adjutant",
+        "source": "google"
+      },
+      {
+        "text": "Anakin (Skywalker)",
+        "source": "google"
+      },
+      {
+        "text": "Awake",
+        "source": "google"
+      },
+      {
+        "text": "Adjunct",
+        "source": "google"
+      },
+      {
+        "text": "Arkham Knight",
+        "source": "google"
+      },
+      {
+        "text": "Accelerate",
+        "source": "google"
+      },
+      {
+        "text": "Apple Juice",
+        "source": "google"
+      },
+      {
+        "text": "Accessorize",
+        "source": "google"
+      },
+      {
+        "text": "Ash Ketchum",
+        "source": "google"
+      },
+      {
+        "text": "Accolade",
+        "source": "google"
+      },
+      {
+        "text": "Aku",
+        "source": "google"
+      },
+      {
+        "text": "Accuse",
+        "source": "google"
+      },
+      {
+        "text": "Act",
+        "source": "google"
+      },
+      {
+        "text": "Activate",
+        "source": "google"
+      },
+      {
+        "text": "Acupuncture",
+        "source": "google"
       }
     ],
     "AE": [
@@ -977,6 +1241,118 @@
       {
         "text": "Amelia Earhart",
         "source": "wiki"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Anna Kendrick",
+        "source": "google"
+      },
+      {
+        "text": "Acknowledge",
+        "source": "google"
+      },
+      {
+        "text": "Ak-47",
+        "source": "google"
+      },
+      {
+        "text": "Akbar",
+        "source": "google"
+      },
+      {
+        "text": "AK-47 (shoot with)",
+        "source": "google"
+      },
+      {
+        "text": "Alaska",
+        "source": "google"
+      },
+      {
+        "text": "Akira",
+        "source": "google"
+      },
+      {
+        "text": "Ask",
+        "source": "google"
+      },
+      {
+        "text": "Akine",
+        "source": "google"
+      },
+      {
+        "text": "Anakin (Skywalker)",
+        "source": "google"
+      },
+      {
+        "text": "Awake",
+        "source": "google"
+      },
+      {
+        "text": "Acne",
+        "source": "google"
+      },
+      {
+        "text": "Arkham Knight",
+        "source": "google"
+      },
+      {
+        "text": "Accelerate",
+        "source": "google"
+      },
+      {
+        "text": "Acrobat",
+        "source": "google"
+      },
+      {
+        "text": "Accessorize",
+        "source": "google"
+      },
+      {
+        "text": "Ax",
+        "source": "google"
+      },
+      {
+        "text": "Ash Ketchum",
+        "source": "google"
+      },
+      {
+        "text": "Accolade",
+        "source": "google"
+      },
+      {
+        "text": "Arrakis",
+        "source": "google"
+      },
+      {
+        "text": "Aku",
+        "source": "google"
+      },
+      {
+        "text": "Accuse",
+        "source": "google"
+      },
+      {
+        "text": "Act",
+        "source": "google"
+      },
+      {
+        "text": "Activate",
+        "source": "google"
+      },
+      {
+        "text": "Acupuncture",
+        "source": "google"
       }
     ],
     "AF": [
@@ -1051,6 +1427,134 @@
       {
         "text": "Afrikaans",
         "source": "wiki"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Acknowledge",
+        "source": "google"
+      },
+      {
+        "text": "Ak-47",
+        "source": "google"
+      },
+      {
+        "text": "Abe Lincoln",
+        "source": "google"
+      },
+      {
+        "text": "AK-47 (shoot with)",
+        "source": "google"
+      },
+      {
+        "text": "Alaska",
+        "source": "google"
+      },
+      {
+        "text": "Albert",
+        "source": "google"
+      },
+      {
+        "text": "Ask",
+        "source": "google"
+      },
+      {
+        "text": "Akine",
+        "source": "google"
+      },
+      {
+        "text": "Alakazam",
+        "source": "google"
+      },
+      {
+        "text": "Awake",
+        "source": "google"
+      },
+      {
+        "text": "Acne",
+        "source": "google"
+      },
+      {
+        "text": "Weird Al Yankovic",
+        "source": "google"
+      },
+      {
+        "text": "Accelerate",
+        "source": "google"
+      },
+      {
+        "text": "Acrobat",
+        "source": "google"
+      },
+      {
+        "text": "Alice",
+        "source": "google"
+      },
+      {
+        "text": "Accessorize",
+        "source": "google"
+      },
+      {
+        "text": "Ax",
+        "source": "google"
+      },
+      {
+        "text": "Allison",
+        "source": "google"
+      },
+      {
+        "text": "Accolade",
+        "source": "google"
+      },
+      {
+        "text": "Arrakis",
+        "source": "google"
+      },
+      {
+        "text": "Alex",
+        "source": "google"
+      },
+      {
+        "text": "Accuse",
+        "source": "google"
+      },
+      {
+        "text": "Alan",
+        "source": "google"
+      },
+      {
+        "text": "Act",
+        "source": "google"
+      },
+      {
+        "text": "Al",
+        "source": "google"
+      },
+      {
+        "text": "Activate",
+        "source": "google"
+      },
+      {
+        "text": "Albus",
+        "source": "google"
+      },
+      {
+        "text": "Acupuncture",
+        "source": "google"
+      },
+      {
+        "text": "Aladdin",
+        "source": "google"
       }
     ],
     "AG": [
@@ -1129,6 +1633,118 @@
       {
         "text": "Amy Grant",
         "source": "wiki"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Ak-47",
+        "source": "google"
+      },
+      {
+        "text": "Abe Lincoln",
+        "source": "google"
+      },
+      {
+        "text": "Alert",
+        "source": "google"
+      },
+      {
+        "text": "Alaska",
+        "source": "google"
+      },
+      {
+        "text": "Albert",
+        "source": "google"
+      },
+      {
+        "text": "Alight",
+        "source": "google"
+      },
+      {
+        "text": "Akine",
+        "source": "google"
+      },
+      {
+        "text": "Alakazam",
+        "source": "google"
+      },
+      {
+        "text": "Alienate",
+        "source": "google"
+      },
+      {
+        "text": "Acne",
+        "source": "google"
+      },
+      {
+        "text": "Weird Al Yankovic",
+        "source": "google"
+      },
+      {
+        "text": "Align",
+        "source": "google"
+      },
+      {
+        "text": "Acrobat",
+        "source": "google"
+      },
+      {
+        "text": "Alice",
+        "source": "google"
+      },
+      {
+        "text": "Alarm",
+        "source": "google"
+      },
+      {
+        "text": "Ax",
+        "source": "google"
+      },
+      {
+        "text": "Allison",
+        "source": "google"
+      },
+      {
+        "text": "Alchemize",
+        "source": "google"
+      },
+      {
+        "text": "Arrakis",
+        "source": "google"
+      },
+      {
+        "text": "Alex",
+        "source": "google"
+      },
+      {
+        "text": "Alleyoop",
+        "source": "google"
+      },
+      {
+        "text": "Alan",
+        "source": "google"
+      },
+      {
+        "text": "Al",
+        "source": "google"
+      },
+      {
+        "text": "Albus",
+        "source": "google"
+      },
+      {
+        "text": "Aladdin",
+        "source": "google"
       }
     ],
     "AH": [
@@ -1183,6 +1799,130 @@
       {
         "text": "Anthony Hopkins",
         "source": "wiki"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Abe Lincoln",
+        "source": "google"
+      },
+      {
+        "text": "Alert",
+        "source": "google"
+      },
+      {
+        "text": "Aluminium",
+        "source": "google"
+      },
+      {
+        "text": "Albert",
+        "source": "google"
+      },
+      {
+        "text": "Alight",
+        "source": "google"
+      },
+      {
+        "text": "Algae",
+        "source": "google"
+      },
+      {
+        "text": "Alakazam",
+        "source": "google"
+      },
+      {
+        "text": "Alienate",
+        "source": "google"
+      },
+      {
+        "text": "Alien",
+        "source": "google"
+      },
+      {
+        "text": "Weird Al Yankovic",
+        "source": "google"
+      },
+      {
+        "text": "Align",
+        "source": "google"
+      },
+      {
+        "text": "Almonds",
+        "source": "google"
+      },
+      {
+        "text": "Alice",
+        "source": "google"
+      },
+      {
+        "text": "Alarm",
+        "source": "google"
+      },
+      {
+        "text": "Alter",
+        "source": "google"
+      },
+      {
+        "text": "Allison",
+        "source": "google"
+      },
+      {
+        "text": "Alchemize",
+        "source": "google"
+      },
+      {
+        "text": "Albatross",
+        "source": "google"
+      },
+      {
+        "text": "Alex",
+        "source": "google"
+      },
+      {
+        "text": "Alleyoop",
+        "source": "google"
+      },
+      {
+        "text": "Album",
+        "source": "google"
+      },
+      {
+        "text": "Alan",
+        "source": "google"
+      },
+      {
+        "text": "Alfredo",
+        "source": "google"
+      },
+      {
+        "text": "Al",
+        "source": "google"
+      },
+      {
+        "text": "Alligator",
+        "source": "google"
+      },
+      {
+        "text": "Albus",
+        "source": "google"
+      },
+      {
+        "text": "Ale",
+        "source": "google"
+      },
+      {
+        "text": "Aladdin",
+        "source": "google"
       }
     ],
     "AI": [
@@ -1245,6 +1985,102 @@
       {
         "text": "All in (poker)",
         "source": "wiki"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Alert",
+        "source": "google"
+      },
+      {
+        "text": "Aluminium",
+        "source": "google"
+      },
+      {
+        "text": "Amy",
+        "source": "google"
+      },
+      {
+        "text": "Alight",
+        "source": "google"
+      },
+      {
+        "text": "Algae",
+        "source": "google"
+      },
+      {
+        "text": "Captain America",
+        "source": "google"
+      },
+      {
+        "text": "Alienate",
+        "source": "google"
+      },
+      {
+        "text": "Alien",
+        "source": "google"
+      },
+      {
+        "text": "Ambrose",
+        "source": "google"
+      },
+      {
+        "text": "Align",
+        "source": "google"
+      },
+      {
+        "text": "Almonds",
+        "source": "google"
+      },
+      {
+        "text": "Amon",
+        "source": "google"
+      },
+      {
+        "text": "Alarm",
+        "source": "google"
+      },
+      {
+        "text": "Alter",
+        "source": "google"
+      },
+      {
+        "text": "Alchemize",
+        "source": "google"
+      },
+      {
+        "text": "Albatross",
+        "source": "google"
+      },
+      {
+        "text": "Alleyoop",
+        "source": "google"
+      },
+      {
+        "text": "Album",
+        "source": "google"
+      },
+      {
+        "text": "Alfredo",
+        "source": "google"
+      },
+      {
+        "text": "Alligator",
+        "source": "google"
+      },
+      {
+        "text": "Ale",
+        "source": "google"
       }
     ],
     "AJ": [
@@ -1319,6 +2155,106 @@
       {
         "text": "Action Jackson",
         "source": "wiki"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Aluminium",
+        "source": "google"
+      },
+      {
+        "text": "Amy",
+        "source": "google"
+      },
+      {
+        "text": "Amuse",
+        "source": "google"
+      },
+      {
+        "text": "Algae",
+        "source": "google"
+      },
+      {
+        "text": "Captain America",
+        "source": "google"
+      },
+      {
+        "text": "Amputate",
+        "source": "google"
+      },
+      {
+        "text": "Alien",
+        "source": "google"
+      },
+      {
+        "text": "Ambrose",
+        "source": "google"
+      },
+      {
+        "text": "A.M (Morning)",
+        "source": "google"
+      },
+      {
+        "text": "Almonds",
+        "source": "google"
+      },
+      {
+        "text": "Amon",
+        "source": "google"
+      },
+      {
+        "text": "American",
+        "source": "google"
+      },
+      {
+        "text": "Alter",
+        "source": "google"
+      },
+      {
+        "text": "Aim",
+        "source": "google"
+      },
+      {
+        "text": "Albatross",
+        "source": "google"
+      },
+      {
+        "text": "Amaze",
+        "source": "google"
+      },
+      {
+        "text": "Album",
+        "source": "google"
+      },
+      {
+        "text": "Ambush",
+        "source": "google"
+      },
+      {
+        "text": "Alfredo",
+        "source": "google"
+      },
+      {
+        "text": "Amplify",
+        "source": "google"
+      },
+      {
+        "text": "Alligator",
+        "source": "google"
+      },
+      {
+        "text": "Ale",
+        "source": "google"
       }
     ],
     "AK": [
@@ -1441,6 +2377,98 @@
       {
         "text": "Akinator",
         "source": "wiki"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Amy",
+        "source": "google"
+      },
+      {
+        "text": "Amuse",
+        "source": "google"
+      },
+      {
+        "text": "Ammo",
+        "source": "google"
+      },
+      {
+        "text": "Captain America",
+        "source": "google"
+      },
+      {
+        "text": "Amputate",
+        "source": "google"
+      },
+      {
+        "text": "Amp",
+        "source": "google"
+      },
+      {
+        "text": "Ambrose",
+        "source": "google"
+      },
+      {
+        "text": "A.M (Morning)",
+        "source": "google"
+      },
+      {
+        "text": "Ambulance",
+        "source": "google"
+      },
+      {
+        "text": "Amon",
+        "source": "google"
+      },
+      {
+        "text": "American",
+        "source": "google"
+      },
+      {
+        "text": "Amber",
+        "source": "google"
+      },
+      {
+        "text": "Aim",
+        "source": "google"
+      },
+      {
+        "text": "Amulet",
+        "source": "google"
+      },
+      {
+        "text": "Amaze",
+        "source": "google"
+      },
+      {
+        "text": "America (the US)",
+        "source": "google"
+      },
+      {
+        "text": "Ambush",
+        "source": "google"
+      },
+      {
+        "text": "America (continents)",
+        "source": "google"
+      },
+      {
+        "text": "Amplify",
+        "source": "google"
+      },
+      {
+        "text": "AM-GM inequality",
+        "source": "google"
       }
     ],
     "AL": [
@@ -1571,6 +2599,134 @@
       {
         "text": "Albania",
         "source": "wiki"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Amuse",
+        "source": "google"
+      },
+      {
+        "text": "Ammo",
+        "source": "google"
+      },
+      {
+        "text": "Anna Faris",
+        "source": "google"
+      },
+      {
+        "text": "Amputate",
+        "source": "google"
+      },
+      {
+        "text": "Amp",
+        "source": "google"
+      },
+      {
+        "text": "Annie",
+        "source": "google"
+      },
+      {
+        "text": "A.M (Morning)",
+        "source": "google"
+      },
+      {
+        "text": "Ambulance",
+        "source": "google"
+      },
+      {
+        "text": "Anne",
+        "source": "google"
+      },
+      {
+        "text": "American",
+        "source": "google"
+      },
+      {
+        "text": "Amber",
+        "source": "google"
+      },
+      {
+        "text": "Ant",
+        "source": "google"
+      },
+      {
+        "text": "Aim",
+        "source": "google"
+      },
+      {
+        "text": "Amulet",
+        "source": "google"
+      },
+      {
+        "text": "Anne Hathaway",
+        "source": "google"
+      },
+      {
+        "text": "Amaze",
+        "source": "google"
+      },
+      {
+        "text": "America (the US)",
+        "source": "google"
+      },
+      {
+        "text": "Antoine",
+        "source": "google"
+      },
+      {
+        "text": "Ambush",
+        "source": "google"
+      },
+      {
+        "text": "America (continents)",
+        "source": "google"
+      },
+      {
+        "text": "Anakin",
+        "source": "google"
+      },
+      {
+        "text": "Amplify",
+        "source": "google"
+      },
+      {
+        "text": "AM-GM inequality",
+        "source": "google"
+      },
+      {
+        "text": "Antonie",
+        "source": "google"
+      },
+      {
+        "text": "Andy",
+        "source": "google"
+      },
+      {
+        "text": "Anand",
+        "source": "google"
+      },
+      {
+        "text": "Andrew",
+        "source": "google"
+      },
+      {
+        "text": "Anson",
+        "source": "google"
+      },
+      {
+        "text": "Angel",
+        "source": "google"
       }
     ],
     "AM": [
@@ -1673,6 +2829,98 @@
       {
         "text": "Alanis Morissette",
         "source": "wiki"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Anna Faris",
+        "source": "google"
+      },
+      {
+        "text": "Annoy",
+        "source": "google"
+      },
+      {
+        "text": "Annie",
+        "source": "google"
+      },
+      {
+        "text": "Anticipate",
+        "source": "google"
+      },
+      {
+        "text": "Anne",
+        "source": "google"
+      },
+      {
+        "text": "Ancient",
+        "source": "google"
+      },
+      {
+        "text": "Ant",
+        "source": "google"
+      },
+      {
+        "text": "Annihilate",
+        "source": "google"
+      },
+      {
+        "text": "Anne Hathaway",
+        "source": "google"
+      },
+      {
+        "text": "Analyze",
+        "source": "google"
+      },
+      {
+        "text": "Antoine",
+        "source": "google"
+      },
+      {
+        "text": "Anchor",
+        "source": "google"
+      },
+      {
+        "text": "Anakin",
+        "source": "google"
+      },
+      {
+        "text": "Animate",
+        "source": "google"
+      },
+      {
+        "text": "Antonie",
+        "source": "google"
+      },
+      {
+        "text": "Andy",
+        "source": "google"
+      },
+      {
+        "text": "Anand",
+        "source": "google"
+      },
+      {
+        "text": "Andrew",
+        "source": "google"
+      },
+      {
+        "text": "Anson",
+        "source": "google"
+      },
+      {
+        "text": "Angel",
+        "source": "google"
       }
     ],
     "AN": [
@@ -1799,6 +3047,18 @@
       {
         "text": "Aunt",
         "source": "wiki"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
       }
     ],
     "AO": [
@@ -1885,6 +3145,82 @@
       {
         "text": "Aochuang",
         "source": "wiki"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Annoy",
+        "source": "google"
+      },
+      {
+        "text": "Ant",
+        "source": "google"
+      },
+      {
+        "text": "Anticipate",
+        "source": "google"
+      },
+      {
+        "text": "Anchor",
+        "source": "google"
+      },
+      {
+        "text": "Ancient",
+        "source": "google"
+      },
+      {
+        "text": "Android",
+        "source": "google"
+      },
+      {
+        "text": "Annihilate",
+        "source": "google"
+      },
+      {
+        "text": "Antidote",
+        "source": "google"
+      },
+      {
+        "text": "Analyze",
+        "source": "google"
+      },
+      {
+        "text": "Antique",
+        "source": "google"
+      },
+      {
+        "text": "Anchovies",
+        "source": "google"
+      },
+      {
+        "text": "Animate",
+        "source": "google"
+      },
+      {
+        "text": "Antenna",
+        "source": "google"
+      },
+      {
+        "text": "Antler",
+        "source": "google"
+      },
+      {
+        "text": "Anvil",
+        "source": "google"
+      },
+      {
+        "text": "Antelope",
+        "source": "google"
       }
     ],
     "AP": [
@@ -1987,6 +3323,106 @@
       {
         "text": "APB",
         "source": "wiki"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Ant",
+        "source": "google"
+      },
+      {
+        "text": "Ashley Olson",
+        "source": "google"
+      },
+      {
+        "text": "Adopt",
+        "source": "google"
+      },
+      {
+        "text": "Anchor",
+        "source": "google"
+      },
+      {
+        "text": "Aokiji",
+        "source": "google"
+      },
+      {
+        "text": "Adults Only",
+        "source": "google"
+      },
+      {
+        "text": "Android",
+        "source": "google"
+      },
+      {
+        "text": "Steve Aoki",
+        "source": "google"
+      },
+      {
+        "text": "Allocate",
+        "source": "google"
+      },
+      {
+        "text": "Antidote",
+        "source": "google"
+      },
+      {
+        "text": "Will Tao",
+        "source": "google"
+      },
+      {
+        "text": "Anorexic",
+        "source": "google"
+      },
+      {
+        "text": "Antique",
+        "source": "google"
+      },
+      {
+        "text": "Ao",
+        "source": "google"
+      },
+      {
+        "text": "Annotate",
+        "source": "google"
+      },
+      {
+        "text": "Anchovies",
+        "source": "google"
+      },
+      {
+        "text": "Annoying Orange",
+        "source": "google"
+      },
+      {
+        "text": "(doing an) Ao5",
+        "source": "google"
+      },
+      {
+        "text": "Antenna",
+        "source": "google"
+      },
+      {
+        "text": "Antler",
+        "source": "google"
+      },
+      {
+        "text": "Anvil",
+        "source": "google"
+      },
+      {
+        "text": "Antelope",
+        "source": "google"
       }
     ],
     "AR": [
@@ -2081,6 +3517,90 @@
       {
         "text": "Augmented Reality",
         "source": "wiki"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Adopt",
+        "source": "google"
+      },
+      {
+        "text": "Aorta",
+        "source": "google"
+      },
+      {
+        "text": "Aaron Paul",
+        "source": "google"
+      },
+      {
+        "text": "Adults Only",
+        "source": "google"
+      },
+      {
+        "text": "Aolong",
+        "source": "google"
+      },
+      {
+        "text": "Antonie Paterakis",
+        "source": "google"
+      },
+      {
+        "text": "Allocate",
+        "source": "google"
+      },
+      {
+        "text": "Agent Orange",
+        "source": "google"
+      },
+      {
+        "text": "Aipom",
+        "source": "google"
+      },
+      {
+        "text": "Anorexic",
+        "source": "google"
+      },
+      {
+        "text": "Atom",
+        "source": "google"
+      },
+      {
+        "text": "Ape",
+        "source": "google"
+      },
+      {
+        "text": "Annotate",
+        "source": "google"
+      },
+      {
+        "text": "Australian Open",
+        "source": "google"
+      },
+      {
+        "text": "Apu",
+        "source": "google"
+      },
+      {
+        "text": "(doing an) Ao5",
+        "source": "google"
+      },
+      {
+        "text": "Appa",
+        "source": "google"
+      },
+      {
+        "text": "Agent P",
+        "source": "google"
       }
     ],
     "AS": [
@@ -2171,6 +3691,90 @@
       {
         "text": "Ashtray",
         "source": "wiki"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Aorta",
+        "source": "google"
+      },
+      {
+        "text": "Aaron Paul",
+        "source": "google"
+      },
+      {
+        "text": "Applaud",
+        "source": "google"
+      },
+      {
+        "text": "Aolong",
+        "source": "google"
+      },
+      {
+        "text": "Antonie Paterakis",
+        "source": "google"
+      },
+      {
+        "text": "Apologize",
+        "source": "google"
+      },
+      {
+        "text": "Agent Orange",
+        "source": "google"
+      },
+      {
+        "text": "Aipom",
+        "source": "google"
+      },
+      {
+        "text": "Apply",
+        "source": "google"
+      },
+      {
+        "text": "Atom",
+        "source": "google"
+      },
+      {
+        "text": "Ape",
+        "source": "google"
+      },
+      {
+        "text": "Application",
+        "source": "google"
+      },
+      {
+        "text": "Australian Open",
+        "source": "google"
+      },
+      {
+        "text": "Apu",
+        "source": "google"
+      },
+      {
+        "text": "Apprehend",
+        "source": "google"
+      },
+      {
+        "text": "Appa",
+        "source": "google"
+      },
+      {
+        "text": "Aprove",
+        "source": "google"
+      },
+      {
+        "text": "Agent P",
+        "source": "google"
       }
     ],
     "AT": [
@@ -2269,6 +3873,98 @@
       {
         "text": "Atmosphere",
         "source": "wiki"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Aaron Paul",
+        "source": "google"
+      },
+      {
+        "text": "Applaud",
+        "source": "google"
+      },
+      {
+        "text": "Apple",
+        "source": "google"
+      },
+      {
+        "text": "Antonie Paterakis",
+        "source": "google"
+      },
+      {
+        "text": "Apologize",
+        "source": "google"
+      },
+      {
+        "text": "Application",
+        "source": "google"
+      },
+      {
+        "text": "Aipom",
+        "source": "google"
+      },
+      {
+        "text": "Apply",
+        "source": "google"
+      },
+      {
+        "text": "Ape",
+        "source": "google"
+      },
+      {
+        "text": "Apron",
+        "source": "google"
+      },
+      {
+        "text": "Apu",
+        "source": "google"
+      },
+      {
+        "text": "Apprehend",
+        "source": "google"
+      },
+      {
+        "text": "Advanced Placement (Class)",
+        "source": "google"
+      },
+      {
+        "text": "Appa",
+        "source": "google"
+      },
+      {
+        "text": "Aprove",
+        "source": "google"
+      },
+      {
+        "text": "Apricot",
+        "source": "google"
+      },
+      {
+        "text": "Agent P",
+        "source": "google"
+      },
+      {
+        "text": "Ap class",
+        "source": "google"
+      },
+      {
+        "text": "AirPods",
+        "source": "google"
+      },
+      {
+        "text": "A Perm",
+        "source": "google"
       }
     ],
     "AU": [
@@ -2331,6 +4027,82 @@
       {
         "text": "Automobile",
         "source": "wiki"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Applaud",
+        "source": "google"
+      },
+      {
+        "text": "Apple",
+        "source": "google"
+      },
+      {
+        "text": "Aquaman",
+        "source": "google"
+      },
+      {
+        "text": "Apologize",
+        "source": "google"
+      },
+      {
+        "text": "Application",
+        "source": "google"
+      },
+      {
+        "text": "Archer queen",
+        "source": "google"
+      },
+      {
+        "text": "Apply",
+        "source": "google"
+      },
+      {
+        "text": "Ape",
+        "source": "google"
+      },
+      {
+        "text": "Apron",
+        "source": "google"
+      },
+      {
+        "text": "Apprehend",
+        "source": "google"
+      },
+      {
+        "text": "Advanced Placement (Class)",
+        "source": "google"
+      },
+      {
+        "text": "Aprove",
+        "source": "google"
+      },
+      {
+        "text": "Apricot",
+        "source": "google"
+      },
+      {
+        "text": "Ap class",
+        "source": "google"
+      },
+      {
+        "text": "AirPods",
+        "source": "google"
+      },
+      {
+        "text": "A Perm",
+        "source": "google"
       }
     ],
     "AV": [
@@ -2409,6 +4181,66 @@
       {
         "text": "UAV",
         "source": "wiki"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Apple",
+        "source": "google"
+      },
+      {
+        "text": "Aquaman",
+        "source": "google"
+      },
+      {
+        "text": "Acquire",
+        "source": "google"
+      },
+      {
+        "text": "Application",
+        "source": "google"
+      },
+      {
+        "text": "Archer queen",
+        "source": "google"
+      },
+      {
+        "text": "Ape",
+        "source": "google"
+      },
+      {
+        "text": "Apron",
+        "source": "google"
+      },
+      {
+        "text": "Advanced Placement (Class)",
+        "source": "google"
+      },
+      {
+        "text": "Apricot",
+        "source": "google"
+      },
+      {
+        "text": "Ap class",
+        "source": "google"
+      },
+      {
+        "text": "AirPods",
+        "source": "google"
+      },
+      {
+        "text": "A Perm",
+        "source": "google"
       }
     ],
     "AW": [
@@ -2483,6 +4315,42 @@
       {
         "text": "AWP",
         "source": "wiki"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Aquaman",
+        "source": "google"
+      },
+      {
+        "text": "Acquire",
+        "source": "google"
+      },
+      {
+        "text": "Aquarium",
+        "source": "google"
+      },
+      {
+        "text": "Archer queen",
+        "source": "google"
+      },
+      {
+        "text": "Aqueduct",
+        "source": "google"
+      },
+      {
+        "text": "Aqua",
+        "source": "google"
       }
     ],
     "AX": [
@@ -2517,6 +4385,54 @@
       {
         "text": "Axl Rose",
         "source": "wiki"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Acquire",
+        "source": "google"
+      },
+      {
+        "text": "Aquarium",
+        "source": "google"
+      },
+      {
+        "text": "Alan Rickman",
+        "source": "google"
+      },
+      {
+        "text": "Aqueduct",
+        "source": "google"
+      },
+      {
+        "text": "Green Arrow",
+        "source": "google"
+      },
+      {
+        "text": "Aqua",
+        "source": "google"
+      },
+      {
+        "text": "Arlong",
+        "source": "google"
+      },
+      {
+        "text": "Ahri",
+        "source": "google"
+      },
+      {
+        "text": "Arr (Pirate)",
+        "source": "google"
       }
     ],
     "BA": [
@@ -2535,6 +4451,110 @@
       {
         "text": "British Airways",
         "source": "wiki"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Arrest",
+        "source": "google"
+      },
+      {
+        "text": "Arrow (weapon)",
+        "source": "google"
+      },
+      {
+        "text": "Asad",
+        "source": "google"
+      },
+      {
+        "text": "Arrange",
+        "source": "google"
+      },
+      {
+        "text": "Arrow (⬅)",
+        "source": "google"
+      },
+      {
+        "text": "Asaf",
+        "source": "google"
+      },
+      {
+        "text": "Arrr",
+        "source": "google"
+      },
+      {
+        "text": "Arm",
+        "source": "google"
+      },
+      {
+        "text": "Asimov",
+        "source": "google"
+      },
+      {
+        "text": "Archive",
+        "source": "google"
+      },
+      {
+        "text": "Arcade",
+        "source": "google"
+      },
+      {
+        "text": "Aspen",
+        "source": "google"
+      },
+      {
+        "text": "Argue",
+        "source": "google"
+      },
+      {
+        "text": "Armour",
+        "source": "google"
+      },
+      {
+        "text": "Arouse",
+        "source": "google"
+      },
+      {
+        "text": "Arkansas",
+        "source": "google"
+      },
+      {
+        "text": "Assad",
+        "source": "google"
+      },
+      {
+        "text": "Armadillo",
+        "source": "google"
+      },
+      {
+        "text": "Assaf",
+        "source": "google"
+      },
+      {
+        "text": "AR-15",
+        "source": "google"
+      },
+      {
+        "text": "Astronaut",
+        "source": "google"
+      },
+      {
+        "text": "Asa",
+        "source": "google"
+      },
+      {
+        "text": "Asami Sato",
+        "source": "google"
       }
     ],
     "BC": [
@@ -2569,6 +4589,98 @@
       {
         "text": "Benedict Cumberbatch",
         "source": "wiki"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Asad",
+        "source": "google"
+      },
+      {
+        "text": "Ascend",
+        "source": "google"
+      },
+      {
+        "text": "Acid",
+        "source": "google"
+      },
+      {
+        "text": "Asaf",
+        "source": "google"
+      },
+      {
+        "text": "Ask",
+        "source": "google"
+      },
+      {
+        "text": "Asbestos",
+        "source": "google"
+      },
+      {
+        "text": "Asimov",
+        "source": "google"
+      },
+      {
+        "text": "Asphyxiate",
+        "source": "google"
+      },
+      {
+        "text": "Ash",
+        "source": "google"
+      },
+      {
+        "text": "Aspen",
+        "source": "google"
+      },
+      {
+        "text": "Assasinate",
+        "source": "google"
+      },
+      {
+        "text": "Aspirin",
+        "source": "google"
+      },
+      {
+        "text": "Assess",
+        "source": "google"
+      },
+      {
+        "text": "Ass",
+        "source": "google"
+      },
+      {
+        "text": "Assad",
+        "source": "google"
+      },
+      {
+        "text": "Assist",
+        "source": "google"
+      },
+      {
+        "text": "Assaf",
+        "source": "google"
+      },
+      {
+        "text": "Astronaut",
+        "source": "google"
+      },
+      {
+        "text": "Asa",
+        "source": "google"
+      },
+      {
+        "text": "Asami Sato",
+        "source": "google"
       }
     ],
     "BD": [
@@ -2603,6 +4715,86 @@
       {
         "text": "Bad",
         "source": "wiki"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Ascend",
+        "source": "google"
+      },
+      {
+        "text": "Acid",
+        "source": "google"
+      },
+      {
+        "text": "Anton",
+        "source": "google"
+      },
+      {
+        "text": "Ask",
+        "source": "google"
+      },
+      {
+        "text": "Asbestos",
+        "source": "google"
+      },
+      {
+        "text": "Anthony",
+        "source": "google"
+      },
+      {
+        "text": "Asphyxiate",
+        "source": "google"
+      },
+      {
+        "text": "Ash",
+        "source": "google"
+      },
+      {
+        "text": "AT AT",
+        "source": "google"
+      },
+      {
+        "text": "Assasinate",
+        "source": "google"
+      },
+      {
+        "text": "Aspirin",
+        "source": "google"
+      },
+      {
+        "text": "Attenborough",
+        "source": "google"
+      },
+      {
+        "text": "Assess",
+        "source": "google"
+      },
+      {
+        "text": "Ass",
+        "source": "google"
+      },
+      {
+        "text": "Atkinson",
+        "source": "google"
+      },
+      {
+        "text": "Assist",
+        "source": "google"
+      },
+      {
+        "text": "Atwood",
+        "source": "google"
       }
     ],
     "BE": [
@@ -2625,6 +4817,94 @@
       {
         "text": "Bean",
         "source": "wiki"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Acid",
+        "source": "google"
+      },
+      {
+        "text": "Anton",
+        "source": "google"
+      },
+      {
+        "text": "Attack",
+        "source": "google"
+      },
+      {
+        "text": "Asbestos",
+        "source": "google"
+      },
+      {
+        "text": "Anthony",
+        "source": "google"
+      },
+      {
+        "text": "Altitude",
+        "source": "google"
+      },
+      {
+        "text": "Ash",
+        "source": "google"
+      },
+      {
+        "text": "AT AT",
+        "source": "google"
+      },
+      {
+        "text": "Arm thrust",
+        "source": "google"
+      },
+      {
+        "text": "Aspirin",
+        "source": "google"
+      },
+      {
+        "text": "Attenborough",
+        "source": "google"
+      },
+      {
+        "text": "Atomize",
+        "source": "google"
+      },
+      {
+        "text": "Ass",
+        "source": "google"
+      },
+      {
+        "text": "Atkinson",
+        "source": "google"
+      },
+      {
+        "text": "Attest",
+        "source": "google"
+      },
+      {
+        "text": "Atwood",
+        "source": "google"
+      },
+      {
+        "text": "Attire",
+        "source": "google"
+      },
+      {
+        "text": "Attract",
+        "source": "google"
+      },
+      {
+        "text": "Attaboy",
+        "source": "google"
       }
     ],
     "BF": [
@@ -2655,6 +4935,98 @@
       {
         "text": "Big foot",
         "source": "wiki"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Anton",
+        "source": "google"
+      },
+      {
+        "text": "Attack",
+        "source": "google"
+      },
+      {
+        "text": "ATM",
+        "source": "google"
+      },
+      {
+        "text": "Anthony",
+        "source": "google"
+      },
+      {
+        "text": "Altitude",
+        "source": "google"
+      },
+      {
+        "text": "Athlete",
+        "source": "google"
+      },
+      {
+        "text": "AT AT",
+        "source": "google"
+      },
+      {
+        "text": "Arm thrust",
+        "source": "google"
+      },
+      {
+        "text": "Atlas",
+        "source": "google"
+      },
+      {
+        "text": "Attenborough",
+        "source": "google"
+      },
+      {
+        "text": "Atomize",
+        "source": "google"
+      },
+      {
+        "text": "Atom",
+        "source": "google"
+      },
+      {
+        "text": "Atkinson",
+        "source": "google"
+      },
+      {
+        "text": "Attest",
+        "source": "google"
+      },
+      {
+        "text": "@",
+        "source": "google"
+      },
+      {
+        "text": "Atwood",
+        "source": "google"
+      },
+      {
+        "text": "Attire",
+        "source": "google"
+      },
+      {
+        "text": "Atari",
+        "source": "google"
+      },
+      {
+        "text": "Attract",
+        "source": "google"
+      },
+      {
+        "text": "Attaboy",
+        "source": "google"
       }
     ],
     "BG": [
@@ -2677,6 +5049,94 @@
       {
         "text": "Bee Gees",
         "source": "wiki"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Attack",
+        "source": "google"
+      },
+      {
+        "text": "ATM",
+        "source": "google"
+      },
+      {
+        "text": "Auctioneer",
+        "source": "google"
+      },
+      {
+        "text": "Altitude",
+        "source": "google"
+      },
+      {
+        "text": "Athlete",
+        "source": "google"
+      },
+      {
+        "text": "Australian",
+        "source": "google"
+      },
+      {
+        "text": "Arm thrust",
+        "source": "google"
+      },
+      {
+        "text": "Atlas",
+        "source": "google"
+      },
+      {
+        "text": "Ad Visser",
+        "source": "google"
+      },
+      {
+        "text": "Atomize",
+        "source": "google"
+      },
+      {
+        "text": "Atom",
+        "source": "google"
+      },
+      {
+        "text": "Austin",
+        "source": "google"
+      },
+      {
+        "text": "Attest",
+        "source": "google"
+      },
+      {
+        "text": "@",
+        "source": "google"
+      },
+      {
+        "text": "Anubis",
+        "source": "google"
+      },
+      {
+        "text": "Attire",
+        "source": "google"
+      },
+      {
+        "text": "Atari",
+        "source": "google"
+      },
+      {
+        "text": "Attract",
+        "source": "google"
+      },
+      {
+        "text": "Attaboy",
+        "source": "google"
       }
     ],
     "BH": [
@@ -2711,6 +5171,90 @@
       {
         "text": "Beyer-Hardwick (BH) method",
         "source": "wiki"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "ATM",
+        "source": "google"
+      },
+      {
+        "text": "Auctioneer",
+        "source": "google"
+      },
+      {
+        "text": "Autopsy",
+        "source": "google"
+      },
+      {
+        "text": "Athlete",
+        "source": "google"
+      },
+      {
+        "text": "Australian",
+        "source": "google"
+      },
+      {
+        "text": "Auteur",
+        "source": "google"
+      },
+      {
+        "text": "Atlas",
+        "source": "google"
+      },
+      {
+        "text": "Ad Visser",
+        "source": "google"
+      },
+      {
+        "text": "Auction",
+        "source": "google"
+      },
+      {
+        "text": "Atom",
+        "source": "google"
+      },
+      {
+        "text": "Austin",
+        "source": "google"
+      },
+      {
+        "text": "Auto-graph",
+        "source": "google"
+      },
+      {
+        "text": "@",
+        "source": "google"
+      },
+      {
+        "text": "Anubis",
+        "source": "google"
+      },
+      {
+        "text": "Augment",
+        "source": "google"
+      },
+      {
+        "text": "Atari",
+        "source": "google"
+      },
+      {
+        "text": "Gold",
+        "source": "google"
+      },
+      {
+        "text": "Automatic",
+        "source": "google"
       }
     ],
     "BI": [
@@ -2729,6 +5273,74 @@
       {
         "text": "Billboards",
         "source": "wiki"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Auctioneer",
+        "source": "google"
+      },
+      {
+        "text": "Autopsy",
+        "source": "google"
+      },
+      {
+        "text": "Gold",
+        "source": "google"
+      },
+      {
+        "text": "Australian",
+        "source": "google"
+      },
+      {
+        "text": "Auteur",
+        "source": "google"
+      },
+      {
+        "text": "Australia",
+        "source": "google"
+      },
+      {
+        "text": "Ad Visser",
+        "source": "google"
+      },
+      {
+        "text": "Auction",
+        "source": "google"
+      },
+      {
+        "text": "Analog (car stick)",
+        "source": "google"
+      },
+      {
+        "text": "Austin",
+        "source": "google"
+      },
+      {
+        "text": "Auto-graph",
+        "source": "google"
+      },
+      {
+        "text": "Anubis",
+        "source": "google"
+      },
+      {
+        "text": "Augment",
+        "source": "google"
+      },
+      {
+        "text": "Automatic",
+        "source": "google"
       }
     ],
     "BJ": [
@@ -2747,6 +5359,78 @@
       {
         "text": "Bad Job",
         "source": "wiki"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Autopsy",
+        "source": "google"
+      },
+      {
+        "text": "Gold",
+        "source": "google"
+      },
+      {
+        "text": "Avicii",
+        "source": "google"
+      },
+      {
+        "text": "Auteur",
+        "source": "google"
+      },
+      {
+        "text": "Australia",
+        "source": "google"
+      },
+      {
+        "text": "Avatar",
+        "source": "google"
+      },
+      {
+        "text": "Auction",
+        "source": "google"
+      },
+      {
+        "text": "Analog (car stick)",
+        "source": "google"
+      },
+      {
+        "text": "Avril",
+        "source": "google"
+      },
+      {
+        "text": "Auto-graph",
+        "source": "google"
+      },
+      {
+        "text": "Avengers",
+        "source": "google"
+      },
+      {
+        "text": "Augment",
+        "source": "google"
+      },
+      {
+        "text": "Asajj Ventress",
+        "source": "google"
+      },
+      {
+        "text": "Australian",
+        "source": "google"
+      },
+      {
+        "text": "Automatic",
+        "source": "google"
       }
     ],
     "BK": [
@@ -2769,6 +5453,70 @@
       {
         "text": "Beak",
         "source": "wiki"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Gold",
+        "source": "google"
+      },
+      {
+        "text": "Avicii",
+        "source": "google"
+      },
+      {
+        "text": "Avoid",
+        "source": "google"
+      },
+      {
+        "text": "Australia",
+        "source": "google"
+      },
+      {
+        "text": "Avatar",
+        "source": "google"
+      },
+      {
+        "text": "Avenge",
+        "source": "google"
+      },
+      {
+        "text": "Analog (car stick)",
+        "source": "google"
+      },
+      {
+        "text": "Avril",
+        "source": "google"
+      },
+      {
+        "text": "Average",
+        "source": "google"
+      },
+      {
+        "text": "Avengers",
+        "source": "google"
+      },
+      {
+        "text": "Avalanche",
+        "source": "google"
+      },
+      {
+        "text": "Asajj Ventress",
+        "source": "google"
+      },
+      {
+        "text": "Advertize",
+        "source": "google"
       }
     ],
     "BL": [
@@ -2803,6 +5551,82 @@
       {
         "text": "Blake",
         "source": "wiki"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Avicii",
+        "source": "google"
+      },
+      {
+        "text": "Avoid",
+        "source": "google"
+      },
+      {
+        "text": "Automated Vehicle",
+        "source": "google"
+      },
+      {
+        "text": "Avatar",
+        "source": "google"
+      },
+      {
+        "text": "Avenge",
+        "source": "google"
+      },
+      {
+        "text": "Audio Visual",
+        "source": "google"
+      },
+      {
+        "text": "Avril",
+        "source": "google"
+      },
+      {
+        "text": "Average",
+        "source": "google"
+      },
+      {
+        "text": "Avocado",
+        "source": "google"
+      },
+      {
+        "text": "Avengers",
+        "source": "google"
+      },
+      {
+        "text": "Avalanche",
+        "source": "google"
+      },
+      {
+        "text": "Asajj Ventress",
+        "source": "google"
+      },
+      {
+        "text": "Advertize",
+        "source": "google"
+      },
+      {
+        "text": "AV Cables",
+        "source": "google"
+      },
+      {
+        "text": "Anvil",
+        "source": "google"
+      },
+      {
+        "text": "Avenue",
+        "source": "google"
       }
     ],
     "BN": [
@@ -2829,6 +5653,90 @@
       {
         "text": "Bill Nye",
         "source": "wiki"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Automated Vehicle",
+        "source": "google"
+      },
+      {
+        "text": "Amy Winehouse",
+        "source": "google"
+      },
+      {
+        "text": "Awaken",
+        "source": "google"
+      },
+      {
+        "text": "Audio Visual",
+        "source": "google"
+      },
+      {
+        "text": "Alan Walker",
+        "source": "google"
+      },
+      {
+        "text": "Award",
+        "source": "google"
+      },
+      {
+        "text": "Avocado",
+        "source": "google"
+      },
+      {
+        "text": "Abomasnow",
+        "source": "google"
+      },
+      {
+        "text": "Awkward",
+        "source": "google"
+      },
+      {
+        "text": "Avatar",
+        "source": "google"
+      },
+      {
+        "text": "Adam West",
+        "source": "google"
+      },
+      {
+        "text": "Aww",
+        "source": "google"
+      },
+      {
+        "text": "AV Cables",
+        "source": "google"
+      },
+      {
+        "text": "Alice (in Wonderland)",
+        "source": "google"
+      },
+      {
+        "text": "Awesome",
+        "source": "google"
+      },
+      {
+        "text": "Anvil",
+        "source": "google"
+      },
+      {
+        "text": "Alan Watts",
+        "source": "google"
+      },
+      {
+        "text": "Avenue",
+        "source": "google"
       }
     ],
     "BO": [
@@ -2855,6 +5763,78 @@
       {
         "text": "Boar",
         "source": "wiki"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Amy Winehouse",
+        "source": "google"
+      },
+      {
+        "text": "Awaken",
+        "source": "google"
+      },
+      {
+        "text": "AW",
+        "source": "google"
+      },
+      {
+        "text": "Alan Walker",
+        "source": "google"
+      },
+      {
+        "text": "Award",
+        "source": "google"
+      },
+      {
+        "text": "Awl",
+        "source": "google"
+      },
+      {
+        "text": "Abomasnow",
+        "source": "google"
+      },
+      {
+        "text": "Awkward",
+        "source": "google"
+      },
+      {
+        "text": "Adam West",
+        "source": "google"
+      },
+      {
+        "text": "Aww",
+        "source": "google"
+      },
+      {
+        "text": "Awana",
+        "source": "google"
+      },
+      {
+        "text": "Alice (in Wonderland)",
+        "source": "google"
+      },
+      {
+        "text": "Awesome",
+        "source": "google"
+      },
+      {
+        "text": "Awning",
+        "source": "google"
+      },
+      {
+        "text": "Alan Watts",
+        "source": "google"
       }
     ],
     "BP": [
@@ -2881,6 +5861,66 @@
       {
         "text": "Blood Pressure",
         "source": "wiki"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Awaken",
+        "source": "google"
+      },
+      {
+        "text": "AW",
+        "source": "google"
+      },
+      {
+        "text": "Alex",
+        "source": "google"
+      },
+      {
+        "text": "Award",
+        "source": "google"
+      },
+      {
+        "text": "Awl",
+        "source": "google"
+      },
+      {
+        "text": "Axel",
+        "source": "google"
+      },
+      {
+        "text": "Awkward",
+        "source": "google"
+      },
+      {
+        "text": "Axew",
+        "source": "google"
+      },
+      {
+        "text": "Aww",
+        "source": "google"
+      },
+      {
+        "text": "Awana",
+        "source": "google"
+      },
+      {
+        "text": "Awesome",
+        "source": "google"
+      },
+      {
+        "text": "Awning",
+        "source": "google"
       }
     ],
     "BQ": [
@@ -2903,6 +5943,58 @@
       {
         "text": "Be Quiet",
         "source": "wiki"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "AW",
+        "source": "google"
+      },
+      {
+        "text": "Alex",
+        "source": "google"
+      },
+      {
+        "text": "Axe",
+        "source": "google"
+      },
+      {
+        "text": "Awl",
+        "source": "google"
+      },
+      {
+        "text": "Axel",
+        "source": "google"
+      },
+      {
+        "text": "Affix",
+        "source": "google"
+      },
+      {
+        "text": "Award",
+        "source": "google"
+      },
+      {
+        "text": "Axew",
+        "source": "google"
+      },
+      {
+        "text": "Awana",
+        "source": "google"
+      },
+      {
+        "text": "Awning",
+        "source": "google"
       }
     ],
     "BR": [
@@ -2929,6 +6021,42 @@
       {
         "text": "Bruh",
         "source": "wiki"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Alex",
+        "source": "google"
+      },
+      {
+        "text": "Axe",
+        "source": "google"
+      },
+      {
+        "text": "Axel",
+        "source": "google"
+      },
+      {
+        "text": "Affix",
+        "source": "google"
+      },
+      {
+        "text": "Axew",
+        "source": "google"
+      },
+      {
+        "text": "Axolotl",
+        "source": "google"
       }
     ],
     "BS": [
@@ -2951,6 +6079,46 @@
       {
         "text": "Bias",
         "source": "wiki"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Axe",
+        "source": "google"
+      },
+      {
+        "text": "Jay",
+        "source": "google"
+      },
+      {
+        "text": "Affix",
+        "source": "google"
+      },
+      {
+        "text": "Axel",
+        "source": "google"
+      },
+      {
+        "text": "Kevin Hays",
+        "source": "google"
+      },
+      {
+        "text": "Axolotl",
+        "source": "google"
+      },
+      {
+        "text": "Ray",
+        "source": "google"
       }
     ],
     "BT": [
@@ -2981,6 +6149,58 @@
       {
         "text": "Bad Taste (movie)",
         "source": "wiki"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Axe",
+        "source": "google"
+      },
+      {
+        "text": "Jay",
+        "source": "google"
+      },
+      {
+        "text": "Pay",
+        "source": "google"
+      },
+      {
+        "text": "Axel",
+        "source": "google"
+      },
+      {
+        "text": "Kevin Hays",
+        "source": "google"
+      },
+      {
+        "text": "Gay",
+        "source": "google"
+      },
+      {
+        "text": "Axolotl",
+        "source": "google"
+      },
+      {
+        "text": "Ray",
+        "source": "google"
+      },
+      {
+        "text": "Aye!",
+        "source": "google"
+      },
+      {
+        "text": "Ayyyyy",
+        "source": "google"
       }
     ],
     "BU": [
@@ -3003,6 +6223,50 @@
       {
         "text": "Bulworth (movie)",
         "source": "wiki"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Jay",
+        "source": "google"
+      },
+      {
+        "text": "Pay",
+        "source": "google"
+      },
+      {
+        "text": "Hay",
+        "source": "google"
+      },
+      {
+        "text": "Kevin Hays",
+        "source": "google"
+      },
+      {
+        "text": "Gay",
+        "source": "google"
+      },
+      {
+        "text": "Ray",
+        "source": "google"
+      },
+      {
+        "text": "Aye!",
+        "source": "google"
+      },
+      {
+        "text": "Ayyyyy",
+        "source": "google"
       }
     ],
     "BV": [
@@ -3017,6 +6281,58 @@
       {
         "text": "Believe",
         "source": "wiki"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Pay",
+        "source": "google"
+      },
+      {
+        "text": "Hay",
+        "source": "google"
+      },
+      {
+        "text": "Aziz Ansari",
+        "source": "google"
+      },
+      {
+        "text": "Gay",
+        "source": "google"
+      },
+      {
+        "text": "Aztec",
+        "source": "google"
+      },
+      {
+        "text": "Aye!",
+        "source": "google"
+      },
+      {
+        "text": "Azlan",
+        "source": "google"
+      },
+      {
+        "text": "Ayyyyy",
+        "source": "google"
+      },
+      {
+        "text": "Azzy",
+        "source": "google"
+      },
+      {
+        "text": "Azula",
+        "source": "google"
       }
     ],
     "BW": [
@@ -3043,6 +6359,46 @@
       {
         "text": "Bruce Willis",
         "source": "wiki"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Hay",
+        "source": "google"
+      },
+      {
+        "text": "Aziz Ansari",
+        "source": "google"
+      },
+      {
+        "text": "Azure",
+        "source": "google"
+      },
+      {
+        "text": "Aztec",
+        "source": "google"
+      },
+      {
+        "text": "Azlan",
+        "source": "google"
+      },
+      {
+        "text": "Azzy",
+        "source": "google"
+      },
+      {
+        "text": "Azula",
+        "source": "google"
       }
     ],
     "BX": [
@@ -3053,6 +6409,50 @@
       {
         "text": "Box",
         "source": "wiki"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Aziz Ansari",
+        "source": "google"
+      },
+      {
+        "text": "Azure",
+        "source": "google"
+      },
+      {
+        "text": "Azimuth",
+        "source": "google"
+      },
+      {
+        "text": "Aztec",
+        "source": "google"
+      },
+      {
+        "text": "Azlan",
+        "source": "google"
+      },
+      {
+        "text": "Arizona",
+        "source": "google"
+      },
+      {
+        "text": "Azzy",
+        "source": "google"
+      },
+      {
+        "text": "Azula",
+        "source": "google"
       }
     ],
     "CA": [
@@ -3075,6 +6475,38 @@
       {
         "text": "Canada",
         "source": "wiki"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Ash",
+        "source": "google"
+      },
+      {
+        "text": "Ashy",
+        "source": "google"
+      },
+      {
+        "text": "Ashley",
+        "source": "google"
+      },
+      {
+        "text": "Ashtray",
+        "source": "google"
+      },
+      {
+        "text": "Aschenbrenner",
+        "source": "google"
       }
     ],
     "CB": [
@@ -3101,6 +6533,34 @@
       {
         "text": "Christian Bale",
         "source": "wiki"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Ashy",
+        "source": "google"
+      },
+      {
+        "text": "Ash",
+        "source": "google"
+      },
+      {
+        "text": "Archer",
+        "source": "google"
+      },
+      {
+        "text": "Ashtray",
+        "source": "google"
       }
     ],
     "CD": [
@@ -3119,6 +6579,34 @@
       {
         "text": "Cameron Diaz",
         "source": "wiki"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Archer",
+        "source": "google"
+      },
+      {
+        "text": "Achoo",
+        "source": "google"
+      },
+      {
+        "text": "Arch",
+        "source": "google"
+      },
+      {
+        "text": "Aching",
+        "source": "google"
       }
     ],
     "CE": [
@@ -3137,6 +6625,42 @@
       {
         "text": "Clint Eastwood",
         "source": "wiki"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Achoo",
+        "source": "google"
+      },
+      {
+        "text": "Arch",
+        "source": "google"
+      },
+      {
+        "text": "Athlete",
+        "source": "google"
+      },
+      {
+        "text": "Aching",
+        "source": "google"
+      },
+      {
+        "text": "Athena",
+        "source": "google"
+      },
+      {
+        "text": "Athos",
+        "source": "google"
       }
     ],
     "CF": [
@@ -3171,6 +6695,38 @@
       {
         "text": "CFOP",
         "source": "wiki"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Arch",
+        "source": "google"
+      },
+      {
+        "text": "Athlete",
+        "source": "google"
+      },
+      {
+        "text": "Math(ing?)",
+        "source": "google"
+      },
+      {
+        "text": "Athena",
+        "source": "google"
+      },
+      {
+        "text": "Athos",
+        "source": "google"
       }
     ],
     "CG": [
@@ -3189,6 +6745,42 @@
       {
         "text": "CGI",
         "source": "wiki"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Athlete",
+        "source": "google"
+      },
+      {
+        "text": "Math(ing?)",
+        "source": "google"
+      },
+      {
+        "text": "Athena",
+        "source": "google"
+      },
+      {
+        "text": "Athanor",
+        "source": "google"
+      },
+      {
+        "text": "Athos",
+        "source": "google"
+      },
+      {
+        "text": "Math",
+        "source": "google"
       }
     ],
     "CH": [
@@ -3215,6 +6807,46 @@
       {
         "text": "Chuck",
         "source": "wiki"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Math(ing?)",
+        "source": "google"
+      },
+      {
+        "text": "Athlete",
+        "source": "google"
+      },
+      {
+        "text": "Astronaut",
+        "source": "google"
+      },
+      {
+        "text": "Athanor",
+        "source": "google"
+      },
+      {
+        "text": "Asterix",
+        "source": "google"
+      },
+      {
+        "text": "Math",
+        "source": "google"
+      },
+      {
+        "text": "Astrid",
+        "source": "google"
       }
     ],
     "CJ": [
@@ -3229,6 +6861,42 @@
       {
         "text": "Carl Johnson (GTA)",
         "source": "wiki"
+      },
+      {
+        "text": "Person",
+        "source": "google"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Astronaut",
+        "source": "google"
+      },
+      {
+        "text": "Cast",
+        "source": "google"
+      },
+      {
+        "text": "Asteroid",
+        "source": "google"
+      },
+      {
+        "text": "Asterix",
+        "source": "google"
+      },
+      {
+        "text": "Astrid",
+        "source": "google"
+      },
+      {
+        "text": "Mast",
+        "source": "google"
       }
     ],
     "CK": [
@@ -3251,6 +6919,30 @@
       {
         "text": "Cock",
         "source": "wiki"
+      },
+      {
+        "text": "Verb or Adjective",
+        "source": "google"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Cast",
+        "source": "google"
+      },
+      {
+        "text": "Asteroid",
+        "source": "google"
+      },
+      {
+        "text": "Astronaut",
+        "source": "google"
+      },
+      {
+        "text": "Mast",
+        "source": "google"
       }
     ],
     "CL": [
@@ -3273,6 +6965,26 @@
       {
         "text": "Courtney Love",
         "source": "wiki"
+      },
+      {
+        "text": "Object",
+        "source": "google"
+      },
+      {
+        "text": "Asteroid",
+        "source": "google"
+      },
+      {
+        "text": "Astronaut",
+        "source": "google"
+      },
+      {
+        "text": "Cast",
+        "source": "google"
+      },
+      {
+        "text": "Mast",
+        "source": "google"
       }
     ],
     "CM": [

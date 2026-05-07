@@ -1,4 +1,5 @@
 export const STORAGE_KEY = "blindpairs.v1";
+export const PERSISTED_STATE_FILENAME = "blindpairs-state-v1.json";
 
 export const DEFAULT_REVEAL_DELAY_MS = 2000;
 export const MINIMUM_ASSIGNED_TO_DRILL = 5;

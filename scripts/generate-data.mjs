@@ -52,6 +52,15 @@ const sourceMap = Object.fromEntries(validPairs.map((pair) => [pair, []]));
 mergeSourceMap(sourceMap, parseGoogleCandidates(googleCsv), "google");
 mergeSourceMap(sourceMap, parseWikiCandidates(wikiRaw), "wiki");
 
+// Parse HTML files from LetterPairs directory
+const letterPairsDir = path.join(rawDir, "LetterPairs");
+const htmlFiles = await fs.readdir(letterPairsDir);
+for (const file of htmlFiles.filter((f) => f.endsWith(".html"))) {
+  const filePath = path.join(letterPairsDir, file);
+  const htmlContent = await fs.readFile(filePath, "utf-8");
+  mergeSourceMap(sourceMap, parseHtmlCandidates(htmlContent), "google");
+}
+
 const output = {
   generatedAt: new Date().toISOString(),
   alphabet: ALPHABET,
@@ -153,6 +162,64 @@ function parseWikiCandidates(raw) {
 
     if (candidate) {
       result[currentPair].push(candidate);
+    }
+  }
+
+  return result;
+}
+
+function parseHtmlCandidates(html) {
+  const result = {};
+
+  // Extract table headers to find pair columns
+  const headerMatch = html.match(/<thead>.*?<\/thead>/s);
+  if (!headerMatch) return result;
+
+  const headerHtml = headerMatch[0];
+  const pairRegex = /id="0C(\d+)"[^>]*>([A-Z]{2,3}(?:ch|sh|st|th)?)<\/th>/g;
+  const pairColumns = [];
+  let match;
+
+  while ((match = pairRegex.exec(headerHtml)) !== null) {
+    const columnIndex = parseInt(match[1]);
+    const pair = normalizePair(match[2]);
+    if (pair) {
+      pairColumns.push({ pair, columnIndex });
+      result[pair] = [];
+    }
+  }
+
+  if (pairColumns.length === 0) return result;
+
+  // Extract table rows and cells
+  const bodyMatch = html.match(/<tbody>.*?<\/tbody>/s);
+  if (!bodyMatch) return result;
+
+  const bodyHtml = bodyMatch[0];
+  const rows = bodyHtml.split(/<tr[^>]*>/);
+
+  // Skip header row, start from second row
+  for (let rowIndex = 2; rowIndex < rows.length; rowIndex++) {
+    const rowHtml = rows[rowIndex];
+    const cells = rowHtml.split(/<td[^>]*>|<\/td>/);
+
+    for (const { pair, columnIndex } of pairColumns) {
+      // Each pair has 3 columns (Person, Verb, Object)
+      for (let i = 0; i < 3; i++) {
+        const cellIndex = columnIndex * 2 + i * 2 + 1;
+        if (cellIndex < cells.length) {
+          const cellContent = cells[cellIndex];
+          // Remove HTML tags and links
+          const text = cellContent
+            .replace(/<[^>]*>/g, "")
+            .replace(/&[a-z]+;/g, "")
+            .trim();
+          const candidate = normalizeCandidate(text);
+          if (candidate) {
+            result[pair].push(candidate);
+          }
+        }
+      }
     }
   }
 

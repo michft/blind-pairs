@@ -12,6 +12,7 @@ import {
   gradePair,
   importState,
   isValidCustomText,
+  loadPersistedState,
   loadState,
   pickNextPair,
   saveState,
@@ -25,6 +26,7 @@ type Page = "setup" | "drill";
 
 export default function App() {
   const [state, setState] = useState<PersistedState>(() => loadState(dataset));
+  const [isStorageReady, setIsStorageReady] = useState(false);
   const [page, setPage] = useState<Page>("setup");
   const [currentPair, setCurrentPair] = useState<PairCode | null>(null);
   const [revealed, setRevealed] = useState(false);
@@ -39,8 +41,23 @@ export default function App() {
   const isReadyToDrill = canDrill(assignedCount);
 
   useEffect(() => {
-    saveState(state);
-  }, [state]);
+    let cancelled = false;
+
+    void loadPersistedState(dataset).then((nextState) => {
+      if (cancelled) return;
+      setState(nextState);
+      setIsStorageReady(true);
+    });
+
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  useEffect(() => {
+    if (!isStorageReady) return;
+    void saveState(state);
+  }, [isStorageReady, state]);
 
   useEffect(() => {
     if (page !== "drill" || !isReadyToDrill) return;
@@ -271,9 +288,9 @@ export default function App() {
                           selectedText === candidate.text ? "candidate selected" : "candidate"
                         }
                         onClick={() => handleSelect(pair, candidate.text)}
+                        title={candidate.source}
                       >
                         <span>{candidate.text}</span>
-                        <small>{candidate.source}</small>
                       </button>
                     ))}
                   </div>
