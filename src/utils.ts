@@ -113,17 +113,30 @@ export function loadState(dataset: SourceDataset): PersistedState {
     const restoredProgress = Object.fromEntries(
       dataset.validPairs.map((pair) => {
         const incomingProgress = parsed.progress?.[pair];
-        // Check if incomingProgress has the expected shape
+        // Check if incomingProgress has the expected shape and non-negative values
         if (
           incomingProgress &&
           typeof incomingProgress.seenCount === "number" &&
+          incomingProgress.seenCount >= 0 &&
           typeof incomingProgress.correctCount === "number" &&
+          incomingProgress.correctCount >= 0 &&
           typeof incomingProgress.wrongCount === "number" &&
+          incomingProgress.wrongCount >= 0 &&
           typeof incomingProgress.currentSessionSeen === "boolean" &&
           typeof incomingProgress.currentSessionWrongCount === "number" &&
-          typeof incomingProgress.nextAfterGuesses === "number"
+          incomingProgress.currentSessionWrongCount >= 0 &&
+          typeof incomingProgress.nextAfterGuesses === "number" &&
+          incomingProgress.nextAfterGuesses >= 0
         ) {
-          return [pair, incomingProgress];
+          // Restore persistent fields but reset session-specific counters on page load
+          return [
+            pair,
+            {
+              ...incomingProgress,
+              currentSessionSeen: false,
+              currentSessionWrongCount: 0,
+            },
+          ];
         }
         return [pair, fallback.progress[pair]];
       }),
