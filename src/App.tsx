@@ -23,6 +23,23 @@ const FILTERS = Object.keys(FILTER_LABELS) as FilterMode[];
 
 type Page = "setup" | "drill";
 
+/**
+ * Top-level application component that manages setup and drill flows for practising letter pairs.
+ *
+ * Manages persisted application state (assignments, progress, reveal delay and filters), enforces a minimum
+ * number of assigned pairs before enabling drill mode, schedules auto-reveal timers, and provides import/export
+ * and session reset actions. Renders the Setup and Drill UI, including controls for selecting or adding
+ * candidate phrases, filtering eligible pairs, and grading drill responses.
+ *
+ * Accessibility notes:
+ * - Interactive controls use semantic buttons and inputs; ensure focus styles are visible.
+ * - File import uses a hidden file input triggered by an explicit "Import" button to preserve keyboard access.
+ *
+ * Usage example:
+ * <App />
+ *
+ * @returns The React element tree for the application UI.
+ */
 export default function App() {
   const [state, setState] = useState<PersistedState>(() => loadState(dataset));
   const [page, setPage] = useState<Page>("setup");
