@@ -81,6 +81,17 @@ export function createInitialState(dataset: SourceDataset): PersistedState {
   };
 }
 
+/**
+ * Load persisted application state from localStorage and merge it with a default state for the given dataset.
+ *
+ * When present, stored values are validated before use: candidate texts are normalised and deduplicated per pair;
+ * per-pair progress entries are checked for the required numeric/boolean fields and replaced with defaults if invalid;
+ * `globalGuessIndex` is accepted only if it is a number >= 0. If no stored state is found, the version is unsupported, or parsing fails,
+ * a freshly created initial state is returned.
+ *
+ * @param dataset - The source dataset used to build the initial state and to validate/merge stored pair entries
+ * @returns A PersistedState produced by merging validated persisted data with the initial state for `dataset`
+ */
 export function loadState(dataset: SourceDataset): PersistedState {
   const fallback = createInitialState(dataset);
   const raw = localStorage.getItem(STORAGE_KEY);
