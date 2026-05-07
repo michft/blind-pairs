@@ -394,7 +394,8 @@ button:disabled {
   z-index: 10;
 }
 
-.candidate:hover small {
+.candidate:hover small,
+.candidate:focus-visible small {
   opacity: 1;
 }
 
