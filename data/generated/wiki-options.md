@@ -1,6 +1,7 @@
 # wiki options
 
-Generated from the wiki source for A-X blind pair setup.
+Generated from the wiki source containing all letter pair combinations.
+For blind pair solving with the cubing community, use pairs from A-Z and special pairs (shA-shZ, stA-stZ, chA-chZ, thA-thZ) (see pairs.json for valid pairs).
 
 ## AB
 - Ali Baba
@@ -81,6 +82,9 @@ Generated from the wiki source for A-X blind pair setup.
 - Application (Computer Program)
 - APB
 
+## AQ
+- None
+
 ## AR
 - Arrow
 - Art
@@ -114,8 +118,13 @@ Generated from the wiki source for A-X blind pair setup.
 - Axis
 - Axl Rose
 
+## AY
+- None
+
+## AZ
+- None
+
 ## BA
-- Bagel
 - Batman
 - Bald
 - British Airways
@@ -202,6 +211,9 @@ Generated from the wiki source for A-X blind pair setup.
 - Big Lebrowski (movie)
 - Blake
 
+## BM
+- None
+
 ## BN
 - Bone
 - Bin
@@ -258,7 +270,6 @@ Generated from the wiki source for A-X blind pair setup.
 - Bad Taste (movie)
 
 ## BU
-- Bus
 - Bulb
 - Bull
 - Bullshit
@@ -281,20 +292,21 @@ Generated from the wiki source for A-X blind pair setup.
 - Boxer
 - Box
 
+## BY
+- None
+
+## BZ
+- None
+
 ## CA
-- Camera
-- California
 - Carrot
 - Cappuccino
 - Canada
 
 ## CB
 - City Cab
-- Cube
 - Cob (Corn Cob)
-- Cub
 - Curb
-- Christian Bale
 
 ## CD
 - Compact Disc
@@ -331,6 +343,9 @@ Generated from the wiki source for A-X blind pair setup.
 - Chair
 - Cher
 - Chuck
+
+## CI
+- None
 
 ## CJ
 - Cujo
@@ -435,28 +450,30 @@ Generated from the wiki source for A-X blind pair setup.
 - Cyoubx
 - Calx (metallic oxide)
 
+## CY
+- None
+
+## CZ
+- None
+
 ## DA
-- Dagger
 - Dark knight
 - Dance
 - Douglas Adams
 - Day
 
 ## DB
-- Disco Ball
 - Dobby (Harry Potter)
-- Double
-- Database
 - David Blaine
 - D. B. Cooper
-- Dab
 - Debt
 
 ## DC
 - Dan Cohen
-- Washington DC
-- Dice
 - David Copperfield
+
+## DE
+- None
 
 ## DF
 - Dafadils
@@ -483,7 +500,6 @@ Generated from the wiki source for A-X blind pair setup.
 ## DI
 - Disney
 - Dia
-- Diglett
 - Digger
 - Dinosaur
 
@@ -559,7 +575,6 @@ Generated from the wiki source for A-X blind pair setup.
 - Dr. Seuss
 
 ## DT
-- Dart
 - Debt
 - Donald Trump
 - Date
@@ -585,7 +600,6 @@ Generated from the wiki source for A-X blind pair setup.
 - Dreamweaver
 - Darkwing duck
 - Dwarf
-- Dew
 
 ## DX
 - Deluxe
@@ -594,19 +608,20 @@ Generated from the wiki source for A-X blind pair setup.
 - Doxxing
 - Dexter
 
+## DY
+- None
+
+## DZ
+- None
+
 ## EA
-- Eagle
+- None
 
 ## EB
-- Eyeball
-- Easter Bunny
+- None
 
 ## EC
-- Extra Credit
-- Emily Campbell
 - Ecclesiastical
-- Eclair
-- Eclipse
 
 ## ED
 - Edward (Twilight)
@@ -716,28 +731,28 @@ Generated from the wiki source for A-X blind pair setup.
 - Explosion
 - Ex
 
+## EY
+- None
+
+## EZ
+- None
+
 ## FA
-- Fat Albert
 - Field Artillery
 - FIFA
 
 ## FB
-- Football
-- Facebook
+- None
 
 ## FC
 - Fascism
 - Fetch
 - Fifty Cent
-- Face
 
 ## FD
-- Food
 - Fed-Ex truck
-- Fedora
 
 ## FE
-- Ferret
 - Ferrous
 - Fossil Energy
 
@@ -756,7 +771,6 @@ Generated from the wiki source for A-X blind pair setup.
 
 ## FI
 - Fiddle
-- Fish
 - Fight
 - Fiction (Sci-fi)
 
@@ -766,6 +780,9 @@ Generated from the wiki source for A-X blind pair setup.
 
 ## FK
 - Fork
+
+## FL
+- None
 
 ## FM
 - Foam
@@ -836,8 +853,13 @@ Generated from the wiki source for A-X blind pair setup.
 ## FX
 - Fox
 
+## FY
+- None
+
+## FZ
+- None
+
 ## GA
-- Gargoyle
 - Ground Attack
 - Gamble
 - Gay
@@ -847,31 +869,22 @@ Generated from the wiki source for A-X blind pair setup.
 - Great Britain
 - Gaben
 - Gobi Desert
-- Gameboy
-- Globe
 
 ## GC
 - Geek car
-- Gamecube
 - Google Classroom
 - Guacamole
 
 ## GD
-- Godzilla
-- God
 - Gd permutation
-- Geometry Dash
 
 ## GE
 - Gentleman
-- Genie
 - Gem
 - Gene
-- General Electric
 
 ## GF
-- Giraffe
-- Girlfriend
+- None
 
 ## GH
 - Green House
@@ -948,7 +961,6 @@ Generated from the wiki source for A-X blind pair setup.
 ## GU
 - Gull
 - Gun
-- Guitar
 - Guildford
 
 ## GV
@@ -966,13 +978,20 @@ Generated from the wiki source for A-X blind pair setup.
 - Global Xpress
 - Germ-X (Hand Sanitizer)
 
+## GX
+- None
+
+## GY
+- None
+
+## GZ
+- None
+
 ## HA
-- Harp
-- Harpoon
+- None
 
 ## HB
 - Habit
-- HB Pencil
 - Haribo Goldbears
 - HBO
 
@@ -981,26 +1000,15 @@ Generated from the wiki source for A-X blind pair setup.
 - Helicopter
 
 ## HD
-- Hard
-- Head
-- Hot Dog
 - High Definition (resolution)
 
 ## HE
-- Helium
-- Hero
 - Herb
 
 ## HF
-- Huff
-- Hot fudge
 - Half
 
 ## HG
-- Hang
-- Hermione Granger
-- Hog
-- Hug
 - Rubeus Hagrid
 
 ## HI
@@ -1052,6 +1060,9 @@ Generated from the wiki source for A-X blind pair setup.
 - Harley Quinn
 - Headquarters
 
+## HR
+- None
+
 ## HS
 - Howard Stern
 - Heather Smith
@@ -1088,19 +1099,20 @@ Generated from the wiki source for A-X blind pair setup.
 - Hacksaw
 - Hexagon
 
+## HY
+- None
+
+## HZ
+- None
+
 ## IA
 - Ian
-- Iowa
 
 ## IB
 - I-beam
-- Ibis
-- Ibuprofen
 
 ## IC
-- Icarus
-- Ice cream
-- Ice
+- None
 
 ## ID
 - Identity Card
@@ -1108,21 +1120,14 @@ Generated from the wiki source for A-X blind pair setup.
 
 ## IE
 - Ice
-- Internet Explorer
 
 ## IF
-- Ice fog
-- Eiffel Tower
 - Infinity
 
 ## IG
-- Iguana
-- Igloo
 - Iggy Azalea
-- Instagram
 
 ## IH
-- Incredible Hulk
 - IHOP (restaurant)
 
 ## IJ
@@ -1199,39 +1204,31 @@ Generated from the wiki source for A-X blind pair setup.
 - Intoxicated
 - Ice Axe
 
+## IY
+- None
+
+## IZ
+- None
+
 ## JA
 - Ja Permutation
-- Jar
-- Jaguar
 - Jaws
-- Jay
 
 ## JB
-- Jukebox
-- James Bond
-- Job
-- Justin Bieber
+- None
 
 ## JC
-- Julius Caesar
 - John Carroll
-- Jackie Chan
-- Jesus Christ
-- Juice
-- John Cena
 
 ## JD
 - Jack Daniel's
 - Jess Donahue
 - Jessica Donahue
-- Jedi
 - John Dorian
 - Jordan
 
 ## JE
 - Jetplane
-- Jesus
-- Jet engine
 
 ## JF
 - Jelly fish
@@ -1240,10 +1237,8 @@ Generated from the wiki source for A-X blind pair setup.
 - Jessica Fridrich
 
 ## JG
-- Jug
 - Jig-A-Loo
 - Joey Ghouly
-- Jaguar
 
 ## JH
 - Jabba the Hut
@@ -1275,8 +1270,10 @@ Generated from the wiki source for A-X blind pair setup.
 
 ## JO
 - Joey
-- John
 - Joe
+
+## JP
+- None
 
 ## JQ
 - Jack's Quest
@@ -1325,13 +1322,17 @@ Generated from the wiki source for A-X blind pair setup.
 ## JX
 - None
 
+## JY
+- None
+
+## JZ
+- None
+
 ## KA
-- Kangaroo
+- None
 
 ## KB
-- Keyboard
 - Kilobyte
-- Kebab
 - Kobe Bryant
 - Kirby
 
@@ -1342,14 +1343,10 @@ Generated from the wiki source for A-X blind pair setup.
 - Kurt Cobain
 
 ## KD
-- Kraft Dinner
-- Kid
-- Kevin Durant
+- None
 
 ## KE
-- Ketchup
 - Kelp
-- Key
 
 ## KF
 - None
@@ -1360,7 +1357,6 @@ Generated from the wiki source for A-X blind pair setup.
 - Kevin Garnett
 
 ## KH
-- Keyhole
 - Khmer Rouge
 - DJ Khaled
 - Burj Khalifa
@@ -1368,12 +1364,10 @@ Generated from the wiki source for A-X blind pair setup.
 - Wiz Khalifa
 
 ## KI
-- Kite
 - Kinetic Energy
 
 ## KJ
 - Knee-jerk
-- Kirjava
 - Kilojoules
 - Kylie Jenner
 
@@ -1422,6 +1416,9 @@ Generated from the wiki source for A-X blind pair setup.
 - Kite
 - Kat
 
+## KU
+- None
+
 ## KV
 - Kevlar
 - Kill vehicle
@@ -1434,43 +1431,34 @@ Generated from the wiki source for A-X blind pair setup.
 ## KX
 - KIX Cereal
 
+## KY
+- None
+
+## KZ
+- None
+
 ## LA
-- Lamp
-- Los Angeles
+- None
 
 ## LB
 - Leo Borromeo
 - Lazy Boy
 - Lubricants
-- Lab
-- Lobster
 
 ## LC
 - Locust
 - Downloadable Content (DLC)
-- Lick
-- Lucifer
 
 ## LD
 - Larry D. Nichols
-- Lead
-- Ladder
-- Lid
 
 ## LE
 - Leo
-- Leopard
-- Leap
 
 ## LF
-- Leaf
 - Elf
 
 ## LG
-- Lego
-- Log
-- Lady Gaga
-- Leg
 - Luke Garret
 
 ## LH
@@ -1478,26 +1466,19 @@ Generated from the wiki source for A-X blind pair setup.
 - Lynsey Hilbourn
 
 ## LI
-- Listerine
 - Lips
 - Lightake
-- Lion
 
 ## LJ
-- Lodge
-- Lebron James
 - Live Journal
 
 ## LK
 - Liu Kang
-- Lock
 - Luke Skywalker
-- Lick
 - Elk
 
 ## LM
 - Lamb
-- Llama
 - Lionel Messi
 - Lemon
 
@@ -1566,16 +1547,18 @@ Generated from the wiki source for A-X blind pair setup.
 - Laxative
 - Lexus (Car Brand)
 
+## LY
+- None
+
+## LZ
+- None
+
 ## MA
 - Ma (Whistler's Mother)
-- Magikarp
 - Masturbate
-- Mail
 
 ## MB
-- Men in Black
 - Matt Bruno
-- Mob
 - Mercedes Benz
 
 ## MC
@@ -1583,16 +1566,10 @@ Generated from the wiki source for A-X blind pair setup.
 - Mortal Combat
 - Magician
 - MC
-- Minecraft
-- MC Hammer
-- Mace
 - Mitochondria
 
 ## MD
 - Media
-- Mountain Dew
-- Medical Doctor
-- Mud
 - Mood ring
 - Mad Max
 - Megadeth
@@ -1605,33 +1582,26 @@ Generated from the wiki source for A-X blind pair setup.
 - Maine
 - Middle East
 - Middle Earth
-- Meth
 
 ## MF
 - Megaphone
-- Muffin
 - Microphone
 - Milf
 - Ear Muffs
 
 ## MG
-- Magnet
 - Magnesium
-- Magazine
 - Magna Carta
 - Megaman
 - Migraine
 
 ## MH
 - Mohican
-- Mike Hughey
-- Manhole
 - Miami Heat
 - mH (milli-Hertz)
 
 ## MI
 - Mobile Infantry
-- Milk
 - Military Intelligence
 - Monsters, Inc.
 - Mission Impossible
@@ -1639,17 +1609,13 @@ Generated from the wiki source for A-X blind pair setup.
 - Minnesota
 
 ## MJ
-- Michael Jackson
-- Michael Jordan
+- None
 
 ## MK
-- Monkey
 - Mike Guy
-- Mickey Mouse
 - Mary Kay
 
 ## ML
-- Mona Lisa
 - Melting
 - Mario Luigi
 - Millenium Falcon
@@ -1745,6 +1711,12 @@ Generated from the wiki source for A-X blind pair setup.
 - Maximum
 - Mixer
 
+## MY
+- None
+
+## MZ
+- None
+
 ## NA
 - Naseous
 - Nacho
@@ -1753,7 +1725,6 @@ Generated from the wiki source for A-X blind pair setup.
 - North America
 
 ## NB
-- Nebuchadnezzar
 - Nutter butter
 - Notebook
 - Nuts & Bolts
@@ -1762,39 +1733,28 @@ Generated from the wiki source for A-X blind pair setup.
 
 ## NC
 - Nicademus
-- Necktie
 - No change
-- Nyancat
 - North Carolina
 - Nacho
 
 ## ND
-- Nude
-- Needle
 - Ned Stark
 - Nancy Drew
-- North Dakota
 
 ## NE
-- Neo
-- Neon
 - Nebraska
 - any (pronouncing N-E)
-- Knee
 
 ## NF
-- Knife
 - Nicole Feeley
 - Niagara Falls
 - Nerf (toy)
-- Nose Flute
 - Nota Fiscal
 - NFT
 
 ## NG
 - Nalgene bottle
 - Noggin
-- Egg Nog
 - Noble Gas
 - Natural Gas
 - National Guard
@@ -1804,12 +1764,9 @@ Generated from the wiki source for A-X blind pair setup.
 ## NH
 - No Hate
 - North Harford
-- Neighborhood
 - Newspaper Headline
-- New Hampshire
 - New Haven (Yale)
 - Northern Hemisphere
-- Nursing Home
 - Nothing here
 - Noh (Japanese theater)
 - Hockey (NHL)
@@ -1818,10 +1775,8 @@ Generated from the wiki source for A-X blind pair setup.
 - Nicotine
 - Nickle
 - Nile
-- Nike
 
 ## NJ
-- Ninja
 - New Jersey
 - Navajo
 
@@ -1829,24 +1784,18 @@ Generated from the wiki source for A-X blind pair setup.
 - [http://thoitrangf5.com/170-giay-nike.html Nike]
 - Nakajima (Yu)
 - North Korea
-- Nuke
-- Nick
 
 ## NL
-- Noel
-- Nail
 - Night Light
 - Noodles
 - Not Lucky
 
 ## NM
 - Necromonger
-- Necromancer
 - "Nom" (eating)
 - Nematode
 - New Mexico
 - Name
-- Nicki Minaj
 
 ## NO
 - Gnome
@@ -1883,6 +1832,9 @@ Generated from the wiki source for A-X blind pair setup.
 - Noose
 - DNS
 
+## NT
+- None
+
 ## NU
 - Nuclear
 - Nut
@@ -1896,7 +1848,6 @@ Generated from the wiki source for A-X blind pair setup.
 
 ## NW
 - No Water
-- Newt
 - Nuclear waste
 - Nuclear Warfare
 - Northwest
@@ -1908,42 +1859,36 @@ Generated from the wiki source for A-X blind pair setup.
 - Nixon (Owen)
 - Nintendo NX
 
+## NY
+- None
+
+## NZ
+- None
+
 ## OA
-- Oatmeal
 - OSHA
 - Overeaters Anonymous
-- Oar
 
 ## OB
-- Obelisk
-- Obama
 - OB/GYN
 
 ## OC
-- Octopus
-- Ocarina
 - Orange County
 - Obsessive-Compulsive
 - Original Creation
 
 ## OD
-- Overdose
 - Oddish (Pokemon)
-- Old
 - One Direction band
 
 ## OE
 - Optical effect
-- Oboe
 - Oreo biscuits
 
 ## OF
-- Outfielder
-- Officer
-- Office
+- None
 
 ## OG
-- Ogre
 - Original Gangster
 - Oh God
 - Orange
@@ -1953,13 +1898,10 @@ Generated from the wiki source for A-X blind pair setup.
 - ...
 
 ## OI
-- Oil
 - Oui in French
 - Oink (pig)
 
 ## OJ
-- OJ Simpson
-- Orange Juice
 - OJHobbies
 
 ## OK
@@ -1969,17 +1911,13 @@ Generated from the wiki source for A-X blind pair setup.
 - oll korrect
 
 ## OL
-- Olive
-- OLL
 - LOL
 - All
 
 ## OM
-- Oatmeal
 - Ohm
 
 ## ON
-- Onion
 - On it!
 - Onision
 - On fleek
@@ -2024,6 +1962,9 @@ Generated from the wiki source for A-X blind pair setup.
 - Orangutan
 - Ouija Board
 
+## OV
+- None
+
 ## OW
 - Owl
 - Owen
@@ -2032,61 +1973,50 @@ Generated from the wiki source for A-X blind pair setup.
 - Ox
 - Oxygen
 
+## OY
+- None
+
+## OZ
+- None
+
 ## PA
 - Pam Anderson
-- Paper
 - Particle Accelerator
 - Paper Airplane
 - Paprika
 
 ## PB
-- Polar bear
-- Peanut butter
 - Pubic hair
 - Lead (symbol Pb)
 - Personal best
 
 ## PC
-- Peacock
-- Personal Computer
 - Popcorn
 
 ## PD
-- Panda
-- Pediatrician
-- Pad
 - Police Department
 - Pond
 - Pander
-- Pod
 
 ## PE
-- Penguin
 - Peru
 - Physical Education
-- Pee
-- Peanut
 
 ## PF
-- Pirate Flag
 - PDF
 - Parafuso
 - Pizza's Friends
 
 ## PG
 - Piggy bank
-- Pig
 - Penguin
 - PG rating
 - Peter Griffin
 
 ## PH
-- Pharoah
 - Phat
-- pH
 
 ## PI
-- Pie
 - Pi (3.14159...)
 - Pier
 
@@ -2097,35 +2027,23 @@ Generated from the wiki source for A-X blind pair setup.
 
 ## PK
 - Ice-pick
-- Pikachu
-- Parkour
-- Puke
-- Puck
 
 ## PL
 - Pliers
 - Markiplier
 - Play
-- Pluto
 
 ## PM
-- Pram
 - Pamela (Anderson)
 - Pyraminx
 - Personal Message
-- PAM
-- Pomegranate
 
 ## PN
-- Peter Pan
 - Penis
 - Penny
 - Pornography
-- Pan
-- Pen
 
 ## PO
-- Postman
 - Poop
 - Post Office
 
@@ -2186,41 +2104,37 @@ Generated from the wiki source for A-X blind pair setup.
 - Pax Romana
 - Pax Prime
 
+## PY
+- None
+
+## PZ
+- None
+
 ## QA
 - Quartz
 - Quail (Bird)
-- Quarter
 - Q&A
 - Quazar
 - Quartet
-- Qantas
 
 ## QB
-- Quarterback
-- Cubie
+- None
 
 ## QC
-- Quaich
-- Quick
 - Quinceanera
 
 ## QD
-- Quidditch
 - Qdoba
 - Cutie
-- Quid
 - Quarter Deck
 
 ## QE
 - Qeue
-- Queen
 - Queen Elizabeth
 - Queen of England
 
 ## QF
-- Quake Fiend
 - Quaffle (Harry Potter)
-- Queef
 - Quarteto Fantástico
 
 ## QG
@@ -2236,20 +2150,15 @@ Generated from the wiki source for A-X blind pair setup.
 - Quiet!
 
 ## QJ
-- Squeegee
-- QJ puzzle
+- None
 
 ## QK
-- Quark
-- Quick
 - Quaker Oats
 
 ## QL
-- Quail
-- Quill
+- None
 
 ## QM
-- Quail Man
 - Quantum Mechanics
 - Queen Mary
 - Quasimodo (Hunchback)
@@ -2259,15 +2168,12 @@ Generated from the wiki source for A-X blind pair setup.
 - Quinn Lewis
 - Harley Quinn
 - Queen
-- Quinoa
 
 ## QO
 - Quotient
 - Qui-Gon Jinn
 
 ## QP
-- Quarter Pounder
-- Quip
 - Quadriplegic
 
 ## QR
@@ -2286,7 +2192,6 @@ Generated from the wiki source for A-X blind pair setup.
 ## QT
 - Quarantine
 - Quart(dq quart)
-- Quest
 - Cutie
 - Q-Tip
 - Quartz
@@ -2309,6 +2214,12 @@ Generated from the wiki source for A-X blind pair setup.
 - Quality of Experience
 - QX magazine
 
+## QY
+- None
+
+## QZ
+- None
+
 ## RA
 - Rancor
 - Rabbit
@@ -2318,12 +2229,9 @@ Generated from the wiki source for A-X blind pair setup.
 
 ## RB
 - Robocop
-- Rabbit
-- Rub
 - Rhubarb
 - Root Beer
 - Arby's
-- Robot
 
 ## RC
 - Rubik's Cube
@@ -2331,16 +2239,12 @@ Generated from the wiki source for A-X blind pair setup.
 - Rack
 - Record (Vinyl)
 - Relic
-- Rice
 
 ## RD
 - Rubber Duckie
 - Road Runner
-- Road
 - Rude
 - Radical
-- Red
-- Rod
 
 ## RE
 - Reaver
@@ -2350,33 +2254,21 @@ Generated from the wiki source for A-X blind pair setup.
 - Reese's
 
 ## RF
-- Referee
-- Roof
 - Coral Reef
-- Raft
 - Rift
 - Rough
 
 ## RG
-- Rig
-- Rag
-- Rug
 - Balrog
 
 ## RH
-- Rohan
-- Rowe Hessler
-- Right hand
-- Rhino
+- None
 
 ## RI
 - Riddler
-- Rhino
-- Rice
 - Rig
 
 ## RJ
-- Ron Jeremy
 - Rj Basaline
 - Run-jump
 - RJ45 (Ethernet Cable)
@@ -2384,8 +2276,6 @@ Generated from the wiki source for A-X blind pair setup.
 - Re-adjust(ment)
 
 ## RK
-- Rake
-- Rock
 - Rack
 - Rick Astley
 - Ruckus
@@ -2395,40 +2285,30 @@ Generated from the wiki source for A-X blind pair setup.
 - Railing
 - Ray Lewis
 - Roller
-- Roll
 - Raleigh
 - Roller Skates
 
 ## RM
 - Rome
 - Ryan Miesel
-- Ram
 - REM
 - Rim
 - CD ROM
-- Rum
 
 ## RN
 - RN (registered nurse)
 - Raisins
-- Run
-- Rain
 - Rondori
 
 ## RO
 - Rook (chess piece)
-- Rope
-- Roe
 - Rock
 
 ## RP
-- Rapper
-- Rip
-- Rope
+- None
 
 ## RQ
 - Raquetball
-- Racquet
 - Rock
 - Request
 
@@ -2468,25 +2348,22 @@ Generated from the wiki source for A-X blind pair setup.
 - Medications, pharmacy
 - Roux
 
+## RY
+- None
+
+## RZ
+- None
+
 ## SA
-- Saw
 - Satellite
 - Salvation Army
 - Sexaholics Anonymous
 
 ## SB
-- Submarine
-- Sub
-- Saab
-- Sob
-- Sibling
-- Sabertooth
+- None
 
 ## SC
-- Scorpion
 - Sack
-- Sick
-- Sock
 - South Carolina
 - Soccer
 - Starcraft
@@ -2495,35 +2372,24 @@ Generated from the wiki source for A-X blind pair setup.
 - Star Destroyer
 - Scooby Doo
 - San Diego
-- SD card
 - Snare Drum
 - Sand
-- Salad
 - Shard
-- Seed
 - Shed
 - Sled
 
 ## SE
 - Semaphore
-- Semen
-- Sea
 - Special Education
 - Special Edition
 - Sesame Seed
 
 ## SF
 - San Francisco
-- Soft
-- safe
-- sift
 - Surf
 
 ## SG
-- Stargate
-- Segway
-- Soggy
-- Sag
+- None
 
 ## SH
 - Stonehenge [http://en.wikipedia.org/wiki/Stonehenge .]
@@ -2535,91 +2401,65 @@ Generated from the wiki source for A-X blind pair setup.
 
 ## SI
 - Satellite
-- Sink
-- Silicone
 - Psy
-- Sigh
 
 ## SJ
 - Slim Jim
 - Judge (Social Justice)
-- Steve Jobs
 - Sage
 
 ## SK
-- Skeleton
 - Sick
-- Sack
-- Sock
 - Ski
 - South Korea
 
 ## SL
 - Seal
-- Slime
 - Sly
-- Slippery
 
 ## SM
 - Smoky the Bear
-- Smoke
 - Sam I Am
 - SMH
 - Sum
-- Sims
 - Somber
 - Samoan
-- Samus
 
 ## SN
 - Sonic the Hedgehog
-- Sun
 - Son
-- Sand
 - Sans serif
 - Sin
 - Snow
-- Snail
 - Snare (drum)
 
 ## SO
-- Sofa
-- Soap
-- Soda
 - ISO
 - Soft
 - sold
 
 ## SP
 - Spaghetti
-- Sap
 - Sop
-- Sip
 - 'Sup
 - Soap
 
 ## SQ
 - Square-1
-- Squirrel
 - Squeal
 - Squawk
-- Squirt
-- Sasquatch
 - Squan
 
 ## SR
 - Sarah Conner
-- Syringe
 - Senior
 - Sire
 - Sarah Strong
-- Soar
 - Nathan Soria
 - Sear
 - Star
 - Stear
 - Steer
-- Sir
 - Sriracha
 
 ## ST
@@ -2648,25 +2488,27 @@ Generated from the wiki source for A-X blind pair setup.
 - Save
 - Savor
 
+## SW
+- None
+
 ## SX
 - Saxophone
 - Sex
 - Sound Effects (SFX)
 
+## SY
+- None
+
+## SZ
+- None
+
 ## TA
-- Tank
 - Taco
 - Talk
 - Take
 - Taste
 
 ## TB
-- Tab
-- Table
-- Tub
-- Tuba
-- Tube
-- Tuberculosis
 - Tiber R.
 - Time-bomb
 
@@ -2674,46 +2516,27 @@ Generated from the wiki source for A-X blind pair setup.
 - The Tick
 - TC taco
 - Tic
-- Taco
 - Tic Tac
 - Tick
 - Tact
 - TPC
 
 ## TD
-- Toad
 - Toydarian
-- Ted
-- Tadpole
 - Tod
-- Teddy Bear
 
 ## TE
 - Tent
-- Telephone
-- Tea
-- Teen
-- Tee
 
 ## TF
-- Tie Fighter
-- Taffy
-- Transformer
 - The F***?
 - Tiff
-- Tiffany
 - Tough
 
 ## TG
-- Tiger
-- Tigger
-- Trigger
-- Tug
-- Tag
 - [https://www.speedsolving.com/wiki/index.php/2-Gen 2-Gen]
 
 ## TH
-- Thor
 - Thong
 - Thought
 - th HTML tag
@@ -2721,43 +2544,28 @@ Generated from the wiki source for A-X blind pair setup.
 ## TI
 - Tire
 - TIE fighter
-- Tile
 
 ## TJ
-- Trojan horse
-- Thomas Jefferson
 - Tejon Ranch
 
 ## TK
-- Truck
-- Tack
+- None
 
 ## TL
-- Turtle
 - Tail (Goku)
 - Troll
-- Tall
 - Toll
-- Till
-- Trill
-- Tell
-- Table
 
 ## TM
-- Timpani
 - Tinman
-- Trademark
 - Tingman
 
 ## TN
 - Tinman
 - TNT (dynamite)
 - Tamil Nadu
-- Tan
 - 10
-- Tin
 - Tint
-- Taunt
 - Ton
 
 ## TO
@@ -2769,28 +2577,17 @@ Generated from the wiki source for A-X blind pair setup.
 - Tot
 
 ## TP
-- Toilet Paper
-- Tap
 - TP (native Americans)
 - Top
-- Tip
 - TPC
 
 ## TQ
-- Tack
-- Taqueria
-- Tequila
-- Taquitos
+- None
 
 ## TR
 - Bear trap
-- Tree
-- Tarantula
 - Trouble
-- Trap
 - Treble
-- Troll
-- Train
 - Tire
 
 ## TS
@@ -2798,9 +2595,7 @@ Generated from the wiki source for A-X blind pair setup.
 - Tassle
 - Lady TSunade
 - Salt (table salt)
-- Tsunami
 - Tishira
-- Toast
 
 ## TU
 - Tutu (a ballerina)
@@ -2823,25 +2618,26 @@ Generated from the wiki source for A-X blind pair setup.
 - Texas
 - Tux
 
+## TY
+- None
+
+## TZ
+- None
+
 ## UA
 - United Airlines
 - Under Armour shirt
-- Unarmed
 - USA
 
 ## UB
-- U-boat
-- Umbrella
-- Usain Bolt
+- None
 
 ## UC
-- Unicorn
 - University of California
 - UCLA
 
 ## UD
-- Udder
-- Under
+- None
 
 ## UE
 - Ukelele instrument
@@ -2851,7 +2647,6 @@ Generated from the wiki source for A-X blind pair setup.
 - Ufffff!
 
 ## UG
-- Ugly
 - Uggs
 - Eugene
 
@@ -2861,8 +2656,7 @@ Generated from the wiki source for A-X blind pair setup.
 - Uhaul
 
 ## UI
-- Unicycle
-- User Interface
+- None
 
 ## UJ
 - None
@@ -2873,49 +2667,38 @@ Generated from the wiki source for A-X blind pair setup.
 - Ukraine
 
 ## UL
-- Unlucky
-- Ulysses S. Grant
+- None
 
 ## UM
-- Umbrella
 - Umm…
 
 ## UN
 - Uno (card game)
 - Universe
 - University
-- Underwear
 
 ## UO
 - Ambiguously gay duo
 - Yugi-Oh
-- Duo
 
 ## UP
-- UPS truck
 - Uplifting
 
 ## UQ
 - None
 
 ## UR
-- Urine
 - Your
 - You are
 
 ## US
 - United States
-- Zeus
 - Us
-- Use
 - Usurp
-- Uncle Sam
 
 ## UT
 - Ultra Terminator (T1000)
-- Undertaker
 - Utility
-- Utah
 - Utter
 
 ## UV
@@ -2931,48 +2714,42 @@ Generated from the wiki source for A-X blind pair setup.
 - User Experience
 - Yuxin
 
+## UY
+- None
+
+## UZ
+- None
+
 ## VA
 - Prince Valium (Spaceballs)
-- Vagina
-- Vaporise
 - Vermont
 - V8
 
 ## VB
-- Volleyball
+- None
 
 ## VC
-- Vacuum
-- V-Cube
+- None
 
 ## VD
-- Video
-- voodoo
+- None
 
 ## VE
-- Vending machine
 - Vent
 - Vermillion
 
 ## VF
-- Venus Flytrap
 - Vafers
 
 ## VG
-- Vegas
 - Virgin
-- Vagina
 - Vegetables
 
 ## VH
-- Van Helsing
 - VHLS
-- Van Halen
 - VHS Tape
-- Vehicle
 
 ## VI
-- Visor
 - Visa
 
 ## VJ
@@ -2980,12 +2757,9 @@ Generated from the wiki source for A-X blind pair setup.
 - VGJ
 
 ## VK
-- Viking
 - Weak
 
 ## VL
-- Vial
-- Valve
 - Vile
 - Vole
 
@@ -2993,43 +2767,30 @@ Generated from the wiki source for A-X blind pair setup.
 - Venom (Spiderman)
 - Vroom
 - Vermont
-- Vomit
-- Vending Machine
 
 ## VN
 - Vogon (H2G2)
-- Violin
-- Van
 - Vons
 
 ## VO
-- Volcano
+- None
 
 ## VP
-- Vampire
-- Vape
-- VIP
+- None
 
 ## VQ
-- Ventriloquist
 - Evacuation
 
 ## VR
-- Virtual Reality
 - ...
 
 ## VS
-- Vase
-- Vise
+- None
 
 ## VT
-- Vault
-- Vat
-- Vet
-- Vote
+- None
 
 ## VU
-- Vulture
 - ...
 
 ## VW
@@ -3041,34 +2802,31 @@ Generated from the wiki source for A-X blind pair setup.
 - Vixen
 - Vauxhall
 
+## VY
+- None
+
+## VZ
+- None
+
 ## WA
-- Whale
 - Water
 - Wallaby
 - ...
 
 ## WB
-- Web
 - Wobbuffet (Pokemon)
-- Warner Bros
 
 ## WC
-- Witch
 - WC schools
 - WIC
-- Whack
 - Bathroom
 
 ## WD
-- Weed
-- WD-40
-- Wood
 - Wad
 - Wedding Dress
 
 ## WE
-- Welder
-- Weed
+- None
 
 ## WF
 - Warf (Startrek)
@@ -3076,21 +2834,15 @@ Generated from the wiki source for A-X blind pair setup.
 - Water Fall
 - WTF
 - 3x3 With Feet
-- Waffle
 
 ## WG
-- Wig
 - Wog
-- Wag
 
 ## WH
-- Whip
 - Wheat
 - Whistle
 
 ## WI
-- Wine
-- Wire
 - Wisconsin
 - Wierd
 - Nintendo Wii
@@ -3101,24 +2853,16 @@ Generated from the wiki source for A-X blind pair setup.
 - ...
 
 ## WK
-- Wok
 - Wikipedia (Logo)
-- Wookie
 - ...
 
 ## WL
-- Wall
-- Well
-- Will
+- None
 
 ## WM
 - Wal-mart
-- Worm
-- Watermelon
 
 ## WN
-- Window
-- Win
 - Won
 
 ## WO
@@ -3127,48 +2871,40 @@ Generated from the wiki source for A-X blind pair setup.
 
 ## WP
 - Weapons
-- Weep
 - Whap
-- Whip
 
 ## WQ
-- Wicker
-- Watch
+- None
 
 ## WR
-- Wizard
-- War
-- World Record
-- Wrench
+- None
 
 ## WS
-- Walrus
-- Wuss
 - With Salt
-- Wasabi
 
 ## WT
-- Water Tower
-- Water
 - Weights
 
 ## WU
 - Worm-tongue (wurm)
-- Wu-Tang Clan
 - ...
 
 ## WV
 - Weaver
 - Winter Variation
-- Wave
 
 ## WX
 - Wax
 - Windex
 
+## WY
+- None
+
+## WZ
+- None
+
 ## XA
 - A-team (Mr. T)
-- Electrocuted Alligator
 - Angel (X-Men)
 - Xanax
 
@@ -3184,7 +2920,6 @@ Generated from the wiki source for A-X blind pair setup.
 - Cross Country
 - X-cube
 - X-acto
-- XCross
 
 ## XD
 - Electrocuted Diglett
@@ -3192,9 +2927,7 @@ Generated from the wiki source for A-X blind pair setup.
 - Emoticon
 
 ## XE
-- Electric eel
 - Electrocuted Eel
-- Xenon
 
 ## XF
 - Electrocuted Fox
@@ -3207,12 +2940,10 @@ Generated from the wiki source for A-X blind pair setup.
 - ...
 
 ## XH
-- Helicopter
 - Electrocuted Hitler
 - ...
 
 ## XI
-- Xylophone
 - Electrocuted Ivysaur
 - XingYu
 - Iceman (X-men)
@@ -3232,7 +2963,6 @@ Generated from the wiki source for A-X blind pair setup.
 
 ## XL
 - Electrocuted Lapras
-- Extra Large
 
 ## XM
 - Magneto (X-men)
@@ -3242,7 +2972,6 @@ Generated from the wiki source for A-X blind pair setup.
 
 ## XN
 - Night Crawler (X-men)
-- Xanax
 - Christian
 
 ## XO
@@ -3252,7 +2981,6 @@ Generated from the wiki source for A-X blind pair setup.
 ## XP
 - Python
 - Electrocuted Pikachu
-- Windows XP
 
 ## XQ
 - Quasar
@@ -3262,15 +2990,11 @@ Generated from the wiki source for A-X blind pair setup.
 - XiangQi (board game)
 
 ## XR
-- Rogue (X-men)
 - Electrocuted Riachu
-- X-ray
 - X rating
 
 ## XS
-- Spiderman
 - Electrocuted Snorlax
-- Spider
 - ...
 
 ## XT
@@ -3291,7 +3015,504 @@ Generated from the wiki source for A-X blind pair setup.
 
 ## XW
 - Wolverine (X-men)
-- Electrocuted Whale
 - Crossword
 - X-Wing (star wars)
+
+## XY
+- None
+
+## XZ
+- None
+
+## YA
+- None
+
+## YB
+- Yearbook
+
+## YC
+- YC
+- YmCa
+
+## YD
+- Yield (sign)
+- Yard
+
+## YE
+- Yankees
+
+## YF
+- Yellow Fever
+- Yiff
+
+## YG
+- Yogurt
+- Yoga
+
+## YH
+- Yahoo
+- Yamaha
+
+## YI
+- Yeti
+- Yoshi
+
+## YJ
+- YJ
+- Yellowjacket (insect)
+
+## YK
+- Yankees
+- Yukon (Canadian territory)
+
+## YL
+- Yield (sign)
+
+## YM
+- Yamaha
+
+## YN
+- Yen (Japanese currency)
+- Yuan (Chinese currency)
+
+## YO
+- Yo-Yo
+
+## YP
+- YP
+- Yep
+
+## YQ
+- YQ
+
+## YR
+- Yarn
+- Yard
+
+## YS
+- Yellowstone (National Park)
+- Yard sale
+
+## YT
+- None
+
+## YU
+- YU
+- You
+
+## YV
+- YV
+
+## YW
+- Yellow
+
+## YX
+- None
+
+## YZ
+- None
+
+## ZA
+- None
+
+## ZB
+- Zebra
+- Zak Bagans
+- Zimbabwe
+- ZB method
+
+## ZC
+- Zucchini
+- Zinc
+- Zanchi
+
+## ZD
+- Zelda
+
+## ZE
+- Zeus
+
+## ZF
+- ZF
+
+## ZG
+- Zig-Zag
+
+## ZH
+- ZH
+- Chinese (language code)
+
+## ZI
+- Zucchini
+- Zit
+
+## ZJ
+- Zildjian (cymbal manufacturer)
+
+## ZK
+- ZK
+
+## ZL
+- Zillo (magazine)
+- Zillo (Star Wars)
+- Zales
+
+## ZM
+- Zimbabwe
+- Zimmer (German: room)
+- Zombie
+
+## ZN
+- Zen
+
+## ZO
+- Zozo (demon)
+- Zillo (magazine)
+- Zillo (star wars)
+
+## ZP
+- Zipper
+- Zapper (video-game character)
+- Zippo (lighter)
+- Z-perm
+
+## ZQ
+- ZQ
+
+## ZR
+- None
+
+## ZS
+- None
+
+## ZT
+- ZT
+- Z3 cubing
+
+## ZU
+- ZU
+
+## ZV
+- ZV
+
+## ZW
+- Zimbabwe
+
+## ZX
+- None
+
+## ZY
+- None
+
+## chA
+- None
+
+## chB
+- None
+
+## chC
+- None
+
+## chD
+- None
+
+## chE
+- None
+
+## chF
+- None
+
+## chG
+- None
+
+## chH
+- None
+
+## chI
+- None
+
+## chJ
+- None
+
+## chK
+- None
+
+## chL
+- None
+
+## chM
+- None
+
+## chN
+- None
+
+## chO
+- None
+
+## chP
+- None
+
+## chQ
+- None
+
+## chR
+- None
+
+## chS
+- None
+
+## chT
+- None
+
+## chU
+- None
+
+## chV
+- None
+
+## chW
+- None
+
+## chX
+- None
+
+## chY
+- None
+
+## chZ
+- None
+
+## shA
+- None
+
+## shB
+- None
+
+## shC
+- None
+
+## shD
+- None
+
+## shE
+- None
+
+## shF
+- None
+
+## shG
+- None
+
+## shH
+- None
+
+## shI
+- None
+
+## shJ
+- None
+
+## shK
+- None
+
+## shL
+- None
+
+## shM
+- None
+
+## shN
+- None
+
+## shO
+- None
+
+## shP
+- None
+
+## shQ
+- None
+
+## shR
+- None
+
+## shS
+- None
+
+## shT
+- None
+
+## shU
+- None
+
+## shV
+- None
+
+## shW
+- None
+
+## shX
+- None
+
+## shY
+- None
+
+## shZ
+- None
+
+## stA
+- None
+
+## stB
+- None
+
+## stC
+- None
+
+## stD
+- None
+
+## stE
+- None
+
+## stF
+- None
+
+## stG
+- None
+
+## stH
+- None
+
+## stI
+- None
+
+## stJ
+- None
+
+## stK
+- None
+
+## stL
+- None
+
+## stM
+- None
+
+## stN
+- None
+
+## stO
+- None
+
+## stP
+- None
+
+## stQ
+- None
+
+## stR
+- None
+
+## stS
+- None
+
+## stT
+- None
+
+## stU
+- None
+
+## stV
+- None
+
+## stW
+- None
+
+## stX
+- None
+
+## stY
+- None
+
+## stZ
+- None
+
+## thA
+- None
+
+## thB
+- None
+
+## thC
+- None
+
+## thD
+- None
+
+## thE
+- None
+
+## thF
+- None
+
+## thG
+- None
+
+## thH
+- None
+
+## thI
+- None
+
+## thJ
+- None
+
+## thK
+- None
+
+## thL
+- None
+
+## thM
+- None
+
+## thN
+- None
+
+## thO
+- None
+
+## thP
+- None
+
+## thQ
+- None
+
+## thR
+- None
+
+## thS
+- None
+
+## thT
+- None
+
+## thU
+- None
+
+## thV
+- None
+
+## thW
+- None
+
+## thX
+- None
+
+## thY
+- None
+
+## thZ
+- None
 

@@ -6,7 +6,12 @@ const dataDir = path.join(rootDir, "data");
 const generatedDir = path.join(dataDir, "generated");
 const rawDir = path.join(dataDir, "raw");
 
-const ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWX".split("");
+// All letters that appear in the data
+const ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+// Letters to include in the displayed pairs (for blind solving)
+const DISPLAY_ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+// Special pair prefixes for blind solving
+const SPECIAL_PAIR_PREFIXES = ["sh", "st", "ch", "th"];
 const EXCLUDED_PAIRS = new Set([
   "AQ",
   "BM",
@@ -46,15 +51,29 @@ const wikiRaw = await wikiResponse.text();
 await fs.writeFile(path.join(rawDir, "google.csv"), googleCsv);
 await fs.writeFile(path.join(rawDir, "wiki.txt"), wikiRaw);
 
-const validPairs = buildValidPairs();
-const sourceMap = Object.fromEntries(validPairs.map((pair) => [pair, []]));
+// Build sourceMap with all possible pairs
+const allPairs = buildAllPairs();
+const sourceMap = Object.fromEntries(allPairs.map((pair) => [pair, []]));
 
 mergeSourceMap(sourceMap, parseGoogleCandidates(googleCsv), "google");
+
+// Parse HTML files from LetterPairs directory (before wiki to give Google priority)
+const letterPairsDir = path.join(rawDir, "LetterPairs");
+const htmlFiles = await fs.readdir(letterPairsDir);
+for (const file of htmlFiles.filter((f) => f.endsWith(".html"))) {
+  const filePath = path.join(letterPairsDir, file);
+  const htmlContent = await fs.readFile(filePath, "utf-8");
+  mergeSourceMap(sourceMap, parseHtmlCandidates(htmlContent), "google");
+}
+
 mergeSourceMap(sourceMap, parseWikiCandidates(wikiRaw), "wiki");
+
+// Filter to get valid pairs for display
+const validPairs = buildValidPairs();
 
 const output = {
   generatedAt: new Date().toISOString(),
-  alphabet: ALPHABET,
+  alphabet: DISPLAY_ALPHABET,
   excludedPairs: [...EXCLUDED_PAIRS],
   validPairs,
   sources: sourceMap,
@@ -67,17 +86,45 @@ await fs.writeFile(
 await fs.writeFile(path.join(generatedDir, "google-options.md"), buildMarkdown(sourceMap, "google"));
 await fs.writeFile(path.join(generatedDir, "wiki-options.md"), buildMarkdown(sourceMap, "wiki"));
 
-console.log(`Generated ${validPairs.length} valid pairs`);
+console.log(`Generated ${validPairs.length} valid pairs with ${allPairs.length} total pairs in database`);
 
-function buildValidPairs() {
+function buildAllPairs() {
   const pairs = [];
 
   for (const first of ALPHABET) {
     for (const second of ALPHABET) {
       const pair = `${first}${second}`;
       if (first === second) continue;
+      pairs.push(pair);
+    }
+  }
+
+  // Add special pair combinations
+  for (const prefix of SPECIAL_PAIR_PREFIXES) {
+    for (const letter of ALPHABET) {
+      pairs.push(`${prefix}${letter}`);
+    }
+  }
+
+  return pairs;
+}
+
+function buildValidPairs() {
+  const pairs = [];
+
+  for (const first of DISPLAY_ALPHABET) {
+    for (const second of DISPLAY_ALPHABET) {
+      const pair = `${first}${second}`;
+      if (first === second) continue;
       if (EXCLUDED_PAIRS.has(pair)) continue;
       pairs.push(pair);
+    }
+  }
+
+  // Add special letter pair combinations
+  for (const prefix of SPECIAL_PAIR_PREFIXES) {
+    for (const letter of DISPLAY_ALPHABET) {
+      pairs.push(`${prefix}${letter}`);
     }
   }
 
@@ -159,11 +206,97 @@ function parseWikiCandidates(raw) {
   return result;
 }
 
+function parseHtmlCandidates(html) {
+  const result = {};
+
+  // Extract table rows
+  const bodyMatch = html.match(/<tbody>.*?<\/tbody>/s);
+  if (!bodyMatch) return result;
+
+  const bodyHtml = bodyMatch[0];
+  const rows = bodyHtml.split(/<tr[^>]*>/);
+
+  if (rows.length < 2) return result;
+
+  // First data row contains the pair names with colspan info
+  const firstRowHtml = rows[1];
+  
+  // Extract all td elements with their attributes and content
+  const tdRegex = /<td\b([^>]*)>(.*?)<\/td>/gs;
+  const pairs = [];
+  let tdMatch;
+
+  while ((tdMatch = tdRegex.exec(firstRowHtml)) !== null) {
+    const attrs = tdMatch[1];
+    const content = tdMatch[2];
+    
+    // Extract colspan value
+    const colspanMatch = attrs.match(/colspan="?(\d+)"?/i);
+    const colspan = colspanMatch ? parseInt(colspanMatch[1]) : 1;
+    
+    const pairText = content
+      .replace(/<[^>]*>/g, "")
+      .trim();
+    const pair = normalizePair(pairText);
+    if (pair) {
+      pairs.push({ pair, colspan });
+      result[pair] = [];
+    }
+  }
+
+  if (pairs.length === 0) return result;
+
+  // Build column index mapping accounting for colspan
+  const pairColumns = [];
+  let columnIndex = 0;
+  for (const { pair, colspan } of pairs) {
+    pairColumns.push({ pair, columnIndex });
+    columnIndex += colspan;
+  }
+
+  // Skip header row (row 2), start from data rows (row 3 onwards)
+  for (let rowIndex = 3; rowIndex < rows.length; rowIndex++) {
+    const rowHtml = rows[rowIndex];
+    if (!rowHtml.trim()) continue;
+
+    // Extract all td elements in this row
+    const cells = [];
+    const cellRegex = /<td[^>]*>(.*?)<\/td>/gs;
+    let cellMatch;
+    
+    while ((cellMatch = cellRegex.exec(rowHtml)) !== null) {
+      cells.push(cellMatch[1]);
+    }
+
+    // For each pair, collect data from its 3 cells (Person, Verb, Object)
+    for (const { pair, columnIndex } of pairColumns) {
+      for (let i = 0; i < 3; i++) {
+        const cellIdx = columnIndex + i;
+        if (cellIdx < cells.length) {
+          const cellContent = cells[cellIdx];
+          // Remove HTML tags and links
+          const text = cellContent
+            .replace(/<[^>]*>/g, "")
+            .replace(/&[a-z]+;/g, "")
+            .trim();
+          const candidate = normalizeCandidate(text);
+          if (candidate) {
+            result[pair].push(candidate);
+          }
+        }
+      }
+    }
+  }
+
+  return result;
+}
+
 function buildMarkdown(sourceMap, source) {
   const lines = [
     `# ${source} options`,
     "",
-    `Generated from the ${source} source for A-X blind pair setup.`,
+    `Generated from the ${source} source containing all letter pair combinations.`,
+    `For blind pair solving with the cubing community, use pairs from A-Z and special pairs (shA-shZ, stA-stZ, chA-chZ, thA-thZ) (see pairs.json for valid pairs).`,
     "",
   ];
 
@@ -187,11 +320,22 @@ function buildMarkdown(sourceMap, source) {
 }
 
 function normalizePair(value) {
-  const normalized = String(value ?? "").trim().toUpperCase();
-  if (!/^[A-X]{2}$/.test(normalized)) return null;
-  if (normalized[0] === normalized[1]) return null;
-  if (EXCLUDED_PAIRS.has(normalized)) return null;
-  return normalized;
+  const normalized = String(value ?? "").trim().toLowerCase();
+  const upperNormalized = normalized.toUpperCase();
+  
+  // Check if it's a special letter pair (shA, stB, chC, thD, etc.)
+  for (const prefix of SPECIAL_PAIR_PREFIXES) {
+    if (normalized.startsWith(prefix) && normalized.length === prefix.length + 1) {
+      const letter = normalized.slice(prefix.length);
+      if (/^[a-z]$/.test(letter)) return `${prefix}${letter.toUpperCase()}`;
+    }
+  }
+  
+  // Check if it's a regular pair
+  if (!/^[A-Z]{2}$/.test(upperNormalized)) return null;
+  if (upperNormalized[0] === upperNormalized[1]) return null;
+  if (EXCLUDED_PAIRS.has(upperNormalized)) return null;
+  return upperNormalized;
 }
 
 function normalizeCandidate(value) {

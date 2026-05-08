@@ -1,6 +1,6 @@
-# blindpairs
+# blind-pairs
 
-Blindpairs is a simple app for letter-pair word association practice and reinforcement.
+Blind-pairs is a simple app for letter-pair word association practice and reinforcement.
 
 ## Data Source Acknowledgements
 
