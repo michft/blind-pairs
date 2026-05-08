@@ -9,7 +9,9 @@ const rawDir = path.join(dataDir, "raw");
 // All letters that appear in the data
 const ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 // Letters to include in the displayed pairs (for blind solving)
-const DISPLAY_ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWX".split("");
+const DISPLAY_ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+// Special pair prefixes for blind solving
+const SPECIAL_PAIR_PREFIXES = ["sh", "st", "ch", "th"];
 const EXCLUDED_PAIRS = new Set([
   "AQ",
   "BM",
@@ -54,9 +56,8 @@ const allPairs = buildAllPairs();
 const sourceMap = Object.fromEntries(allPairs.map((pair) => [pair, []]));
 
 mergeSourceMap(sourceMap, parseGoogleCandidates(googleCsv), "google");
-mergeSourceMap(sourceMap, parseWikiCandidates(wikiRaw), "wiki");
 
-// Parse HTML files from LetterPairs directory
+// Parse HTML files from LetterPairs directory (before wiki to give Google priority)
 const letterPairsDir = path.join(rawDir, "LetterPairs");
 const htmlFiles = await fs.readdir(letterPairsDir);
 for (const file of htmlFiles.filter((f) => f.endsWith(".html"))) {
@@ -64,6 +65,8 @@ for (const file of htmlFiles.filter((f) => f.endsWith(".html"))) {
   const htmlContent = await fs.readFile(filePath, "utf-8");
   mergeSourceMap(sourceMap, parseHtmlCandidates(htmlContent), "google");
 }
+
+mergeSourceMap(sourceMap, parseWikiCandidates(wikiRaw), "wiki");
 
 // Filter to get valid pairs for display
 const validPairs = buildValidPairs();
@@ -96,6 +99,13 @@ function buildAllPairs() {
     }
   }
 
+  // Add special pair combinations
+  for (const prefix of SPECIAL_PAIR_PREFIXES) {
+    for (const letter of ALPHABET) {
+      pairs.push(`${prefix}${letter}`);
+    }
+  }
+
   return pairs;
 }
 
@@ -108,6 +118,13 @@ function buildValidPairs() {
       if (first === second) continue;
       if (EXCLUDED_PAIRS.has(pair)) continue;
       pairs.push(pair);
+    }
+  }
+
+  // Add special letter pair combinations
+  for (const prefix of SPECIAL_PAIR_PREFIXES) {
+    for (const letter of DISPLAY_ALPHABET) {
+      pairs.push(`${prefix}${letter}`);
     }
   }
 
@@ -201,32 +218,41 @@ function parseHtmlCandidates(html) {
 
   if (rows.length < 2) return result;
 
-  // First data row contains the pair names
+  // First data row contains the pair names with colspan info
   const firstRowHtml = rows[1];
-  const tdRegex = /<td[^>]*>(.*?)<\/td>/gs;
-  const cells = [];
+  
+  // Extract all td elements with their attributes and content
+  const tdRegex = /<td\b([^>]*)>(.*?)<\/td>/gs;
+  const pairs = [];
   let tdMatch;
 
   while ((tdMatch = tdRegex.exec(firstRowHtml)) !== null) {
-    cells.push(tdMatch[1]);
-  }
-
-  if (cells.length === 0) return result;
-
-  // Extract pair names from first row
-  const pairColumns = [];
-  for (let i = 0; i < cells.length; i++) {
-    const pairText = cells[i]
+    const attrs = tdMatch[1];
+    const content = tdMatch[2];
+    
+    // Extract colspan value
+    const colspanMatch = attrs.match(/colspan="?(\d+)"?/i);
+    const colspan = colspanMatch ? parseInt(colspanMatch[1]) : 1;
+    
+    const pairText = content
       .replace(/<[^>]*>/g, "")
       .trim();
     const pair = normalizePair(pairText);
     if (pair) {
-      pairColumns.push({ pair, columnIndex: i });
+      pairs.push({ pair, colspan });
       result[pair] = [];
     }
   }
 
-  if (pairColumns.length === 0) return result;
+  if (pairs.length === 0) return result;
+
+  // Build column index mapping accounting for colspan
+  const pairColumns = [];
+  let columnIndex = 0;
+  for (const { pair, colspan } of pairs) {
+    pairColumns.push({ pair, columnIndex });
+    columnIndex += colspan;
+  }
 
   // Skip header row (row 2), start from data rows (row 3 onwards)
   for (let rowIndex = 3; rowIndex < rows.length; rowIndex++) {
@@ -242,17 +268,21 @@ function parseHtmlCandidates(html) {
       cells.push(cellMatch[1]);
     }
 
+    // For each pair, collect data from its 3 cells (Person, Verb, Object)
     for (const { pair, columnIndex } of pairColumns) {
-      if (columnIndex < cells.length) {
-        const cellContent = cells[columnIndex];
-        // Remove HTML tags and links
-        const text = cellContent
-          .replace(/<[^>]*>/g, "")
-          .replace(/&[a-z]+;/g, "")
-          .trim();
-        const candidate = normalizeCandidate(text);
-        if (candidate) {
-          result[pair].push(candidate);
+      for (let i = 0; i < 3; i++) {
+        const cellIdx = columnIndex + i;
+        if (cellIdx < cells.length) {
+          const cellContent = cells[cellIdx];
+          // Remove HTML tags and links
+          const text = cellContent
+            .replace(/<[^>]*>/g, "")
+            .replace(/&[a-z]+;/g, "")
+            .trim();
+          const candidate = normalizeCandidate(text);
+          if (candidate) {
+            result[pair].push(candidate);
+          }
         }
       }
     }
@@ -266,7 +296,7 @@ function buildMarkdown(sourceMap, source) {
     `# ${source} options`,
     "",
     `Generated from the ${source} source containing all letter pair combinations.`,
-    `For blind pair solving with the cubing community, use pairs from A-X (see pairs.json for valid pairs).`,
+    `For blind pair solving with the cubing community, use pairs from A-Z and special pairs (shA-shZ, stA-stZ, chA-chZ, thA-thZ) (see pairs.json for valid pairs).`,
     "",
   ];
 
@@ -290,11 +320,22 @@ function buildMarkdown(sourceMap, source) {
 }
 
 function normalizePair(value) {
-  const normalized = String(value ?? "").trim().toUpperCase();
-  if (!/^[A-X]{2}$/.test(normalized)) return null;
-  if (normalized[0] === normalized[1]) return null;
-  if (EXCLUDED_PAIRS.has(normalized)) return null;
-  return normalized;
+  const normalized = String(value ?? "").trim().toLowerCase();
+  const upperNormalized = normalized.toUpperCase();
+  
+  // Check if it's a special letter pair (shA, stB, chC, thD, etc.)
+  for (const prefix of SPECIAL_PAIR_PREFIXES) {
+    if (normalized.startsWith(prefix) && normalized.length === prefix.length + 1) {
+      const letter = normalized.slice(prefix.length);
+      if (/^[a-z]$/.test(letter)) return `${prefix}${letter.toUpperCase()}`;
+    }
+  }
+  
+  // Check if it's a regular pair
+  if (!/^[A-Z]{2}$/.test(upperNormalized)) return null;
+  if (upperNormalized[0] === upperNormalized[1]) return null;
+  if (EXCLUDED_PAIRS.has(upperNormalized)) return null;
+  return upperNormalized;
 }
 
 function normalizeCandidate(value) {

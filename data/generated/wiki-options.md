@@ -1,7 +1,7 @@
 # wiki options
 
 Generated from the wiki source containing all letter pair combinations.
-For blind pair solving with the cubing community, use pairs from A-X (see pairs.json for valid pairs).
+For blind pair solving with the cubing community, use pairs from A-Z and special pairs (shA-shZ, stA-stZ, chA-chZ, thA-thZ) (see pairs.json for valid pairs).
 
 ## AB
 - Ali Baba
@@ -125,7 +125,6 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - None
 
 ## BA
-- Bagel
 - Batman
 - Bald
 - British Airways
@@ -271,7 +270,6 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Bad Taste (movie)
 
 ## BU
-- Bus
 - Bulb
 - Bull
 - Bullshit
@@ -301,19 +299,14 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - None
 
 ## CA
-- Camera
-- California
 - Carrot
 - Cappuccino
 - Canada
 
 ## CB
 - City Cab
-- Cube
 - Cob (Corn Cob)
-- Cub
 - Curb
-- Christian Bale
 
 ## CD
 - Compact Disc
@@ -464,26 +457,19 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - None
 
 ## DA
-- Dagger
 - Dark knight
 - Dance
 - Douglas Adams
 - Day
 
 ## DB
-- Disco Ball
 - Dobby (Harry Potter)
-- Double
-- Database
 - David Blaine
 - D. B. Cooper
-- Dab
 - Debt
 
 ## DC
 - Dan Cohen
-- Washington DC
-- Dice
 - David Copperfield
 
 ## DE
@@ -514,7 +500,6 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 ## DI
 - Disney
 - Dia
-- Diglett
 - Digger
 - Dinosaur
 
@@ -590,7 +575,6 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Dr. Seuss
 
 ## DT
-- Dart
 - Debt
 - Donald Trump
 - Date
@@ -616,7 +600,6 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Dreamweaver
 - Darkwing duck
 - Dwarf
-- Dew
 
 ## DX
 - Deluxe
@@ -632,18 +615,13 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - None
 
 ## EA
-- Eagle
+- None
 
 ## EB
-- Eyeball
-- Easter Bunny
+- None
 
 ## EC
-- Extra Credit
-- Emily Campbell
 - Ecclesiastical
-- Eclair
-- Eclipse
 
 ## ED
 - Edward (Twilight)
@@ -760,27 +738,21 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - None
 
 ## FA
-- Fat Albert
 - Field Artillery
 - FIFA
 
 ## FB
-- Football
-- Facebook
+- None
 
 ## FC
 - Fascism
 - Fetch
 - Fifty Cent
-- Face
 
 ## FD
-- Food
 - Fed-Ex truck
-- Fedora
 
 ## FE
-- Ferret
 - Ferrous
 - Fossil Energy
 
@@ -799,7 +771,6 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 
 ## FI
 - Fiddle
-- Fish
 - Fight
 - Fiction (Sci-fi)
 
@@ -889,7 +860,6 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - None
 
 ## GA
-- Gargoyle
 - Ground Attack
 - Gamble
 - Gay
@@ -899,31 +869,22 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Great Britain
 - Gaben
 - Gobi Desert
-- Gameboy
-- Globe
 
 ## GC
 - Geek car
-- Gamecube
 - Google Classroom
 - Guacamole
 
 ## GD
-- Godzilla
-- God
 - Gd permutation
-- Geometry Dash
 
 ## GE
 - Gentleman
-- Genie
 - Gem
 - Gene
-- General Electric
 
 ## GF
-- Giraffe
-- Girlfriend
+- None
 
 ## GH
 - Green House
@@ -1000,7 +961,6 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 ## GU
 - Gull
 - Gun
-- Guitar
 - Guildford
 
 ## GV
@@ -1028,12 +988,10 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - None
 
 ## HA
-- Harp
-- Harpoon
+- None
 
 ## HB
 - Habit
-- HB Pencil
 - Haribo Goldbears
 - HBO
 
@@ -1042,26 +1000,15 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Helicopter
 
 ## HD
-- Hard
-- Head
-- Hot Dog
 - High Definition (resolution)
 
 ## HE
-- Helium
-- Hero
 - Herb
 
 ## HF
-- Huff
-- Hot fudge
 - Half
 
 ## HG
-- Hang
-- Hermione Granger
-- Hog
-- Hug
 - Rubeus Hagrid
 
 ## HI
@@ -1160,17 +1107,12 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 
 ## IA
 - Ian
-- Iowa
 
 ## IB
 - I-beam
-- Ibis
-- Ibuprofen
 
 ## IC
-- Icarus
-- Ice cream
-- Ice
+- None
 
 ## ID
 - Identity Card
@@ -1178,21 +1120,14 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 
 ## IE
 - Ice
-- Internet Explorer
 
 ## IF
-- Ice fog
-- Eiffel Tower
 - Infinity
 
 ## IG
-- Iguana
-- Igloo
 - Iggy Azalea
-- Instagram
 
 ## IH
-- Incredible Hulk
 - IHOP (restaurant)
 
 ## IJ
@@ -1277,37 +1212,23 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 
 ## JA
 - Ja Permutation
-- Jar
-- Jaguar
 - Jaws
-- Jay
 
 ## JB
-- Jukebox
-- James Bond
-- Job
-- Justin Bieber
+- None
 
 ## JC
-- Julius Caesar
 - John Carroll
-- Jackie Chan
-- Jesus Christ
-- Juice
-- John Cena
 
 ## JD
 - Jack Daniel's
 - Jess Donahue
 - Jessica Donahue
-- Jedi
 - John Dorian
 - Jordan
 
 ## JE
 - Jetplane
-- Jesus
-- Jet engine
 
 ## JF
 - Jelly fish
@@ -1316,10 +1237,8 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Jessica Fridrich
 
 ## JG
-- Jug
 - Jig-A-Loo
 - Joey Ghouly
-- Jaguar
 
 ## JH
 - Jabba the Hut
@@ -1351,7 +1270,6 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 
 ## JO
 - Joey
-- John
 - Joe
 
 ## JP
@@ -1411,12 +1329,10 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - None
 
 ## KA
-- Kangaroo
+- None
 
 ## KB
-- Keyboard
 - Kilobyte
-- Kebab
 - Kobe Bryant
 - Kirby
 
@@ -1427,14 +1343,10 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Kurt Cobain
 
 ## KD
-- Kraft Dinner
-- Kid
-- Kevin Durant
+- None
 
 ## KE
-- Ketchup
 - Kelp
-- Key
 
 ## KF
 - None
@@ -1445,7 +1357,6 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Kevin Garnett
 
 ## KH
-- Keyhole
 - Khmer Rouge
 - DJ Khaled
 - Burj Khalifa
@@ -1453,12 +1364,10 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Wiz Khalifa
 
 ## KI
-- Kite
 - Kinetic Energy
 
 ## KJ
 - Knee-jerk
-- Kirjava
 - Kilojoules
 - Kylie Jenner
 
@@ -1529,42 +1438,27 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - None
 
 ## LA
-- Lamp
-- Los Angeles
+- None
 
 ## LB
 - Leo Borromeo
 - Lazy Boy
 - Lubricants
-- Lab
-- Lobster
 
 ## LC
 - Locust
 - Downloadable Content (DLC)
-- Lick
-- Lucifer
 
 ## LD
 - Larry D. Nichols
-- Lead
-- Ladder
-- Lid
 
 ## LE
 - Leo
-- Leopard
-- Leap
 
 ## LF
-- Leaf
 - Elf
 
 ## LG
-- Lego
-- Log
-- Lady Gaga
-- Leg
 - Luke Garret
 
 ## LH
@@ -1572,26 +1466,19 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Lynsey Hilbourn
 
 ## LI
-- Listerine
 - Lips
 - Lightake
-- Lion
 
 ## LJ
-- Lodge
-- Lebron James
 - Live Journal
 
 ## LK
 - Liu Kang
-- Lock
 - Luke Skywalker
-- Lick
 - Elk
 
 ## LM
 - Lamb
-- Llama
 - Lionel Messi
 - Lemon
 
@@ -1668,14 +1555,10 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 
 ## MA
 - Ma (Whistler's Mother)
-- Magikarp
 - Masturbate
-- Mail
 
 ## MB
-- Men in Black
 - Matt Bruno
-- Mob
 - Mercedes Benz
 
 ## MC
@@ -1683,16 +1566,10 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Mortal Combat
 - Magician
 - MC
-- Minecraft
-- MC Hammer
-- Mace
 - Mitochondria
 
 ## MD
 - Media
-- Mountain Dew
-- Medical Doctor
-- Mud
 - Mood ring
 - Mad Max
 - Megadeth
@@ -1705,33 +1582,26 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Maine
 - Middle East
 - Middle Earth
-- Meth
 
 ## MF
 - Megaphone
-- Muffin
 - Microphone
 - Milf
 - Ear Muffs
 
 ## MG
-- Magnet
 - Magnesium
-- Magazine
 - Magna Carta
 - Megaman
 - Migraine
 
 ## MH
 - Mohican
-- Mike Hughey
-- Manhole
 - Miami Heat
 - mH (milli-Hertz)
 
 ## MI
 - Mobile Infantry
-- Milk
 - Military Intelligence
 - Monsters, Inc.
 - Mission Impossible
@@ -1739,17 +1609,13 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Minnesota
 
 ## MJ
-- Michael Jackson
-- Michael Jordan
+- None
 
 ## MK
-- Monkey
 - Mike Guy
-- Mickey Mouse
 - Mary Kay
 
 ## ML
-- Mona Lisa
 - Melting
 - Mario Luigi
 - Millenium Falcon
@@ -1859,7 +1725,6 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - North America
 
 ## NB
-- Nebuchadnezzar
 - Nutter butter
 - Notebook
 - Nuts & Bolts
@@ -1868,39 +1733,28 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 
 ## NC
 - Nicademus
-- Necktie
 - No change
-- Nyancat
 - North Carolina
 - Nacho
 
 ## ND
-- Nude
-- Needle
 - Ned Stark
 - Nancy Drew
-- North Dakota
 
 ## NE
-- Neo
-- Neon
 - Nebraska
 - any (pronouncing N-E)
-- Knee
 
 ## NF
-- Knife
 - Nicole Feeley
 - Niagara Falls
 - Nerf (toy)
-- Nose Flute
 - Nota Fiscal
 - NFT
 
 ## NG
 - Nalgene bottle
 - Noggin
-- Egg Nog
 - Noble Gas
 - Natural Gas
 - National Guard
@@ -1910,12 +1764,9 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 ## NH
 - No Hate
 - North Harford
-- Neighborhood
 - Newspaper Headline
-- New Hampshire
 - New Haven (Yale)
 - Northern Hemisphere
-- Nursing Home
 - Nothing here
 - Noh (Japanese theater)
 - Hockey (NHL)
@@ -1924,10 +1775,8 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Nicotine
 - Nickle
 - Nile
-- Nike
 
 ## NJ
-- Ninja
 - New Jersey
 - Navajo
 
@@ -1935,24 +1784,18 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - [http://thoitrangf5.com/170-giay-nike.html Nike]
 - Nakajima (Yu)
 - North Korea
-- Nuke
-- Nick
 
 ## NL
-- Noel
-- Nail
 - Night Light
 - Noodles
 - Not Lucky
 
 ## NM
 - Necromonger
-- Necromancer
 - "Nom" (eating)
 - Nematode
 - New Mexico
 - Name
-- Nicki Minaj
 
 ## NO
 - Gnome
@@ -2005,7 +1848,6 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 
 ## NW
 - No Water
-- Newt
 - Nuclear waste
 - Nuclear Warfare
 - Northwest
@@ -2024,41 +1866,29 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - None
 
 ## OA
-- Oatmeal
 - OSHA
 - Overeaters Anonymous
-- Oar
 
 ## OB
-- Obelisk
-- Obama
 - OB/GYN
 
 ## OC
-- Octopus
-- Ocarina
 - Orange County
 - Obsessive-Compulsive
 - Original Creation
 
 ## OD
-- Overdose
 - Oddish (Pokemon)
-- Old
 - One Direction band
 
 ## OE
 - Optical effect
-- Oboe
 - Oreo biscuits
 
 ## OF
-- Outfielder
-- Officer
-- Office
+- None
 
 ## OG
-- Ogre
 - Original Gangster
 - Oh God
 - Orange
@@ -2068,13 +1898,10 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - ...
 
 ## OI
-- Oil
 - Oui in French
 - Oink (pig)
 
 ## OJ
-- OJ Simpson
-- Orange Juice
 - OJHobbies
 
 ## OK
@@ -2084,17 +1911,13 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - oll korrect
 
 ## OL
-- Olive
-- OLL
 - LOL
 - All
 
 ## OM
-- Oatmeal
 - Ohm
 
 ## ON
-- Onion
 - On it!
 - Onision
 - On fleek
@@ -2158,59 +1981,42 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 
 ## PA
 - Pam Anderson
-- Paper
 - Particle Accelerator
 - Paper Airplane
 - Paprika
 
 ## PB
-- Polar bear
-- Peanut butter
 - Pubic hair
 - Lead (symbol Pb)
 - Personal best
 
 ## PC
-- Peacock
-- Personal Computer
 - Popcorn
 
 ## PD
-- Panda
-- Pediatrician
-- Pad
 - Police Department
 - Pond
 - Pander
-- Pod
 
 ## PE
-- Penguin
 - Peru
 - Physical Education
-- Pee
-- Peanut
 
 ## PF
-- Pirate Flag
 - PDF
 - Parafuso
 - Pizza's Friends
 
 ## PG
 - Piggy bank
-- Pig
 - Penguin
 - PG rating
 - Peter Griffin
 
 ## PH
-- Pharoah
 - Phat
-- pH
 
 ## PI
-- Pie
 - Pi (3.14159...)
 - Pier
 
@@ -2221,35 +2027,23 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 
 ## PK
 - Ice-pick
-- Pikachu
-- Parkour
-- Puke
-- Puck
 
 ## PL
 - Pliers
 - Markiplier
 - Play
-- Pluto
 
 ## PM
-- Pram
 - Pamela (Anderson)
 - Pyraminx
 - Personal Message
-- PAM
-- Pomegranate
 
 ## PN
-- Peter Pan
 - Penis
 - Penny
 - Pornography
-- Pan
-- Pen
 
 ## PO
-- Postman
 - Poop
 - Post Office
 
@@ -2319,38 +2113,28 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 ## QA
 - Quartz
 - Quail (Bird)
-- Quarter
 - Q&A
 - Quazar
 - Quartet
-- Qantas
 
 ## QB
-- Quarterback
-- Cubie
+- None
 
 ## QC
-- Quaich
-- Quick
 - Quinceanera
 
 ## QD
-- Quidditch
 - Qdoba
 - Cutie
-- Quid
 - Quarter Deck
 
 ## QE
 - Qeue
-- Queen
 - Queen Elizabeth
 - Queen of England
 
 ## QF
-- Quake Fiend
 - Quaffle (Harry Potter)
-- Queef
 - Quarteto Fantástico
 
 ## QG
@@ -2366,20 +2150,15 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Quiet!
 
 ## QJ
-- Squeegee
-- QJ puzzle
+- None
 
 ## QK
-- Quark
-- Quick
 - Quaker Oats
 
 ## QL
-- Quail
-- Quill
+- None
 
 ## QM
-- Quail Man
 - Quantum Mechanics
 - Queen Mary
 - Quasimodo (Hunchback)
@@ -2389,15 +2168,12 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Quinn Lewis
 - Harley Quinn
 - Queen
-- Quinoa
 
 ## QO
 - Quotient
 - Qui-Gon Jinn
 
 ## QP
-- Quarter Pounder
-- Quip
 - Quadriplegic
 
 ## QR
@@ -2416,7 +2192,6 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 ## QT
 - Quarantine
 - Quart(dq quart)
-- Quest
 - Cutie
 - Q-Tip
 - Quartz
@@ -2454,12 +2229,9 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 
 ## RB
 - Robocop
-- Rabbit
-- Rub
 - Rhubarb
 - Root Beer
 - Arby's
-- Robot
 
 ## RC
 - Rubik's Cube
@@ -2467,16 +2239,12 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Rack
 - Record (Vinyl)
 - Relic
-- Rice
 
 ## RD
 - Rubber Duckie
 - Road Runner
-- Road
 - Rude
 - Radical
-- Red
-- Rod
 
 ## RE
 - Reaver
@@ -2486,33 +2254,21 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Reese's
 
 ## RF
-- Referee
-- Roof
 - Coral Reef
-- Raft
 - Rift
 - Rough
 
 ## RG
-- Rig
-- Rag
-- Rug
 - Balrog
 
 ## RH
-- Rohan
-- Rowe Hessler
-- Right hand
-- Rhino
+- None
 
 ## RI
 - Riddler
-- Rhino
-- Rice
 - Rig
 
 ## RJ
-- Ron Jeremy
 - Rj Basaline
 - Run-jump
 - RJ45 (Ethernet Cable)
@@ -2520,8 +2276,6 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Re-adjust(ment)
 
 ## RK
-- Rake
-- Rock
 - Rack
 - Rick Astley
 - Ruckus
@@ -2531,40 +2285,30 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Railing
 - Ray Lewis
 - Roller
-- Roll
 - Raleigh
 - Roller Skates
 
 ## RM
 - Rome
 - Ryan Miesel
-- Ram
 - REM
 - Rim
 - CD ROM
-- Rum
 
 ## RN
 - RN (registered nurse)
 - Raisins
-- Run
-- Rain
 - Rondori
 
 ## RO
 - Rook (chess piece)
-- Rope
-- Roe
 - Rock
 
 ## RP
-- Rapper
-- Rip
-- Rope
+- None
 
 ## RQ
 - Raquetball
-- Racquet
 - Rock
 - Request
 
@@ -2611,24 +2355,15 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - None
 
 ## SA
-- Saw
 - Satellite
 - Salvation Army
 - Sexaholics Anonymous
 
 ## SB
-- Submarine
-- Sub
-- Saab
-- Sob
-- Sibling
-- Sabertooth
+- None
 
 ## SC
-- Scorpion
 - Sack
-- Sick
-- Sock
 - South Carolina
 - Soccer
 - Starcraft
@@ -2637,35 +2372,24 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Star Destroyer
 - Scooby Doo
 - San Diego
-- SD card
 - Snare Drum
 - Sand
-- Salad
 - Shard
-- Seed
 - Shed
 - Sled
 
 ## SE
 - Semaphore
-- Semen
-- Sea
 - Special Education
 - Special Edition
 - Sesame Seed
 
 ## SF
 - San Francisco
-- Soft
-- safe
-- sift
 - Surf
 
 ## SG
-- Stargate
-- Segway
-- Soggy
-- Sag
+- None
 
 ## SH
 - Stonehenge [http://en.wikipedia.org/wiki/Stonehenge .]
@@ -2677,91 +2401,65 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 
 ## SI
 - Satellite
-- Sink
-- Silicone
 - Psy
-- Sigh
 
 ## SJ
 - Slim Jim
 - Judge (Social Justice)
-- Steve Jobs
 - Sage
 
 ## SK
-- Skeleton
 - Sick
-- Sack
-- Sock
 - Ski
 - South Korea
 
 ## SL
 - Seal
-- Slime
 - Sly
-- Slippery
 
 ## SM
 - Smoky the Bear
-- Smoke
 - Sam I Am
 - SMH
 - Sum
-- Sims
 - Somber
 - Samoan
-- Samus
 
 ## SN
 - Sonic the Hedgehog
-- Sun
 - Son
-- Sand
 - Sans serif
 - Sin
 - Snow
-- Snail
 - Snare (drum)
 
 ## SO
-- Sofa
-- Soap
-- Soda
 - ISO
 - Soft
 - sold
 
 ## SP
 - Spaghetti
-- Sap
 - Sop
-- Sip
 - 'Sup
 - Soap
 
 ## SQ
 - Square-1
-- Squirrel
 - Squeal
 - Squawk
-- Squirt
-- Sasquatch
 - Squan
 
 ## SR
 - Sarah Conner
-- Syringe
 - Senior
 - Sire
 - Sarah Strong
-- Soar
 - Nathan Soria
 - Sear
 - Star
 - Stear
 - Steer
-- Sir
 - Sriracha
 
 ## ST
@@ -2805,19 +2503,12 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - None
 
 ## TA
-- Tank
 - Taco
 - Talk
 - Take
 - Taste
 
 ## TB
-- Tab
-- Table
-- Tub
-- Tuba
-- Tube
-- Tuberculosis
 - Tiber R.
 - Time-bomb
 
@@ -2825,46 +2516,27 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - The Tick
 - TC taco
 - Tic
-- Taco
 - Tic Tac
 - Tick
 - Tact
 - TPC
 
 ## TD
-- Toad
 - Toydarian
-- Ted
-- Tadpole
 - Tod
-- Teddy Bear
 
 ## TE
 - Tent
-- Telephone
-- Tea
-- Teen
-- Tee
 
 ## TF
-- Tie Fighter
-- Taffy
-- Transformer
 - The F***?
 - Tiff
-- Tiffany
 - Tough
 
 ## TG
-- Tiger
-- Tigger
-- Trigger
-- Tug
-- Tag
 - [https://www.speedsolving.com/wiki/index.php/2-Gen 2-Gen]
 
 ## TH
-- Thor
 - Thong
 - Thought
 - th HTML tag
@@ -2872,43 +2544,28 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 ## TI
 - Tire
 - TIE fighter
-- Tile
 
 ## TJ
-- Trojan horse
-- Thomas Jefferson
 - Tejon Ranch
 
 ## TK
-- Truck
-- Tack
+- None
 
 ## TL
-- Turtle
 - Tail (Goku)
 - Troll
-- Tall
 - Toll
-- Till
-- Trill
-- Tell
-- Table
 
 ## TM
-- Timpani
 - Tinman
-- Trademark
 - Tingman
 
 ## TN
 - Tinman
 - TNT (dynamite)
 - Tamil Nadu
-- Tan
 - 10
-- Tin
 - Tint
-- Taunt
 - Ton
 
 ## TO
@@ -2920,28 +2577,17 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Tot
 
 ## TP
-- Toilet Paper
-- Tap
 - TP (native Americans)
 - Top
-- Tip
 - TPC
 
 ## TQ
-- Tack
-- Taqueria
-- Tequila
-- Taquitos
+- None
 
 ## TR
 - Bear trap
-- Tree
-- Tarantula
 - Trouble
-- Trap
 - Treble
-- Troll
-- Train
 - Tire
 
 ## TS
@@ -2949,9 +2595,7 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Tassle
 - Lady TSunade
 - Salt (table salt)
-- Tsunami
 - Tishira
-- Toast
 
 ## TU
 - Tutu (a ballerina)
@@ -2983,22 +2627,17 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 ## UA
 - United Airlines
 - Under Armour shirt
-- Unarmed
 - USA
 
 ## UB
-- U-boat
-- Umbrella
-- Usain Bolt
+- None
 
 ## UC
-- Unicorn
 - University of California
 - UCLA
 
 ## UD
-- Udder
-- Under
+- None
 
 ## UE
 - Ukelele instrument
@@ -3008,7 +2647,6 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Ufffff!
 
 ## UG
-- Ugly
 - Uggs
 - Eugene
 
@@ -3018,8 +2656,7 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Uhaul
 
 ## UI
-- Unicycle
-- User Interface
+- None
 
 ## UJ
 - None
@@ -3030,49 +2667,38 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Ukraine
 
 ## UL
-- Unlucky
-- Ulysses S. Grant
+- None
 
 ## UM
-- Umbrella
 - Umm…
 
 ## UN
 - Uno (card game)
 - Universe
 - University
-- Underwear
 
 ## UO
 - Ambiguously gay duo
 - Yugi-Oh
-- Duo
 
 ## UP
-- UPS truck
 - Uplifting
 
 ## UQ
 - None
 
 ## UR
-- Urine
 - Your
 - You are
 
 ## US
 - United States
-- Zeus
 - Us
-- Use
 - Usurp
-- Uncle Sam
 
 ## UT
 - Ultra Terminator (T1000)
-- Undertaker
 - Utility
-- Utah
 - Utter
 
 ## UV
@@ -3096,46 +2722,34 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 
 ## VA
 - Prince Valium (Spaceballs)
-- Vagina
-- Vaporise
 - Vermont
 - V8
 
 ## VB
-- Volleyball
+- None
 
 ## VC
-- Vacuum
-- V-Cube
+- None
 
 ## VD
-- Video
-- voodoo
+- None
 
 ## VE
-- Vending machine
 - Vent
 - Vermillion
 
 ## VF
-- Venus Flytrap
 - Vafers
 
 ## VG
-- Vegas
 - Virgin
-- Vagina
 - Vegetables
 
 ## VH
-- Van Helsing
 - VHLS
-- Van Halen
 - VHS Tape
-- Vehicle
 
 ## VI
-- Visor
 - Visa
 
 ## VJ
@@ -3143,12 +2757,9 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - VGJ
 
 ## VK
-- Viking
 - Weak
 
 ## VL
-- Vial
-- Valve
 - Vile
 - Vole
 
@@ -3156,43 +2767,30 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Venom (Spiderman)
 - Vroom
 - Vermont
-- Vomit
-- Vending Machine
 
 ## VN
 - Vogon (H2G2)
-- Violin
-- Van
 - Vons
 
 ## VO
-- Volcano
+- None
 
 ## VP
-- Vampire
-- Vape
-- VIP
+- None
 
 ## VQ
-- Ventriloquist
 - Evacuation
 
 ## VR
-- Virtual Reality
 - ...
 
 ## VS
-- Vase
-- Vise
+- None
 
 ## VT
-- Vault
-- Vat
-- Vet
-- Vote
+- None
 
 ## VU
-- Vulture
 - ...
 
 ## VW
@@ -3211,33 +2809,24 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - None
 
 ## WA
-- Whale
 - Water
 - Wallaby
 - ...
 
 ## WB
-- Web
 - Wobbuffet (Pokemon)
-- Warner Bros
 
 ## WC
-- Witch
 - WC schools
 - WIC
-- Whack
 - Bathroom
 
 ## WD
-- Weed
-- WD-40
-- Wood
 - Wad
 - Wedding Dress
 
 ## WE
-- Welder
-- Weed
+- None
 
 ## WF
 - Warf (Startrek)
@@ -3245,21 +2834,15 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Water Fall
 - WTF
 - 3x3 With Feet
-- Waffle
 
 ## WG
-- Wig
 - Wog
-- Wag
 
 ## WH
-- Whip
 - Wheat
 - Whistle
 
 ## WI
-- Wine
-- Wire
 - Wisconsin
 - Wierd
 - Nintendo Wii
@@ -3270,24 +2853,16 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - ...
 
 ## WK
-- Wok
 - Wikipedia (Logo)
-- Wookie
 - ...
 
 ## WL
-- Wall
-- Well
-- Will
+- None
 
 ## WM
 - Wal-mart
-- Worm
-- Watermelon
 
 ## WN
-- Window
-- Win
 - Won
 
 ## WO
@@ -3296,40 +2871,27 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 
 ## WP
 - Weapons
-- Weep
 - Whap
-- Whip
 
 ## WQ
-- Wicker
-- Watch
+- None
 
 ## WR
-- Wizard
-- War
-- World Record
-- Wrench
+- None
 
 ## WS
-- Walrus
-- Wuss
 - With Salt
-- Wasabi
 
 ## WT
-- Water Tower
-- Water
 - Weights
 
 ## WU
 - Worm-tongue (wurm)
-- Wu-Tang Clan
 - ...
 
 ## WV
 - Weaver
 - Winter Variation
-- Wave
 
 ## WX
 - Wax
@@ -3343,7 +2905,6 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 
 ## XA
 - A-team (Mr. T)
-- Electrocuted Alligator
 - Angel (X-Men)
 - Xanax
 
@@ -3359,7 +2920,6 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Cross Country
 - X-cube
 - X-acto
-- XCross
 
 ## XD
 - Electrocuted Diglett
@@ -3367,9 +2927,7 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - Emoticon
 
 ## XE
-- Electric eel
 - Electrocuted Eel
-- Xenon
 
 ## XF
 - Electrocuted Fox
@@ -3382,12 +2940,10 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - ...
 
 ## XH
-- Helicopter
 - Electrocuted Hitler
 - ...
 
 ## XI
-- Xylophone
 - Electrocuted Ivysaur
 - XingYu
 - Iceman (X-men)
@@ -3407,7 +2963,6 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 
 ## XL
 - Electrocuted Lapras
-- Extra Large
 
 ## XM
 - Magneto (X-men)
@@ -3417,7 +2972,6 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 
 ## XN
 - Night Crawler (X-men)
-- Xanax
 - Christian
 
 ## XO
@@ -3427,7 +2981,6 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 ## XP
 - Python
 - Electrocuted Pikachu
-- Windows XP
 
 ## XQ
 - Quasar
@@ -3437,15 +2990,11 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - XiangQi (board game)
 
 ## XR
-- Rogue (X-men)
 - Electrocuted Riachu
-- X-ray
 - X rating
 
 ## XS
-- Spiderman
 - Electrocuted Snorlax
-- Spider
 - ...
 
 ## XT
@@ -3466,7 +3015,6 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 
 ## XW
 - Wolverine (X-men)
-- Electrocuted Whale
 - Crossword
 - X-Wing (star wars)
 
@@ -3480,70 +3028,83 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - None
 
 ## YB
-- None
+- Yearbook
 
 ## YC
-- None
+- YC
+- YmCa
 
 ## YD
-- None
+- Yield (sign)
+- Yard
 
 ## YE
-- None
+- Yankees
 
 ## YF
-- None
+- Yellow Fever
+- Yiff
 
 ## YG
-- None
+- Yogurt
+- Yoga
 
 ## YH
-- None
+- Yahoo
+- Yamaha
 
 ## YI
-- None
+- Yeti
+- Yoshi
 
 ## YJ
-- None
+- YJ
+- Yellowjacket (insect)
 
 ## YK
-- None
+- Yankees
+- Yukon (Canadian territory)
 
 ## YL
-- None
+- Yield (sign)
 
 ## YM
-- None
+- Yamaha
 
 ## YN
-- None
+- Yen (Japanese currency)
+- Yuan (Chinese currency)
 
 ## YO
-- None
+- Yo-Yo
 
 ## YP
-- None
+- YP
+- Yep
 
 ## YQ
-- None
+- YQ
 
 ## YR
-- None
+- Yarn
+- Yard
 
 ## YS
-- None
+- Yellowstone (National Park)
+- Yard sale
 
 ## YT
 - None
 
 ## YU
-- None
+- YU
+- You
 
 ## YV
-- None
+- YV
 
 ## YW
-- None
+- Yellow
 
 ## YX
 - None
@@ -3555,52 +3116,68 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - None
 
 ## ZB
-- None
+- Zebra
+- Zak Bagans
+- Zimbabwe
+- ZB method
 
 ## ZC
-- None
+- Zucchini
+- Zinc
+- Zanchi
 
 ## ZD
-- None
+- Zelda
 
 ## ZE
-- None
+- Zeus
 
 ## ZF
-- None
+- ZF
 
 ## ZG
-- None
+- Zig-Zag
 
 ## ZH
-- None
+- ZH
+- Chinese (language code)
 
 ## ZI
-- None
+- Zucchini
+- Zit
 
 ## ZJ
-- None
+- Zildjian (cymbal manufacturer)
 
 ## ZK
-- None
+- ZK
 
 ## ZL
-- None
+- Zillo (magazine)
+- Zillo (Star Wars)
+- Zales
 
 ## ZM
-- None
+- Zimbabwe
+- Zimmer (German: room)
+- Zombie
 
 ## ZN
-- None
+- Zen
 
 ## ZO
-- None
+- Zozo (demon)
+- Zillo (magazine)
+- Zillo (star wars)
 
 ## ZP
-- None
+- Zipper
+- Zapper (video-game character)
+- Zippo (lighter)
+- Z-perm
 
 ## ZQ
-- None
+- ZQ
 
 ## ZR
 - None
@@ -3609,20 +3186,333 @@ For blind pair solving with the cubing community, use pairs from A-X (see pairs.
 - None
 
 ## ZT
-- None
+- ZT
+- Z3 cubing
 
 ## ZU
-- None
+- ZU
 
 ## ZV
-- None
+- ZV
 
 ## ZW
-- None
+- Zimbabwe
 
 ## ZX
 - None
 
 ## ZY
+- None
+
+## chA
+- None
+
+## chB
+- None
+
+## chC
+- None
+
+## chD
+- None
+
+## chE
+- None
+
+## chF
+- None
+
+## chG
+- None
+
+## chH
+- None
+
+## chI
+- None
+
+## chJ
+- None
+
+## chK
+- None
+
+## chL
+- None
+
+## chM
+- None
+
+## chN
+- None
+
+## chO
+- None
+
+## chP
+- None
+
+## chQ
+- None
+
+## chR
+- None
+
+## chS
+- None
+
+## chT
+- None
+
+## chU
+- None
+
+## chV
+- None
+
+## chW
+- None
+
+## chX
+- None
+
+## chY
+- None
+
+## chZ
+- None
+
+## shA
+- None
+
+## shB
+- None
+
+## shC
+- None
+
+## shD
+- None
+
+## shE
+- None
+
+## shF
+- None
+
+## shG
+- None
+
+## shH
+- None
+
+## shI
+- None
+
+## shJ
+- None
+
+## shK
+- None
+
+## shL
+- None
+
+## shM
+- None
+
+## shN
+- None
+
+## shO
+- None
+
+## shP
+- None
+
+## shQ
+- None
+
+## shR
+- None
+
+## shS
+- None
+
+## shT
+- None
+
+## shU
+- None
+
+## shV
+- None
+
+## shW
+- None
+
+## shX
+- None
+
+## shY
+- None
+
+## shZ
+- None
+
+## stA
+- None
+
+## stB
+- None
+
+## stC
+- None
+
+## stD
+- None
+
+## stE
+- None
+
+## stF
+- None
+
+## stG
+- None
+
+## stH
+- None
+
+## stI
+- None
+
+## stJ
+- None
+
+## stK
+- None
+
+## stL
+- None
+
+## stM
+- None
+
+## stN
+- None
+
+## stO
+- None
+
+## stP
+- None
+
+## stQ
+- None
+
+## stR
+- None
+
+## stS
+- None
+
+## stT
+- None
+
+## stU
+- None
+
+## stV
+- None
+
+## stW
+- None
+
+## stX
+- None
+
+## stY
+- None
+
+## stZ
+- None
+
+## thA
+- None
+
+## thB
+- None
+
+## thC
+- None
+
+## thD
+- None
+
+## thE
+- None
+
+## thF
+- None
+
+## thG
+- None
+
+## thH
+- None
+
+## thI
+- None
+
+## thJ
+- None
+
+## thK
+- None
+
+## thL
+- None
+
+## thM
+- None
+
+## thN
+- None
+
+## thO
+- None
+
+## thP
+- None
+
+## thQ
+- None
+
+## thR
+- None
+
+## thS
+- None
+
+## thT
+- None
+
+## thU
+- None
+
+## thV
+- None
+
+## thW
+- None
+
+## thX
+- None
+
+## thY
+- None
+
+## thZ
 - None
 
