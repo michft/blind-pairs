@@ -3,6 +3,9 @@
 # dependencies
 node_modules/
 
+# Mac crap
+*.DS_Store
+
 # Expo
 .expo/
 dist/
@@ -43,4 +46,4 @@ CODE_REVIEW.md
 .vercel
 
 # Raw data
-# *raw
+*raw
